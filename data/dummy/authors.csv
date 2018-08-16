@@ -1,0 +1,7684 @@
+citeulike_paper_id	author
+42	arita, masanori
+43	csete, marie e.
+43	doyle, john c.
+60	kuhl, patricia k.
+61	sporns, o.
+61	chialvo, d.
+61	kaiser, m.
+61	hilgetag, c.
+62	sporns, olaf
+62	k\\"{o}tter, rolf
+98	kashtan, n.
+98	itzkovitz, s.
+98	milo, r.
+98	alon, u.
+99	watts, duncan j.
+99	strogatz, steven h.
+101	milo, r.
+101	shen-orr, s.
+101	itzkovitz, s.
+101	kashtan, n.
+101	chklovskii, d.
+101	alon, u.
+102	kleinberg, jon m.
+114	brin, sergey
+114	page, lawrence
+122	goh, k. i.
+122	kahng, b.
+122	kim, d.
+123	chung, fan
+123	lu, linyuan
+123	vu, van
+127	menczer, filippo
+128	newman, m. e. j.
+129	amaral, l. a. n.
+129	scala, a.
+129	barth\\'{e}l\\'{e}my, m.
+129	stanley, h. e.
+148	ozbudak, ertugrul m.
+148	thattai, mukund
+148	lim, han n.
+148	shraiman, boris i.
+148	van oudenaarden, alexander
+154	newman, m. e. j.
+154	girvan, m.
+155	newman, m. e. j.
+156	barnard, kobus
+156	duygulu, pinar
+156	forsyth, david
+156	nando, n. d. f.
+156	blei, david m. b.
+156	jordan, michael i. j.
+175	foote, jonathan
+186	you, lingchong
+186	cox, robert sidney s.
+186	weiss, ron
+186	arnold, frances h.
+205	luff, paul
+205	heath, christian
+214	riva, g.
+226	bulter, thomas
+226	lee, sun-gu
+226	wong, wilson w.
+226	fung, eileen
+226	connor, michael r.
+226	liao, james c.
+230	sutton, charles
+230	rohanimanesh, khashayar
+230	mccallum, andrew
+239	yook, soon-hyung
+239	oltvai, zolt\\'{a}n n.
+239	barab\\'{a}si, albert-l\\'{a}szl\\'{o}
+271	kell, d. b.
+306	pritchard, l.
+306	kell, d. b.
+310	tyson, john j.
+310	chen, kathy
+310	novak, bela
+311	elowitz, m. b.
+311	leibler, s.
+448	pirolli, p.
+448	card, s.
+459	spellman, p. t.
+459	miller, m.
+459	stewart, j.
+459	troup, c.
+459	sarkans, u.
+459	chervitz, s.
+459	bernhart, d.
+459	sherlock, g.
+459	ball, c.
+459	lepage, m.
+459	swiatek, m.
+459	marks, w. l.
+459	goncalves, j.
+459	markel, s.
+459	iordan, d.
+459	shojatalab, m.
+459	pizarro, a.
+459	white, j.
+459	hubley, r.
+459	deutsch, e.
+459	senger, m.
+459	aronow, b. j.
+459	robinson, a.
+459	bassett, d.
+459	stoeckert, c. j.
+459	brazma, a.
+487	tallman, irving
+487	leik, robert k.
+487	gray, louis n.
+487	stafford, mark c.
+501	mewes, h. w.
+501	heumann, k.
+501	kaps, a.
+501	mayer, k.
+501	pfeiffer, f.
+501	stocker, s.
+501	frishman, d.
+516	volz, erik
+644	wu, fang
+644	huberman, bernardo a.
+722	nejdl, wolfgang
+722	wolf, boris
+722	qu, changtao
+722	decker, stefan
+722	naeve, michael s. . a. n.
+722	nilsson, mikael
+722	palmer, matthias
+722	risch, tore
+769	strogatz, steven h.
+781	hucka, m.
+781	finney, a.
+781	sauro, h. m.
+781	bolouri, h.
+781	doyle, j. c.
+781	kitano, h.
+781	and the rest of the sbml forum:
+781	arkin, a. p.
+781	bornstein, b. j.
+781	bray, d.
+781	cornish-bowden, a.
+781	cuellar, a. a.
+781	dronov, s.
+781	gilles, e. d.
+781	ginkel, m.
+781	gor, v.
+781	goryanin, i. i.
+781	hedley, w. j.
+781	hodgman, t. c.
+781	hofmeyr, j. h.
+781	hunter, p. j.
+781	juty, n. s.
+781	kasberger, j. l.
+781	kremling, a.
+781	kummer, u.
+781	le nov\\`{e}re, n.
+781	loew, l. m.
+781	lucio, d.
+781	mendes, p.
+781	minch, e.
+781	mjolsness, e. d.
+781	nakayama, y.
+781	nelson, m. r.
+781	nielsen, p. f.
+781	sakurada, t.
+781	schaff, j. c.
+781	shapiro, b. e.
+781	shimizu, t. s.
+781	spence, h. d.
+781	stelling, j.
+781	takahashi, k.
+781	tomita, m.
+781	wagner, j.
+781	wang, j.
+816	gershenson, carlos
+841	alon, u.
+841	surette, m. g.
+841	barkai, n.
+841	leibler, s.
+943	foster, allen
+943	ford, nigel
+1019	nachman, i.
+1019	regev, a.
+1019	friedman, n.
+1021	friedman, nir
+1021	linial, michal
+1021	nachman, iftach
+1021	pe'er, dana
+1022	hartemink, alexander j.
+1022	gifford, david k.
+1022	jaakkola, tommi s.
+1022	young, richard a.
+1023	hartemink, a. j.
+1023	gifford, d. k.
+1023	jaakkola, t. s.
+1023	young, r. a.
+1064	ekin, ahmet
+1064	tekalp, a. murat
+1064	mehrotra, rajiv
+1164	flatt, matthew
+1380	ariola, zena m.
+1380	maraist, john
+1380	odersky, martin
+1380	felleisen, matthias
+1380	wadler, philip
+2100	ideker, trey
+2100	thorsson, vesteinn
+2100	ranish, jeffrey a.
+2100	christmas, rowan
+2100	buhler, jeremy
+2100	eng, jimmy k.
+2100	bumgarner, roger
+2100	goodlett, david r.
+2100	aebersold, ruedi
+2100	hood, leroy
+2118	cowan, robin
+2118	jonard, nicolas
+2837	shaner, nathan c.
+2837	campbell, robert e.
+2837	steinbach, paul a.
+2837	giepmans, ben n. g.
+2837	palmer, amy e.
+2837	tsien, roger y.
+3123	sch\\"arli, nathanael
+3123	ducasse, st\\'ephane
+3123	nierstrasz, oscar
+3123	black, andrew
+3200	lindsay, elizabeth b.
+3271	lawrence, steve
+3271	giles, c. lee
+3298	ungar, david
+3298	chambers, craig
+3298	chang, bay-wei
+3298	holzle, urs
+3450	guha, r.
+3450	kumar, r.
+3450	raghavan, p.
+3450	tomkins, a.
+3521	dey, a.
+3521	salber, d.
+3521	abowd, g.
+3532	lieberman, henry
+3560	cutting, douglass r.
+3560	karger, david r.
+3560	pedersen, jan o.
+3560	tukey, john w.
+3562	fayyad, usama m.
+3562	reina, cory
+3562	bradley, paul s.
+4104	tucker, james c.
+4104	torrence, matt
+4119	walsham, geoff
+4280	cohen, j. e.
+4297	chworos, arkadiusz
+4297	severcan, isil
+4297	koyfman, alexey y.
+4297	weinkam, patrick
+4297	oroudjev, emin
+4297	hansma, helen g.
+4297	jaeger, luc
+4303	karger, david
+4303	lehman, eric
+4303	leighton, tom
+4303	panigrahy, rina
+4303	levine, matthew
+4303	lewin, daniel
+4304	ripeanu, m.
+4448	michael, maged m.
+4448	scott, michael l.
+8851	rao, b.
+8851	parikh, m. a.
+32678	borgatti, s. p.
+32678	foster, p. c.
+45311	institutional, i. m. i. h.
+52185	bennett, sue
+52185	lockyer, lori
+70786	fox, steve
+70816	kieburtz, richard
+71724	floyd, sally
+71724	jacobson, van
+71746	pouwelse, j.
+71746	garbacki, p.
+71746	epema, d.
+71746	sips, h.
+71783	hutton, graham
+71783	meijer, erik
+73383	xu, wei
+73383	gong, yihong
+74514	fradera, x.
+74514	mestres, j.
+76440	farah, m.
+76468	lindorff-larsen, kresten
+76468	best, robert b.
+76468	depristo, mark a.
+76468	dobson, christopher m.
+76468	vendruscolo, michele
+78006	hightower, j.
+78006	brumitt, b.
+78006	borriello, g.
+79158	tambe, m.
+79713	{international hapmap consortium}
+80418	lieberman, erez
+80418	hauert, christoph
+80418	nowak, martin a.
+81500	newman, m. e.
+82207	parkinson, h.
+82207	sarkans, u.
+82207	shojatalab, m.
+82207	abeygunawardena, n.
+82207	contrino, s.
+82207	coulson, r.
+82207	farne, a.
+82207	lara, garcia g.
+82207	holloway, e.
+82207	kapushesky, m.
+82207	lilja, p.
+82207	mukherjee, g.
+82207	oezcimen, a.
+82207	rayner, t.
+82207	rocca-serra, p.
+82207	sharma, a.
+82207	sansone, s.
+82207	brazma, a.
+82216	hamosh, ada
+82216	scott, alan f.
+82216	amberger, joanna s.
+82216	bocchini, carol a.
+82216	mckusick, victor a.
+82275	velankar, s.
+82275	mcneil, p.
+82275	mittard-runte, v.
+82275	suarez, a.
+82275	barrell, d.
+82275	apweiler, r.
+82275	henrick, k.
+82938	steele, guy l.
+83492	lee, wenke
+83492	stolfo, salvatore
+83540	lee, daniel d.
+83540	seung, h. sebastian
+85519	carroll, j. m.
+86440	friesner, richard a.
+86440	banks, jay l.
+86440	murphy, robert b.
+86440	halgren, thomas a.
+86440	klicic, jasna j.
+86440	mainz, daniel t.
+86440	repasky, matthew p.
+86440	knoll, eric h.
+86440	shelley, mee
+86440	perry, jason k.
+86440	shaw, david e.
+86440	francis, perry
+86440	shenkin, peter s.
+86776	rashid, a.
+87024	k\\"{o}rding, konrad p.
+87024	fukunaga, izumi
+87024	howard, ian s.
+87024	ingram, james n.
+87024	wolpert, daniel m.
+87035	moses, alan
+87035	chiang, derek
+87035	kellis, manolis
+87035	lander, eric
+87035	eisen, michael
+90414	wilson, m. a.
+90414	mcnaughton, b. l.
+90415	wilson, m. a.
+90415	mcnaughton, b. l.
+90416	pesaran, bijan
+90416	pezaris, john s.
+90416	sahani, maneesh
+90416	mitra, partha p.
+90416	andersen, richard a.
+90466	pouget, alexandre
+90466	dayan, peter
+90466	zemel, richard s.
+92789	lamport, leslie
+92797	lampson, butler w.
+93116	hansen, gary d.
+93163	nash, john f.
+93166	rubinstein, ariel
+93513	woolfe, adam
+93513	goodson, martin
+93513	goode, debbie k.
+93513	snell, phil
+93513	mcewen, gayle k.
+93513	vavouri, tanya
+93513	smith, sarah f.
+93513	north, phil
+93513	callaway, heather
+93513	kelly, krys
+93513	walter, klaudia
+93513	abnizova, irina
+93513	gilks, walter
+93513	edwards, yvonne j. k.
+93513	cooke, julie e.
+93513	elgar, greg
+94299	huffaker, david a.
+94299	calvert, sandra l.
+94348	thompson, j. d.
+94348	higgins, d. g.
+94348	gibson, t. j.
+94461	falquet, l.
+94461	pagni, m.
+94461	bucher, p.
+94461	hulo, n.
+94461	sigrist, c. j.
+94461	hofmann, k.
+94461	bairoch, a.
+94463	salzberg, s. l.
+94463	delcher, a. l.
+94463	kasif, s.
+94463	white, o.
+94493	dolev, danny
+94493	dwork, cynthia
+94493	stockmeyer, larry
+94495	chandra, tushar d.
+94495	hadzilacos, vassos
+94495	toueg, sam
+95902	kollock, peter
+95939	aaronson, scott
+96165	berg, johannes
+96165	l\\"{a}ssig, michael
+96396	gruber, thomas r.
+96402	andrade, nazareno
+96402	cirne, walfredo
+96402	brasileiro, francisco
+96402	roisenberg, paulo
+97088	candes, emmanuel
+97088	tao, terence
+99601	markus, hazel r.
+99601	kitayama, shinobu
+99888	truccolo, wilson
+99888	eden, uri t.
+99888	fellows, matthew r.
+99888	donoghue, john p.
+99888	brown, emery n.
+99930	eguiluz, victor m.
+99930	chialvo, dante r.
+99930	cecchi, guillermo a.
+99930	baliki, marwan
+99930	apkarian, a. vania
+99931	berners-lee, t.
+99931	hendler, j.
+99931	lassila, o.
+100015	tversky, amos
+100015	kahneman, daniel
+100050	boyapati, chandrasekhar
+100050	liskov, barbara
+100050	shrira, liuba
+100145	obreiter, philipp
+100145	f\\"{a}hnrich, stefan
+100145	nimis, jens
+100166	friedman, nir
+100185	curbera, francisco
+100185	duftler, matthew j.
+100185	khalaf, rania
+100185	nagy, william a.
+100185	mukhi, nirmal k.
+100185	weerawarana, sanjiva
+100219	lansdale, m. w.
+100359	schultz, wolfram
+100476	hu, yih c.
+100476	perrig, adrian
+100476	johnson, david b.
+101942	swan, j.
+101983	guimera, roger
+101983	nunes amaral, luis a.
+103166	ajzen, icek
+103180	benford, robert d.
+103180	snow, david a.
+103243	cleveland, william s.
+103291	goldstein, h.
+103567	laffont, jean j.
+103567	martimort, david
+103573	mueller, dennis
+104275	cowie, jim
+104275	lehnert, wendy
+104324	plotkin, gordon d.
+104354	rao, a.
+104354	ratnasamy, s.
+104354	papadimitriou, c.
+104354	shenker, s.
+104354	stoica, i.
+104769	metzler, donald
+104769	croft, w. bruce
+104811	alonso, fernando
+104811	l\\'{o}pez, genoveva
+104811	manrique, daniel
+104811	vi\\~{n}es, jos\\'{e} m.
+104965	stone, peter
+104965	veloso, manuela m.
+105195	kinjo, akira r r.
+105195	nishikawa, ken
+105205	castro, m.
+105205	druschel, p.
+105205	kermarrec, a.
+105205	nandi, a.
+105205	rowstron, a.
+105205	singh, a.
+105569	eysenck, michael w.
+105569	keane, mark t.
+105594	liaw, meei-ling
+105594	johnson, robert j.
+105835	hyv\\&\\#228;rinen, aapo
+105835	karhunen, juha
+105835	oja, erkki
+105906	manning, christopher d.
+105906	sch\\"{u}tze, hinrich
+106131	wolfram, stephen
+106318	nunez, paul l.
+106318	srinivasan, ramesh
+106560	weber, steven
+106572	castells, manuel
+106629	statnikov, alexander
+106629	aliferis, constantin f.
+106629	tsamardinos, ioannis
+106629	hardin, douglas
+106629	levy, shawn
+106735	nasipuri, a.
+106735	das, s. r.
+106736	perkins, charles e.
+106736	bhagwat, pravin
+107519	paolucci, massimo
+107519	kawamura, takahiro
+107519	payne, terry r.
+107519	sycara, katia
+108491	broch, josh
+108491	maltz, david a.
+108491	johnson, david b.
+108491	hu, yih c.
+108491	jetcheva, jorjeta
+109109	huttenlocher, d.
+109109	klanderman, g.
+109109	rucklidge, w.
+109748	agrawal, rakesh
+109748	gehrke, johannes
+109748	gunopulos, dimitrios
+109748	raghavan, prabhakar
+109791	dhillon, inderjit s.
+109791	mallela, subramanyam
+109791	modha, dharmendra s.
+109806	florescu, daniela
+109806	levy, alon y.
+109806	mendelzon, alberto o.
+109996	pollack, jonathan r.
+109996	perou, charles m.
+109996	alizadeh, ash a.
+109996	eisen, michael b.
+109996	pergamenschikov, alexander
+109996	williams, cheryl f.
+109996	jeffrey, stefanie s.
+109996	botstein, david
+109996	brown, patrick o.
+110014	tamayo, pablo
+110014	slonim, donna
+110014	mesirov, jill
+110014	zhu, qing
+110014	kitareewan, sutisak
+110014	dmitrovsky, ethan
+110014	lander, eric s.
+110014	golub, todd r.
+110425	{government, d. i.}
+111657	jansen, bernard j.
+111657	spink, amanda
+111657	bateman, judy
+111657	saracevic, tefko
+111761	borner, k.
+111761	chen, c.
+111761	boyack, k.
+112856	deutsch, l. peter
+112856	schiffman, allan m.
+112873	bejerano, gill
+112873	haussler, david
+112873	blanchette, mathieu
+112877	margulies, elliott h.
+112877	blanchette, mathieu
+112877	nisc comparative sequencing program
+112877	haussler, david
+112877	green, eric d.
+113339	milner, robin
+113339	tofte, mads
+113339	harper, robert
+113339	macqueen, david
+113926	g{\\"a}rtner, thomas
+113948	birman, k.
+113948	joseph, t.
+114027	comon, pierre
+114040	hyv\\"{a}rinen, aapo
+114040	oja, erkki
+114177	papert, seymour
+114190	goldberg, d. e.
+114194	holland, john
+114199	hardin, garrett
+114704	michalet, x.
+114704	pinaud, f. f.
+114704	bentolila, l. a.
+114704	tsay, j. m.
+114704	doose, s.
+114704	li, j. j.
+114704	sundaresan, g.
+114704	wu, a. m.
+114704	gambhir, s. s.
+114704	weiss, s.
+114954	curtis, bill
+114954	keller, marc i.
+114954	over, jim
+114960	fowler, martin
+115003	sirin, evren
+115003	parsia, bijan
+115003	wu, dan
+115003	hendler, james
+115003	nau, dana
+115155	alonso, gustavo
+115155	casati, fabio
+115155	kuno, harumi
+115155	machiraju, vijay
+115168	gerstein, m.
+115168	lesk, a.
+115168	chothia, c.
+115283	dennett, daniel c.
+115371	shang, y.
+115371	ruml, w.
+115371	zhang, y.
+115371	fromherz, m.
+115458	fayyad, u. m.
+115458	irani, k. b.
+115575	kalman, r. e.
+115578	quinlan, j. r.
+115613	wainwright, m. j.
+115613	jordan, m. i.
+115640	tibshirani, r.
+115652	neal, r. m.
+115652	hinton, g. e.
+115676	breiman, l.
+115676	friedman, j. h.
+115676	olshen, r. a.
+115676	stone, c. i.
+115695	benjamini, y.
+115695	hochberg, y.
+115711	malouf, r.
+115751	breiman, l.
+115777	mccallum, a.
+115777	nigam, k.
+115791	neal, r. m.
+115830	buntine, w.
+115881	bollen, johan
+115881	van de sompel, herbert
+115881	smith, joan
+115881	luce, rick
+116378	skog, t.
+116378	ljungblad, s.
+116378	holmquist, l.
+116388	jackman, simon
+117555	zeng, q.
+117555	kogan, s.
+117555	ash, n.
+117555	greenes, r. a.
+117555	boxwala, a. a.
+118608	meijias, ulises
+118690	dujon, bernard
+118690	sherman, david
+118690	fischer, gilles
+118690	durrens, pascal
+118690	casaregola, serge
+118690	lafontaine, ingrid
+118690	de montigny, jacky
+118690	marck, christian
+118690	neuv\\'{e}glise, c\\'{e}cile
+118690	talla, emmanuel
+118690	goffard, nicolas
+118690	frangeul, lionel
+118690	aigle, michel
+118690	anthouard, v\\'{e}ronique
+118690	babour, anna
+118690	barbe, val\\'{e}rie
+118690	barnay, st\\'{e}phanie
+118690	blanchin, sylvie
+118690	beckerich, jean-marie m.
+118690	beyne, emmanuelle
+118690	bleykasten, claudine
+118690	boisram\\'{e}, anita
+118690	boyer, jeanne
+118690	cattolico, laurence
+118690	confanioleri, fabrice
+118690	de daruvar, antoine
+118690	despons, laurence
+118690	fabre, emmanuelle
+118690	fairhead, c\\'{e}cile
+118690	ferry-dumazet, h\\'{e}l\\`{e}ne
+118690	groppi, alexis
+118690	hantraye, florence
+118690	hennequin, christophe
+118690	jauniaux, nicolas
+118690	joyet, philippe
+118690	kachouri, rym
+118690	kerrest, alix
+118690	koszul, romain
+118690	lemaire, marc
+118690	lesur, isabelle
+118690	ma, laurence
+118690	muller, h\\'{e}lo\\"{i}se
+118690	nicaud, jean-marc m.
+118690	nikolski, macha
+118690	oztas, sophie
+118690	ozier-kalogeropoulos, odile
+118690	pellenz, stefan
+118690	potier, serge
+118690	richard, guy-franck f.
+118690	straub, marie-laure l.
+118690	suleau, audrey
+118690	swennen, dominique
+118690	tekaia, fredj
+118690	w\\'{e}solowski-louvel, micheline
+118690	westhof, eric
+118690	wirth, b\\'{e}n\\'{e}dicte
+118690	zeniou-meyer, maria
+118690	zivanovic, ivan
+118690	bolotin-fukuhara, monique
+118690	thierry, agn\\`{e}s
+118690	bouchier, christiane
+118690	caudron, bernard
+118690	scarpelli, claude
+118690	gaillardin, claude
+118690	weissenbach, jean
+118690	wincker, patrick
+118690	souciet, jean-luc l.
+118691	eddy, sean r.
+118692	eddy, s. r.
+118693	eddy, s. r.
+118693	durbin, r.
+118699	flamm, c.
+118699	hofacker, i. l.
+118699	maurer-stroh, s.
+118699	stadler, p. f.
+118699	zehl, m.
+118725	hofacker, i. l.
+118725	priwitzer, b.
+118725	stadler, p. f.
+118737	kapranov, philipp
+118737	cawley, simon e.
+118737	drenkow, jorg
+118737	bekiranov, stefan
+118737	strausberg, robert l.
+118737	fodor, stephen p. a.
+118737	gingeras, thomas r.
+118738	kellis, manolis
+118738	patterson, nick
+118738	endrizzi, matthew
+118738	birren, bruce
+118738	lander, eric s.
+118739	kellis, manolis
+118739	birren, bruce w.
+118739	lander, eric s.
+118757	lowe, t. m.
+118757	eddy, s. r.
+118759	lyngso, rune b.
+118759	pedersen, christian n. s.
+118767	mathews, d. h.
+118786	nussinov, r.
+118786	jacobson, a. b.
+118801	rivas, elena
+118801	eddy, sean r.
+118802	rivas, e.
+118802	eddy, s. r.
+118803	rivas, e.
+118803	klein, r. j.
+118803	jones, t. a.
+118803	eddy, s. r.
+118842	workman, c.
+118842	krogh, a.
+119509	sandholm, tuomas w.
+120137	uschold, mike
+120137	jasper, robert
+120141	mccaskill, j. s.
+121025	tversky, a.
+121079	carzaniga, antonio
+121079	rosenblum, david s.
+121079	wolf, alexander l.
+121098	faloutsos, michalis
+121098	faloutsos, petros
+121098	faloutsos, christos
+121161	milojicic, dejan s.
+121161	kalogeraki, vana
+121161	lukose, rajan
+121161	nagaraja, kiran
+121161	pruyne, jim
+121161	richard, bruno
+121161	rollins, sami
+121161	xu, zhichen
+121192	rada, roy
+121192	mili, hafedh
+121192	bicknell, ellen
+121192	blettner, maria
+121196	ratnasamy, sylvia
+121196	francis, paul
+121196	handley, mark
+121196	karp, richard
+121196	shenker, scott
+121199	reynolds, craig w.
+121209	saroiu, stefan
+121209	gummadi, krishna p.
+121209	dunn, richard j.
+121209	gribble, steven d.
+121209	levy, henry m.
+121542	sebrechts, m.
+121542	vasilakis, joanna
+121542	miller, michael s.
+121542	cugini, john v.
+121542	laskowski, sharon j.
+121580	parnas, david l.
+121580	clements, paul c.
+121608	rosch, e.
+121779	maedche, a.
+121779	motik, b.
+121779	stojanovic, l.
+121779	studer, r.
+121779	volz, r.
+121870	jaynes, e. t.
+122299	berliner, b.
+123095	boolos, george
+123095	jeffrey, richard
+123644	harel, d.
+123866	kleene, s. c.
+123906	kripke, saul a.
+125979	holland, john h.
+126681	tufte, edward r.
+127079	ginalski, krzysztof
+127079	elofsson, arne
+127079	fischer, daniel
+127079	rychlewski, leszek
+128099	friston, k. j.
+128099	mechelli, a.
+128099	turner, r.
+128099	price, c. j.
+128240	mariette, m. r.
+128240	michael, m. a.
+128240	jesse, j. t.
+128240	alexander, a. j.
+128303	brazhnik, p.
+128303	de la, a. d. l.
+128303	mendes, p.
+128334	gene, g. o.
+128343	d'haeseleer, p.
+128343	liang, s.
+128343	somogyi, r.
+128350	davidson, e. h.
+128350	rast, j. p.
+128350	oliveri, p.
+128350	ransick, a.
+128350	calestani, c.
+128350	yuh, c. h.
+128350	minokawa, t.
+128350	amore, g.
+128350	hinman, v.
+128350	mena, c. arenas
+128350	otim, o.
+128350	brown, c. t.
+128350	livi, c. b.
+128350	lee, p. y.
+128350	revilla, r.
+128350	rust, a. g.
+128350	pan, z.
+128350	schilstra, m. j.
+128350	clarke, p. j.
+128350	arnone, m. i.
+128350	rowen, l.
+128350	cameron, r. a.
+128350	mcclay, d. r.
+128350	hood, l.
+128350	bolouri, h.
+128354	derisi, j. l.
+128354	iyer, v. r.
+128354	brown, p. o.
+128391	eisenberg, d.
+128391	marcotte, e. m.
+128391	xenarios, i.
+128391	yeates, t. o.
+128425	gao, f.
+128425	foat, b. c.
+128425	bussemaker, h. j.
+128429	gasch, a. p.
+128429	spellman, p. t.
+128429	kao, c. m.
+128429	harel, o. carmel
+128429	eisen, m. b.
+128429	storz, g.
+128429	botstein, d.
+128429	brown, p. o.
+128436	ge, h.
+128436	liu, z.
+128436	church, g. m.
+128436	vidal, m.
+128478	ghaemmaghami, s.
+128478	huh, w. k.
+128478	bower, k.
+128478	howson, r. w.
+128478	belle, a.
+128478	dephoure, n.
+128478	o'shea, e. k.
+128478	weissman, j. s.
+128479	guri, g.
+128479	angela, a. m.
+128479	li, l.
+128479	carla, c.
+128479	linda, l.
+128479	steeve, s.
+128479	sally, s.
+128479	ankuta, a. l.
+128479	keith, k.
+128479	bruno, b.
+128479	adam, a. p.
+128479	anna, a.
+128479	mohamed, m. e.
+128479	rhonda, r.
+128479	rocio, r.
+128479	sophie, s.
+128479	stefano, s.
+128479	matt, m.
+128479	karen, k.
+128479	adam, a.
+128479	karl, k. d.
+128479	patrick, p.
+128479	francoise, f.
+128479	david, d. j.
+128479	mark, m.
+128479	deanna, d.
+128479	ulrich, u.
+128479	johannes, j. h.
+128479	svenja, s.
+128479	zelek, z.
+128479	daniel, d. f.
+128479	diane, d. e.
+128479	steven, s. l.
+128479	peter, p.
+128479	darlene, d.
+128479	david, d. c.
+128479	ning, n.
+128479	hong, h.
+128479	hong, h.
+128479	lucy, l.
+128479	chuanyun, c.
+128479	marc, m.
+128479	rong, r.
+128479	patrice, p.
+128479	siew, s. l.
+128479	jose, j. l.
+128479	christopher, c. j.
+128479	matthias, m.
+128479	petra, p. r.
+128479	bart, b.
+128479	greg, g.
+128479	brenda, b.
+128479	daniel, d. d.
+128479	sharon, s. s.
+128479	reginald, r. k.
+128479	jeffrey, j. n.
+128479	giorgio, g.
+128479	marleen, m.
+128479	guido, g.
+128479	ching, c. y.
+128479	teresa, t. r.
+128479	julie, j.
+128479	elizabeth, e. a.
+128479	yonghong, y.
+128479	grace, g.
+128479	elaine, e.
+128479	kexin, k.
+128479	howard, h.
+128479	jef, j. d.
+128479	michael, m.
+128479	peter, p.
+128479	ronald, r. w.
+128479	mark, m.
+128483	goffeau, a.
+128483	barrell, b. g.
+128483	bussey, h.
+128483	davis, r. w.
+128483	dujon, b.
+128483	feldmann, h.
+128483	galibert, f.
+128483	hoheisel, j. d.
+128483	jacq, c.
+128483	johnston, m.
+128483	louis, e. j.
+128483	mewes, h. w.
+128483	murakami, y.
+128483	philippsen, p.
+128483	tettelin, h.
+128483	oliver, s. g.
+128554	ideker, t.
+128554	galitski, t.
+128554	hood, l.
+128558	trey, t.
+128558	douglas, d.
+128561	farren, f. j.
+128561	jeff, j.
+128561	charles, c. r.
+128561	collins, j. j.
+128570	ronald, r.
+128570	dov, d.
+128570	mark, m.
+128640	landgraf, r.
+128640	xenarios, i.
+128640	eisenberg, d.
+128668	liao, j. c.
+128668	boscolo, r.
+128668	yang, y. l.
+128668	tran, l. m.
+128668	sabatti, c.
+128668	roychowdhury, v. p.
+128690	mangan, s.
+128690	alon, u.
+128746	romualdo, r. p.
+128746	eric, e.
+128746	ricard, r. v.
+128750	perrin, b. e.
+128750	ralaivola, l.
+128750	mazurie, a.
+128750	bottani, s.
+128750	mallet, j.
+128750	buc, f. d'alche
+128757	pritsker, m.
+128757	liu, y. c.
+128757	beer, m. a.
+128757	tavazoie, s.
+128766	quackenbush, j.
+128770	reboul, j.
+128770	vaglio, p.
+128770	rual, j. f.
+128770	lamesch, p.
+128770	martinez, m.
+128770	armstrong, c. m.
+128770	li, s.
+128770	jacotot, l.
+128770	bertin, n.
+128770	janky, r.
+128770	moore, t.
+128770	hudson, j.
+128770	hartley, j. l.
+128770	brasch, m. a.
+128770	vandenhaute, j.
+128770	boulton, s.
+128770	endress, g. a.
+128770	jenna, s.
+128770	chevet, e.
+128770	papasotiropoulos, v.
+128770	tolias, p. p.
+128770	ptacek, j.
+128770	snyder, m.
+128770	huang, r.
+128770	chance, m. r.
+128770	lee, h.
+128770	stamm, l. doucette
+128770	hill, d. e.
+128770	vidal, m.
+128773	ren, b.
+128773	robert, f.
+128773	wyrick, j. j.
+128773	aparicio, o.
+128773	jennings, e. g.
+128773	simon, i.
+128773	zeitlinger, j.
+128773	schreiber, j.
+128773	hannett, n.
+128773	kanin, e.
+128773	volkert, t. l.
+128773	wilson, c. j.
+128773	bell, s. p.
+128773	young, r. a.
+128791	salgado, h.
+128791	castro, s. gama
+128791	antonio, a. martinez
+128791	peredo, e. diaz
+128791	solano, f. sanchez
+128791	gil, m. peralta
+128791	alonso, d. garcia
+128791	jacinto, v. jimenez
+128791	zavaleta, a. santos
+128791	martinez, c. bonavides
+128791	vides, j. collado
+128799	schena, m.
+128799	shalon, d.
+128799	heller, r.
+128799	chai, a.
+128799	brown, p. o.
+128799	davis, r. w.
+128811	segal, e.
+128811	yelensky, r.
+128811	koller, d.
+128818	setty, y.
+128818	mayo, a. e.
+128818	surette, m. g.
+128818	alon, u.
+128819	shannon, p.
+128819	markiel, a.
+128819	ozier, o.
+128819	baliga, n. s.
+128819	wang, j. t.
+128819	ramage, d.
+128819	amin, n.
+128819	schwikowski, b.
+128819	ideker, t.
+128876	tegner, j.
+128876	yeung, m. k.
+128876	hasty, j.
+128876	collins, j. j.
+128893	tsai, j.
+128893	taylor, r.
+128893	chothia, c.
+128893	gerstein, m.
+128931	wall, d. p.
+128931	fraser, h. b.
+128931	hirsh, a. e.
+128968	zhu, h.
+128968	bilgin, m.
+128968	bangham, r.
+128968	hall, d.
+128968	casamayor, a.
+128968	bertone, p.
+128968	lan, n.
+128968	jansen, r.
+128968	bidlingmaier, s.
+128968	houfek, t.
+128968	mitchell, t.
+128968	miller, p.
+128968	dean, r. a.
+128968	gerstein, m.
+128968	snyder, m.
+129007	amari, shun i.
+129008	amari, shun i.
+129008	wu, si
+129019	marcotte, edward m.
+129019	pellegrini, matteo
+129019	ng, ho l.
+129019	rice, danny w.
+129019	yeates, todd o.
+129019	eisenberg, david
+129026	leslie, christina
+129026	eskin, eleazar
+129026	noble, william s.
+129029	furey, terrence s.
+129029	duffy, nigel
+129029	cristianini, nello
+129029	bednarski, david
+129029	schummer, michel
+129029	haussler, david
+129038	hur, asa b.
+129038	horn, david
+129038	siegelmann, hava t.
+129038	vapnik, vladimir
+129039	lodhi, huma
+129039	taylor, john s.
+129039	cristianini, nello
+129039	watkins, christopher j. c. h.
+129085	barab{\\'a}si, albert l.
+129085	ravasz, erzsebet
+129100	wahba, g.
+129118	jolliffe, i.
+129240	sambrook, j.
+129240	fritsch, e. f.
+129240	maniatis, t.
+129291	mnaimneh, sanie
+129291	davierwala, armaity p.
+129291	haynes, jennifer
+129291	moffat, jason
+129291	peng, wen t.
+129291	zhang, wen
+129291	yang, xueqi
+129291	pootoolal, jeff
+129291	chua, gardon
+129291	lopez, andres
+129291	trochesset, miles
+129291	morse, darcy
+129291	krogan, nevan j.
+129291	hiley, shawna l.
+129291	li, zhijian
+129291	morris, quaid
+129291	grigull, jorg
+129291	mitsakakis, nicholas
+129291	roberts, christopher j.
+129291	greenblatt, jack f.
+129291	boone, charles
+129291	kaiser, chris a.
+129291	andrews, brenda j.
+129291	hughes, timothy r.
+129335	snowden, david
+129356	witten, ian h.
+129356	witten, ian h.
+129356	moffat, alistair
+129356	bell, timothy c.
+129936	carslaw, h. s.
+129936	jaeger, j. c.
+130030	allen, m. p.
+130030	tildesley, d. j.
+130273	naphade, milind r.
+130273	smith, john r.
+130315	bryant, randal e.
+130783	isaacs, farren j.
+130783	dwyer, daniel j.
+130783	ding, chunming
+130783	pervouchine, dmitri d.
+130783	cantor, charles r.
+130783	collins, james j.
+131324	cristian, flavin
+131662	edelstein-keshet, leah
+132329	backus, j.
+132420	cummins, r.
+132451	feldman, j. a.
+132451	ballard, d. h.
+132637	mcculloch, w. s.
+132637	pitts, w. h.
+133546	abadi, mart\\'\\in
+133546	cardelli, luca
+133546	curien, pierre-louis
+133546	l\\`evy, jean-jacques
+134382	minka, t. p.
+134409	daubin, v.
+134409	gouy, m.
+134409	perri\\`{e}re, g.
+134506	levine, a.
+134506	prevelakis, v.
+134506	ioannidis, j.
+134506	ioannidis, s.
+134506	keromytis, a.
+135035	baldwin, c.
+135987	pahl, g.
+135987	beitz, w.
+136219	steels, l.
+136259	tannenbaum, a.
+136459	zhou, k.
+136459	doyle, j.
+136459	glover, k.
+136480	hearst, marti a.
+136480	altman, russ b.
+136480	schwartz, ariel s.
+136480	bhalotia, gaurav
+136480	oliver, diane e.
+136504	milner, r.
+136656	shatkay, hagit
+136656	feldman, ronen
+137270	zhou, guodong
+137270	zhang, jie
+137270	su, jian
+137270	shen, dan
+137270	tan, chewlim
+139333	walker, david
+139333	crary, karl
+139333	morrisett, greg
+139500	lu, h.
+139500	lu, l.
+139500	skolnick, j.
+139501	lu, long
+139501	arakaki, adrian k.
+139501	lu, hui
+139501	skolnick, jeffrey
+139503	keskin, ozlem
+139503	ma, buyong
+139503	nussinov, ruth
+139978	hosack, douglas a.
+139978	dennis, glynn
+139978	sherman, brad t.
+139978	lane, h. clifford
+139978	lempicki, richard a.
+140049	pearl, judea
+140455	csikszentmihaly, mihaly
+140455	halton, eugene r.
+140474	burrows, michael
+140474	abadi, mart\\'{\\i}n
+140474	needham, roger
+140507	pressman, roger s.
+140523	norman, donald a.
+140584	brown, john s.
+140584	duguid, paul
+140600	knuth, donald e.
+140611	ousterhout, john k.
+140673	dorogovtsev, s. n.
+140673	mendes, j. f. f.
+140701	weiser, mark
+140708	myers, christopher r.
+140717	huberman, bernardo a.
+140717	adamic, lada a.
+140728	mandelbrot, benoit m.
+140843	hoglund, greg
+140843	mcgraw, gary
+140845	grinstead, charles m.
+140845	snell, j. laurie
+140848	date, c. j.
+140994	friedman, nir
+141652	murphy, william j.
+141652	eizirik, eduardo
+141652	o'brien, stephen j.
+141652	madsen, ole
+141652	scally, mark
+141652	douady, christophe j.
+141652	teeling, emma
+141652	ryder, oliver a.
+141652	stanhope, michael j.
+141652	de jong, wilfried w.
+141652	springer, mark s.
+141729	foster, i.
+141729	kesselman, c.
+142464	white, scott
+142464	smyth, padhraic
+142681	gladwell, malcolm
+142705	collins, m.
+142705	singer, y.
+143446	marchini, jonathan
+143446	donnelly, peter
+143446	cardon, lon r.
+143501	tanay, amos
+143501	sharan, roded
+143501	kupiec, martin
+143501	shamir, ron
+143515	reed, jennifer l.
+143515	vo, thuy d.
+143515	schilling, christophe h.
+143515	palsson, bernhard o.
+144073	boroditsky, lera
+144184	levelt, willem
+144289	ma, hong-wu
+144289	zeng, an-ping
+147383	yang, z.
+147383	wong, w. s. w.
+147383	nielsen, r.
+148884	friedman, e.
+148884	resnick, p.
+149346	dorigo, marco
+149346	gambardella, luca m.
+149347	fielding, roy t.
+149347	taylor, richard n.
+150208	arya, sunil
+150208	mount, david m.
+150208	netanyahu, nathan s.
+150208	silverman, ruth
+150208	wu, angela y.
+152287	daubechies, i.
+152445	jain, a.
+152445	zongker, d.
+153816	pop, m. p. s.
+153816	shumway, m.
+153821	myers, eugene w.
+153873	pan, w.
+155094	draper, norman r.
+155094	smith, harry
+155605	blei, d.
+155605	jordan, m.
+155617	antoniak, c.
+155618	shlens, j.
+155625	beal, m.
+155630	blei, d.
+155630	jordan, m.
+155631	blei, d.
+155631	ng, a.
+155631	jordan, m.
+155633	blei, d.
+155633	griffiths, t.
+155633	jordan, m.
+155633	tenenbaum, j.
+155650	ferguson, t.
+155697	popescul, a.
+155697	ungar, l.
+155697	pennock, d.
+155697	lawrence, s.
+155710	shi, j.
+155710	malik, j.
+155728	beeferman, d.
+155728	berger, a.
+155728	lafferty, j.
+157135	pugh, william
+158329	rieber, l. p.
+158597	ginalski, k.
+158597	grishin, n. v.
+158597	godzik, a.
+158597	rychlewski, l.
+159098	palmer, martha
+159098	gildea, daniel
+159098	kingsbury, paul
+160019	harrold, mary j.
+160143	parasuraman, r.
+160143	sheridan, t.
+160143	wickens, c.
+161150	yao, hui
+161150	kristensen, david m.
+161150	mihalek, ivana
+161150	sowa, mathew e.
+161150	shaw, chad
+161150	kimmel, marek
+161150	kavraki, lydia
+161150	lichtarge, olivier
+161170	rajamani, deepa
+161170	thiel, spencer
+161170	vajda, sandor
+161170	camacho, carlos j.
+162250	dabek, frank
+162250	cox, russ
+162250	kaashoek, frans
+162250	morris, robert
+162268	dabek, frank
+162268	li, jinyang
+162268	sit, emil
+162268	robertson, james
+162268	kaashoek, m. frans
+162268	morris, robert
+162281	muthitacharoen, athicha
+162281	morris, robert
+162281	gil, thomer m.
+162281	chen, benjie
+162288	rowstron, antony
+162288	druschel, peter
+162289	rowstron, antony
+162289	druschel, peter
+163529	diamond, jared
+163532	durbin, richard
+163532	eddy, sean r.
+163532	krogh, anders
+163532	mitchison, graeme
+163543	rubin, gerald m.
+163543	yandell, mark d.
+163543	wortman, jennifer r.
+163543	gabor, george l.
+163543	miklos
+163543	nelson, catherine r.
+163543	hariharan, iswar k.
+163543	fortini, mark e.
+163543	li, peter w.
+163543	apweiler, rolf
+163543	fleischmann, wolfgang
+163543	cherry, j. michael
+163543	henikoff, steven
+163543	skupski, marian p.
+163543	misra, sima
+163543	ashburner, michael
+163543	birney, ewan
+163543	boguski, mark s.
+163543	brody, thomas
+163543	brokstein, peter
+163543	celniker, susan e.
+163543	chervitz, stephen a.
+163543	coates, david
+163543	cravchik, anibal
+163543	gabrielian, andrei
+163543	galle, richard f.
+163543	gelbart, william m.
+163543	george, reed a.
+163543	goldstein, lawrence s. b.
+163543	gong, fangcheng
+163543	guan, ping
+163543	harris, nomi l.
+163543	hay, bruce a.
+163543	hoskins, roger a.
+163543	li, jiayin
+163543	li, zhenya
+163543	hynes, richard o.
+163543	jones, s. j. m.
+163543	kuehl, peter m.
+163543	lemaitre, bruno
+163543	littleton, j. troy
+163543	morrison, deborah k.
+163543	mungall, chris
+163543	o'farrell, patrick h.
+163543	pickeral, oxana k.
+163543	shue, chris
+163543	vosshall, leslie b.
+163543	zhang, jiong
+163543	zhao, qi
+163543	zheng, xiangqun h.
+163543	zhong, fei
+163543	zhong, wenyan
+163543	gibbs, richard
+163543	venter, j. craig
+163543	adams, mark d.
+163543	lewis, suzanna
+163559	barthelemy, marc
+163559	chow, edmond
+163559	eliassi-rad, tina
+164761	message
+165116	breiman, leo
+165344	roth, dan
+165344	zelenko, dmitry
+165362	ratnaparkhi, adwait
+165434	stolcke, andreas
+165438	church, kenneth w.
+165438	hanks, patrick
+166210	sorin, e. j.
+166210	pande, v. s.
+166220	gentleman, robert c.
+166220	carey, vincent j.
+166220	bates, douglas m.
+166220	bolstad, ben
+166220	dettling, marcel
+166220	dudoit, sandrine
+166220	ellis, byron
+166220	gautier, laurent
+166220	ge, yongchao
+166220	gentry, jeff
+166220	hornik, kurt
+166220	hothorn, torsten
+166220	huber, wolfgang
+166220	iacus, stefano
+166220	irizarry, rafael
+166220	leisch, friedrich
+166220	li, cheng
+166220	maechler, martin
+166220	rossini, anthony j.
+166220	sawitzki, gunther
+166220	smith, colin
+166220	smyth, gordon
+166220	tierney, luke
+166220	yang, jean y.
+166220	zhang, jianhua
+166875	irizarry, rafael a.
+166875	warren, daniel
+166875	spencer, forrest
+166875	kim, irene f.
+166875	biswal, shyam
+166875	frank, bryan c.
+166875	gabrielson, edward
+166875	garcia, joe g.
+166875	geoghegan, joel
+166875	germino, gregory
+166875	griffin, constance
+166875	hilmer, sara c.
+166875	hoffman, eric
+166875	jedlicka, anne e.
+166875	kawasaki, ernest
+166875	mart\\'{\\i}nez-murillo, francisco
+166875	morsberger, laura
+166875	lee, hannah
+166875	petersen, david
+166875	quackenbush, john
+166875	scott, alan
+166875	wilson, michael
+166875	yang, yanqin
+166875	ye, shui qing q.
+166875	yu, wayne
+167628	freund, yoav
+167628	schapire, robert e.
+168520	perrow, charles
+168529	hannan, michael t.
+168529	freeman, john
+168559	behlendorf, brian
+168559	bradner, scott
+168559	hamerly, jim
+168559	mckusick, kirk
+168559	o'reilly, tim
+168559	paquin, tom
+168559	perens, bruce
+168559	raymond, eric
+168559	stallman, richard
+168559	tiemann, michael
+168559	torvalds, linus
+168559	vixie, paul
+168559	wall, larry
+168559	young, bob
+168970	tractinsky, n.
+168970	katz, a. s.
+168970	ikar, d.
+169545	ward, a.
+169545	jones, a.
+169545	hopper, a.
+169549	want, roy
+169549	hopper, andy
+169549	falcao, veronica
+169549	gibbons, jonathan
+169806	von mering, christian
+169806	zdobnov, evgeny m.
+169806	tsoka, sophia
+169806	ciccarelli, francesca d.
+169806	pereira-leal, jose b.
+169806	ouzounis, christos a.
+169806	bork, peer
+171407	cohen, michael d.
+171407	march, james g.
+171407	olsen, johan p.
+171416	bianchini, monica
+171416	gori, marco
+171416	scarselli, franco
+171427	weston, jason
+171427	mukherjee, sayan
+171427	chapelle, olivier
+171427	pontil, massimiliano
+171427	poggio, tomaso
+171427	vapnik, vladimir
+171716	burt, ronald s.
+171730	kraut, r.
+171730	lundmark, v.
+171730	patterson, m.
+171730	kiesler, s.
+171730	mukopadhyay, t.
+171730	scherlis, w.
+172870	krek, azra
+172870	gr\\"{u}n, dominic
+172870	poy, matthew n.
+172870	wolf, rachel
+172870	rosenberg, lauren
+172870	epstein, eric j.
+172870	macmenamin, philip
+172870	da piedade, isabelle d.
+172870	gunsalus, kristin c.
+172870	stoffel, markus
+172870	rajewsky, nikolaus
+173485	modrek, b.
+173485	lee, c.
+175025	knuth, donald e.
+175375	jelier, r.
+175375	jenster, g.
+175375	dorssers, l. c. j.
+175375	van der eijk, c. c.
+175375	van mulligen, e. m.
+175375	mons, b.
+175375	kors, j. a.
+175909	gallavotti, giovanni
+179333	storey, j.
+179399	rhoades, m.
+179399	reinhart, b.
+179399	lim, l.
+179399	burge, c.
+179399	bartel, b.
+179399	bartel, d.
+179467	lenzerini, maurizio
+179598	jacobs, charles e.
+179598	finkelstein, adam
+179598	salesin, david h.
+179603	bishop, christopher m.
+180259	zeleznik, robert c.
+180259	herndon, kenneth p.
+180259	hughes, john f.
+180994	kass
+180994	wasserman
+181740	mobasher, bamshad
+181740	cooley, robert
+181740	srivastava, jaideep
+181748	furnkranz, johannes
+186777	cobb, paul
+186777	yackel, erna
+187152	galagan, james e.
+187152	calvo, sarah e.
+187152	borkovich, katherine a.
+187152	selker, eric u.
+187152	read, nick d.
+187152	jaffe, david
+187152	fitzhugh, william
+187152	ma, li-jun
+187152	smirnov, serge
+187152	purcell, seth
+187152	rehman, bushra
+187152	elkins, timothy
+187152	engels, reinhard
+187152	wang, shunguang
+187152	nielsen, cydney b.
+187152	butler, jonathan
+187152	endrizzi, matthew
+187152	qui, dayong
+187152	ianakiev, peter
+187152	bell-pedersen, deborah
+187152	nelson, mary a.
+187152	werner-washburne, margaret
+187152	selitrennikoff, claude p.
+187152	kinsey, john a.
+187152	braun, edward l.
+187152	zelter, alex
+187152	schulte, ulrich
+187152	kothe, gregory o.
+187152	jedd, gregory
+187152	mewes, werner
+187152	staben, chuck
+187152	marcotte, edward
+187152	greenberg, david
+187152	roy, alice
+187152	foley, karen
+187152	naylor, jerome
+187152	stange-thomann, nicole
+187152	barrett, robert
+187152	gnerre, sante
+187152	kamal, michael
+187152	kamvysselis, manolis
+187152	mauceli, evan
+187152	bielke, cord
+187152	rudd, stephen
+187152	frishman, dmitrij
+187152	krystofova, svetlana
+187152	rasmussen, carolyn
+187152	metzenberg, robert l.
+187152	perkins, david d.
+187152	kroken, scott
+187152	cogoni, carlo
+187152	macino, giuseppe
+187152	catcheside, david
+187152	li, weixi
+187152	pratt, robert j.
+187152	osmani, stephen a.
+187152	desouza, colin p. c.
+187152	glass, louise
+187152	orbach, marc j.
+187152	berglund, j. andrew
+187152	voelker, rodger
+187152	yarden, oded
+187152	plamann, michael
+187152	seiler, stephan
+187152	dunlap, jay
+187152	radford, alan
+187152	aramayo, rodolfo
+187152	natvig, donald o.
+187152	alex, lisa a.
+187152	mannhaupt, gertrud
+187152	ebbole, daniel j.
+187152	freitag, michael
+187152	paulsen, ian
+187152	sachs, matthew s.
+187152	lander, eric s.
+187152	nusbaum, chad
+187152	birren, bruce
+190986	jones, g.
+190986	willett, p.
+190986	glen, r. c.
+190986	leach, a. r.
+190986	taylor, r.
+191640	coleman, james s.
+192188	martin, andrew d.
+192188	quinn, kevin m.
+193082	connell, j.
+197224	hadley, c.
+197224	jones, d. t.
+197226	segal, eran
+197226	friedman, nir
+197226	koller, daphne
+197226	regev, aviv
+197257	salen, katie
+197257	zimmerman, eric
+197288	cassell
+197344	sj\\"{o}lander, kimmen
+197425	wang, junmei
+197425	wolf, romain m.
+197425	caldwell, james w.
+197425	kollman, peter a.
+197425	case, david a.
+197446	bayly, christopher i.
+197446	cieplak, piotr
+197446	cornell, wendy d.
+197446	kollman, peter a.
+197592	chang, jeffrey t.
+197592	sch\\~{a}¼tze, hinrich
+197592	altman, russ b.
+200385	wang, fugao
+200385	david, d. p.
+200747	tapscott, don
+200770	warner, michael
+201547	trivers, robert l.
+201597	belkin, nicholas j.
+201597	croft, w. bruce
+201704	murphy, k.
+201704	weiss, y.
+201704	jordan, m.
+201777	g\\&eacute;rard hue, t.
+201791	gummadi, k.
+201791	dunn, r.
+201791	saroiu, s.
+201791	gribble, s.
+201791	levy, h.
+201791	zahorjan, j.
+201820	burke
+201830	basu, chumki
+201830	hirsh, haym
+201830	cohen, william w.
+202252	hasty, jeff
+202252	isaacs, farren
+202252	dolnik, milos
+202252	mcmillen, david
+202252	collins, j. j. j.
+202349	marvin, carolyn
+202480	davis, fred d.
+202480	bagozzi, richard p.
+202480	warshaw, paul r.
+202502	sagui, celeste
+202502	{}
+202502	darden, thomas a.
+203297	papin, jason a.
+203297	stelling, joerg
+203297	price, nathan d.
+203297	klamt, steffen
+203297	schuster, stefan
+203297	palsson, bernhard o.
+203951	herbsleb, james d.
+203951	mockus, audris
+203951	finholt, thomas a.
+203951	grinter, rebecca e.
+203956	satyanarayanan, m.
+205022	bao, lei
+205022	cui, yan
+206013	dickey, michele d.
+209097	balakrishnan, hari
+209097	padmanabhan, venkata n.
+209097	seshan, srinivasan
+209097	katz, randy h.
+209184	rizzo, luigi
+209472	harrison, steve
+209472	dourish, paul
+209491	jennings, nicholas
+209629	vi\\'egas, fernanda b.
+209629	boyd, danah
+209629	nguyen, david h.
+209629	potter, jeffrey
+209629	donath, judith
+209806	gee, james p.
+209845	schohn, greg
+209845	cohn, david
+210399	chidamber, s.
+210399	kemerer, c.
+211254	pacton, s\\'{e}bastien
+212480	hammond, tony
+212480	hannay, timo
+212480	lund, ben
+212480	scott, joanna
+214145	schwabe, gerhard
+214145	g\\"{o}th, christoph
+214373	alamouti, s. m.
+214713	parekh, abhay k.
+214713	gallager, robert g.
+214716	staab, s.
+214716	van der aalst, w.
+214716	benjamins, v.
+214716	sheth, a.
+214716	miller, j.
+214716	bussler, c.
+214716	maedche, a.
+214716	fensel, d.
+214716	gannon, d.
+215770	raymond, j. w.
+215770	gardiner, j.
+215770	willett, p.
+215987	budzik, jay
+215987	hammond, kristian j.
+215995	dumais, susan
+215995	cutrell, edward
+215995	chen, hao
+216962	daniel, rolf
+218423	hennessy, john l.
+218423	patterson, david a.
+220515	hull, david a.
+220516	porter, m. f.
+220600	jacobson, i.
+220600	booch, g.
+220600	rumbaugh, j.
+220695	dan, y.
+220695	jj, atick j.
+220695	rc, reid c.
+220700	bkp, horn k. p.
+220700	bg, schunk g.
+220966	edwards, w. keith
+220966	grinter, rebecca e.
+220970	grimm, robert
+221092	parker, c.
+221092	pfeiffer, s.
+221156	srinivasan, balaji s.
+221156	caberoy, nora b.
+221156	suen, garret
+221156	taylor, rion g.
+221156	shah, radhika
+221156	tengra, farah
+221156	goldman, barry s.
+221156	garza, anthony g.
+221156	welch, roy d.
+221328	van der aalst, w. v. d.
+221342	strauss, anselm
+221342	corbin, juliet m.
+221552	carmena, jose m.
+221552	lebedev, mikhail a.
+221552	crist, roy e.
+221552	o'doherty, joseph e.
+221552	santucci, david m.
+221552	dimitrov, dragen f.
+221552	patil, parag g.
+221552	henriquez, craig s.
+221552	nicolelis, miguel a. l.
+222732	noy, n. f.
+222732	musen, m. a.
+222953	he, lin
+222953	thomson, j. michael
+222953	hemann, michael t.
+222953	hernando-monge, eva
+222953	mu, david
+222953	goodson, summer
+222953	powers, scott
+222953	cordon-cardo, carlos
+222953	lowe, scott w.
+222953	hannon, gregory j.
+222953	hammond, scott m.
+223017	faure, p.
+223017	korn, h.
+224537	wilson, s. w.
+225130	challet, damien
+225130	marsili, matteo
+225130	zhang, yi-cheng
+225187	urgaonkar, bhuvan
+225187	shenoy, prashant
+225187	roscoe, timothy
+225734	neerincx, pieter b.
+225734	leunissen, jack a.
+225743	hattne, johan
+225743	fange, david
+225743	elf, johan
+226534	garlan, david
+226534	monroe, robert
+226534	wile, david
+226864	bose, rajendra
+226864	frew, james
+226883	tong, simon
+226883	koller, daphne
+227176	eisenberg, e.
+227176	levanon, e. y.
+227185	bader, j. s.
+227185	chaudhuri, a.
+227185	rothberg, j. m.
+227185	chant, j.
+227604	langville, amy n.
+227604	meyer, carl d.
+228031	vogels, w.
+228353	cole, jason c.
+228353	murray, christopher w.
+228353	nissink
+228353	taylor, richard d.
+228353	taylor, robin
+228535	cardwell, n.
+228535	savage, s.
+228535	anderson, t.
+228643	koski, liisa b.
+228643	morton, richard a.
+228643	golding, g. brian
+230052	marjoram, paul
+230052	molitor, john
+230052	plagnol, vincent
+230052	tavar\\'{e}, simon
+233773	dayan, peter
+233773	abbott, l. f.
+233775	kandel, eric
+233775	schwartz, james
+233775	jessell, thomas
+234370	deng, minghua
+234370	zhang, kui
+234370	mehta, s.
+234370	chen, ting
+234370	sun, fengzhu
+235238	wang, william s.
+235238	minett, james w.
+235618	callaway, d.
+235618	strogatz, s.
+235618	watts, d.
+235618	newman, m. e. j.
+235798	wile, david
+235839	rubinstein, ariel
+235888	safavian, s. rasoul
+235888	landgrebe, david
+235931	watts, duncan
+235962	watts, duncan
+235973	holland, john h.
+236029	bruno
+236100	do, chuong b.
+236100	mahabhashyam, mahathi s.
+236100	brudno, michael
+236100	batzoglou, serafim
+238820	rolls, edmund t.
+238866	vogel, c.
+238866	teichmann, s.
+238866	pereiraleal, j.
+238884	van noort, vera
+238884	snel, berend
+238884	huynen, martijn
+238896	rhodes, daniel r.
+238896	chinnaiyan, arul m.
+238904	amzel, mario l.
+238904	siebert, xavier
+238904	armstrong, anthony
+238904	pabon, german
+239493	walker, marilyn a.
+239493	litman, diane j.
+239493	kamm, candace a.
+239493	abella, alicia
+239628	vogelstein, bert
+239628	lane, david
+239628	levine, arnold j.
+240229	thompson, j. d.
+240229	gibson, t. j.
+240229	plewniak, f.
+240229	jeanmougin, f.
+240229	higgins, d. g.
+240516	levy, d.
+240516	marshall, c. c.
+240622	chakrabarti, soumen
+240622	dom, byron
+240622	raghavan, prabhakar
+240622	rajagopalan, sridhar
+240622	gibson, david
+240622	kleinberg, jon
+240673	gamma, erich
+240673	helm, richard
+240673	johnson, ralph
+240673	vlissides, john
+240731	cho, junghoo
+240731	garcia-molina, hector
+240731	page, lawrence
+240813	huberman, bernardo a.
+240813	pirolli, peter l. t.
+240813	pitkow, james e.
+240813	lukose, rajan m.
+240878	ng, andrew y.
+240878	zheng, alice x.
+240878	jordan, michael i.
+241030	storey, john d.
+241030	tibshirani, robert
+241036	lee, christopher
+241036	grasso, catherine
+241036	sharlow, mark f.
+241086	tsing, anna l.
+241091	wistrand, m.
+241091	sonnhammer, e. l.
+241096	vempala, s.
+241096	kannan, r.
+241096	vetta, a.
+241241	wilson, samuel m.
+241241	peterson, leighton c.
+241630	bentwich, isaac
+241630	avniel, amir
+241630	karov, yael
+241630	aharonov, ranit
+241630	gilad, shlomit
+241630	barad, omer
+241630	barzilai, adi
+241630	einat, paz
+241630	einav, uri
+241630	meiri, eti
+241630	sharon, eilon
+241630	spector, yael
+241630	bentwich, zvi
+241724	benner, steven a.
+241724	sismour, a. michael
+241904	shiller, robert j.
+244746	barker, daniel
+244746	pagel, mark
+244765	efros, alexei a.
+244765	freeman, william t.
+245758	poggio, tomaso
+245758	smale, steve
+246028	rogers, simon
+246028	girolami, mark
+248185	brooks, rodney a.
+248994	godwin-jones, bob
+249006	li, li
+249006	stoeckert, christian j.
+249006	roos, david s.
+251558	crampin, e. j.
+251558	schnell, s.
+251558	mcsharry, p. e.
+252074	baber, chris
+252074	bristow, huw
+252074	cheng, sean l.
+252074	hedley, anna
+252074	kuriyama, yuri
+252074	lien, marc
+252074	pollard, james
+252074	sorrell, phil
+254471	adalsteinsson, d.
+254471	sethian, j.
+254902	sonka, m.
+254902	hlavac, v.
+254902	boyle, r.
+255551	rubner, yossi
+255551	tomasi, carlo
+255551	guibas, leonidasj
+256404	lamport, leslie
+256918	janeway, c. a.
+256918	medzhitov, r.
+257982	anderson, benedict
+258855	ding, li
+258855	finin, tim
+258855	joshi, anupam
+258855	pan, rong
+258855	cost, scott r.
+258855	peng, yun
+258855	reddivari, pavan
+258855	doshi, vishal
+258855	sachs, joel
+259020	gore, s. p.
+259020	burke, d. f.
+259020	blundell, t. l.
+259037	handl, julia
+259037	knowles, joshua
+259037	kell, douglas b.
+260118	miller, bradley n.
+260118	konstan, joseph a.
+260118	riedl, john
+260693	gelernter, david
+260715	dabek, frank
+260715	kaashoek, frans m.
+260715	karger, david
+260715	morris, robert
+260715	stoica, ion
+260716	adya, a.
+260716	bolosky, w.
+260716	castro, m.
+260716	chaiken, r.
+260716	cermak, g.
+260716	douceur, j.
+260716	howell, j.
+260716	lorch, j.
+260716	theimer, m.
+260716	wattenhofer, r.
+260912	perrig, adrian
+260912	szewczyk, robert
+260912	wen, victor
+260912	culler, david e.
+260912	tygar, j. d.
+260973	wang, xiao h.
+260973	zhang, da q.
+260973	gu, tao
+260973	pung, hung k.
+261218	castro, m.
+261218	druschel, p.
+261218	kermarrec, a.
+261218	rowstron, a.
+261219	gkantsidis, christos
+261219	rodriguez, pablo
+261290	blattner, frederick r.
+261290	plunkett, guy
+261290	bloch, craig a.
+261290	perna, nicole t.
+261290	burland, valerie
+261290	riley, monica
+261290	collado-vides, julio
+261290	glasner, jeremy d.
+261290	rode, christopher k.
+261290	mayhew, george f.
+261290	gregor, jason
+261290	davis, nelson w.
+261290	kirkpatrick, heather a.
+261290	goeden, michael a.
+261290	rose, debra j.
+261290	mau, bob
+261290	shao, ying
+262715	cross, m. c.
+262715	hohenberg, p. c.
+263024	abrahamsson, pekka
+263024	warsta, juhani
+263024	siponen, mikko t.
+263024	ronkainen, jussi
+264058	graham, paul
+264340	brown, emery n.
+264340	kass, robert e.
+264340	mitra, partha p.
+265615	gomez, r. l.
+265615	gerken, l.
+266089	wodtke, christina
+266137	smith, linday
+266206	blanchard, anita l.
+266206	markus, m. lynne
+270356	lindorff-larsen, k.
+270356	r{\\o}gen, p.
+270356	paci, e.
+270356	vendruscolo, m.
+270356	dobson, c. m.
+270721	sicilia, miguel-angel
+270721	lytras, miltiadis d.
+270986	kerievsky, joshua
+271442	crovella, mark e.
+271442	bestavros, azer
+272317	grover, lov k.
+272363	cohen, aaron m.
+272363	hersh, william r.
+273082	perotti, enrico c.
+274045	bunt, andrea
+274045	conati, cristina
+274045	mcgrenere, joanna
+274117	marshall, catherine c.
+275186	li\\`{o}
+275498	ihmels, jan
+275498	bergmann, sven
+275498	gerami-nejad, maryam
+275498	yanai, itai
+275498	mcclellan, mark
+275498	berman, judith
+275498	barkai, naama
+276211	latham, robert
+277591	bergman, ofer
+277591	boardman, richard
+277591	gwizdka, jacek
+277591	jones, william
+277677	excoffier, l.
+277677	smouse, p. e.
+277677	quattro, j. m.
+277764	nadeau, joseph h.
+277764	taylor, benjamin a.
+277967	pennebaker, j. w.
+278151	haralick, r. m.
+279432	yang, b.
+279432	{garcia-molina}, h.
+280464	albert, reka
+280464	jeong, hawoong
+280464	barabasi, albert-laszlo
+280770	maere, steven
+280770	de bodt, stefanie
+280770	raes, jeroen
+280770	casneuf, tineke
+280770	van montagu, marc
+280770	kuiper, martin
+280770	van de peer, yves
+281947	johnson, steven
+282032	boyapati, chandrasekhar
+282032	lee, robert
+282032	rinard, martin
+282193	hearst, marti a.
+291875	estrada, e.
+291875	rodr\\'{\\i}guez-vel\\'{a}zquez, j. a.
+296232	maier, mark w.
+296232	emery, david
+296232	hilliard, rich
+296261	bosch, jan
+297071	cornell, wendy d.
+297071	cieplak, piotr
+297071	bayly, christopher i.
+297071	gould, ian r.
+297071	merz, kenneth m.
+297071	ferguson, david m.
+297071	spellmeyer, david c.
+297071	fox, thomas
+297071	caldwell, james w.
+297071	kollman, peter a.
+298217	ban, n.
+299199	ebersbach, anja
+299199	glaser, markus
+299199	heigl, richard
+299529	durinck, steffen
+299529	moreau, yves
+299529	kasprzyk, arek
+299529	davis, sean
+299529	de moor, bart
+299529	brazma, alvis
+299529	huber, wolfgang
+300210	kohler, e.
+300210	handley, m.
+300210	floyd, s.
+300569	bates, marcia j.
+300647	brown, cecelia m.
+302103	fox, s.
+303461	ghil, m.
+303461	allen, m. r.
+303461	dettinger, m. d.
+303461	ide, k.
+303461	kondrashov, d.
+303461	mann, m. e.
+303461	robertson, a. w.
+303461	saunders, a.
+303461	tian, y.
+303461	varadi, f.
+303461	yiou, p.
+304987	atick, j. j.
+305371	danielsson, nils a.
+305371	gibbons, jeremy
+305371	hughes, john
+305371	jansson, patrik
+305936	hofstadter, douglas r.
+306080	friston, k. j.
+306080	harrison, l.
+306080	penny, w.
+307311	fall, k.
+307623	{\\o}sterlund, carsten
+307623	carlile, paul
+307877	davidson, ron
+307877	harel, david
+308885	keskin, ozlem
+308885	tsai, chung-jung
+308885	wolfson, haim
+308885	nussinov, ruth
+309243	post, d. m.
+309243	pace, m. l.
+309243	hairston, n. g.
+309283	whitman, w. b.
+309283	coleman, d. c.
+309283	wiebe, w. j.
+309498	schapire, robert e.
+309498	singer, yoram
+310608	fraser, hunter b.
+310608	hirsh, aaron e.
+310608	wall, dennis p.
+310608	eisen, michael b.
+310706	jackson, matthew o.
+310706	watts, alison
+311031	wood, f.
+311031	black, m. j.
+311031	irwin, vargas c.
+311031	fellows, m.
+311031	donoghue, j. p.
+311226	fairhall, a. l.
+311226	lewen, g. d.
+311226	bialek, w.
+311226	ruyter, de
+311564	wu, fang
+311564	huberman, bernardo a.
+311564	adamic, lada a.
+311564	tyler, joshua
+312040	benavides, d.
+312040	cort\\'{e}s, ruiz a.
+312040	trinidad, p.
+312061	czarnecki, k.
+312061	helsen, s.
+312061	eisenecker, u. w.
+312063	van deursen, a.
+312063	klint, p.
+312073	griss, m.
+312073	favaro, j.
+312073	d'alessandro, m.
+312090	marriot, k.
+312090	stuckey, p. j.
+312115	tsang, edward
+312817	ziegler, cai n.
+312817	mcnee, sean m.
+312817	konstan, joseph a.
+312817	lausen, georg
+315482	reinert, gesine
+315482	schbath, sophie
+315482	waterman
+315520	kyte, j.
+315520	doolittle
+315523	karlin, samuel
+315523	altschul, stephen f.
+315559	kurtz, s.
+315559	phillippy, a.
+315559	delcher
+315559	smoot, m.
+315559	humway, m. s.
+315559	antonescu, c.
+315559	salzberg
+317978	baeza-yates, ricardo
+317978	hurtado, carlos
+317978	mendoza, marcelo
+319962	brody, c. d.
+320258	krichmar, diane m.
+320258	preece, jenny
+321328	sippl, m. j.
+323050	brand, stewart
+325139	leung, y. f.
+325139	cavalieri, d.
+325817	lutkenhouse, thomas
+325817	nelson, michael l.
+325817	bollen, johan
+326502	lai, weil r.
+326502	johnson, mark d.
+326502	kucherlapati, raju
+326502	park, peter j.
+326547	srinivasan, rajgopal
+326547	rose, george d.
+326870	beyer, hans-georg
+326870	schwefel, hans-paul
+327100	chen, shiyi
+327100	doolen, gary d.
+327306	boehm, barry
+327306	clark, bradford
+327306	horowitz, ellis
+327306	madachy, ray
+327306	shelby, richard
+327306	westland, chris
+327800	horrocks, ian
+327800	peter
+327800	boley, harold
+327800	said
+327800	dean, mike
+327974	karlin, samuel
+328154	lv, qin
+328154	cao, pei
+328154	cohen, edith
+328154	li, kai
+328154	shenker, scott
+328165	gkantsidis, christos
+328165	mihail, milena
+328165	saberi, amin
+331510	kussell, edo
+331510	leibler, stanislas
+332173	lockless, steve w.
+332173	ranganathan, rama
+333232	wang, xiaowo
+333232	zhang, jing
+333232	li, fei
+333232	gu, jin
+333232	he, tao
+333232	zhang, xuegong
+333232	li, yanda
+333373	getoor, l.
+333377	garlan, david
+333377	schmerl, bradley
+333928	deering, s.
+333928	cheriton, d.
+334010	noble, b.
+334010	satyanarayanan, m.
+334010	narayanan, d.
+334010	tilton, j. e.
+334010	flinn, j.
+334010	walker, k.
+334077	yang, x.
+334077	veciana, g.
+334264	rual, jean-fran\\c{c}ois
+334264	venkatesan, kavitha
+334264	hao, tong
+334264	hirozane-kishikawa, tomoko
+334264	dricot, am\\'{e}lie
+334264	li, ning
+334264	berriz, gabriel f.
+334264	gibbons, francis d.
+334264	dreze, matija
+334264	ayivi-guedehoussou, nono
+334264	klitgord, niels
+334264	simon, christophe
+334264	boxem, mike
+334264	milstein, stuart
+334264	rosenberg, jennifer
+334264	goldberg, debra s.
+334264	zhang, lan v.
+334264	wong, sharyl l.
+334264	franklin, giovanni
+334264	li, siming
+334264	albala, joanna s.
+334264	lim, janghoo
+334264	fraughton, carlene
+334264	llamosas, estelle
+334264	cevik, sebiha
+334264	bex, camille
+334264	lamesch, philippe
+334264	sikorski, robert s.
+334264	vandenhaute, jean
+334264	zoghbi, huda y.
+334264	smolyar, alex
+334264	bosak, stephanie
+334264	sequerra, reynaldo
+334264	doucette-stamm, lynn
+334264	cusick, michael e.
+334264	hill, david e.
+334264	roth, frederick p.
+334264	vidal, marc
+334436	brooks, frederick p.
+335441	logothetis, nikos k.
+335441	pauls, jon
+335441	augath, mark
+335441	trinath, torsten
+335441	oeltermann, axel
+335719	heinis, t.
+335719	pautasso, c.
+335719	alonso, g.
+335723	white, s. r.
+335723	hanson, j. e.
+335723	whalley, i.
+335723	chess, d. m.
+335723	kephart, j. o.
+336740	oprea, t. i.
+336740	davis, a. m.
+336740	teague, s. j.
+336740	leeson, p. d.
+336990	hyde, janet s.
+337170	cimiano, philipp
+337170	staab, steffen
+337765	todman, t. j.
+337765	constantinides, g. a.
+337765	wilton, s. j. e.
+337765	mencer, o.
+337765	luk, w.
+337765	cheung, p. y. k.
+338247	rueckert, d.
+338247	sonoda, l. i.
+338247	hayes, c.
+338247	hill, d. l.
+338247	leach, m. o.
+338247	hawkes, d. j.
+339286	ousterhout, j. k.
+339286	cherenson, a. r.
+339286	douglis, f.
+339286	nelson, m. n.
+339286	welch, b. b.
+339334	ding, chris
+339334	he, xiaofeng
+339334	husbands, parry
+339334	zha, hongyuan
+339334	simon, horst
+339382	baker, david
+339630	westin
+339630	maier, s. e.
+339630	mamata, h.
+339630	nabavi, a.
+339630	jolesz
+339630	kikinis
+339850	buhusi, catalin v.
+339850	meck, warren h.
+339999	chun, m.
+340705	rosenthal, david s. h.
+340705	robertson, thomas s.
+340705	lipkis, tom
+340705	reich, vicky
+340705	morabito, seth
+341384	eiben, a. e.
+341384	hinterding, r.
+341384	michalewicz, z.
+342965	prakash, amol
+342965	tompa, martin
+343691	noble, d.
+343769	tomita, m.
+343769	hashimoto, k.
+343769	takahashi, k.
+343769	shimizu, t. s.
+343769	matsuzaki, y.
+343769	miyoshi, f.
+343769	saito, k.
+343769	tanida, s.
+343769	yugi, k.
+343769	venter, j. c.
+343769	hutchison, c. a.
+343795	mendes, p.
+343798	izaguirre, j. a.
+343798	chaturvedi, r.
+343798	huang, c.
+343798	cickovski, t.
+343798	coffland, j.
+343798	thomas, g.
+343798	forgacs, g.
+343798	alber, m.
+343798	hentschel, g.
+343798	newman, s. a.
+343798	glazier, j. a.
+343921	clark, andy
+344216	hofmann, thomas
+344278	cheverst, keith
+344278	davies, nigel
+344278	mitchell, keith
+344278	friday, adrian
+344278	efstratiou, christos
+344318	langheinrich, marc
+344542	horwitz, s.
+344542	reps, t.
+344542	binkley, d.
+344613	riel, a.
+344617	robillard, m.
+344617	murphy, g.
+345172	white, b.
+345172	lepreau, j.
+345172	stoller, l.
+345172	ricci, r.
+345172	guruprasad, s.
+345172	newbold, m.
+345172	hibler, m.
+345172	barb, c.
+345172	joglekar, a.
+345209	prill, robert j.
+345209	iglesias, pablo a.
+345209	levchenko, andre
+347146	isard, m.
+347146	blake, a.
+347359	fall, kevin
+347359	floyd, sally
+347869	guindon, st\\'{e}phane
+347869	gascuel, olivier
+348334	bandura, albert
+348659	lillesand, thomas m.
+348659	kiefer, ralph w.
+348659	chipman, jonathan w.
+349172	wise, roy a.
+349634	hunt, d. l.
+349634	haynes, r. b.
+349634	hanna, s. e.
+349634	smith, k.
+349688	frank
+349730	aloy, patrick
+349730	russell, robert b.
+349734	chen, kevin
+349734	pachter, lior
+350137	clarke, edmund m.
+350137	wing, jeannette m.
+350137	alur, rajeev
+350137	cleaveland, rance
+350137	dill, david
+350137	emerson, allen
+350137	garland, stephen
+350137	german, steven
+350137	guttag, john
+350137	hall, anthony
+350137	henzinger, thomas
+350137	holzmann, gerard
+350137	jones, cliff
+350137	kurshan, robert
+350137	leveson, nancy
+350137	mcmillan, kenneth
+350137	moore, j.
+350137	peled, doron
+350137	pnueli, amir
+350137	rushby, john
+350137	shankar, natarajan
+350137	sifakis, joseph
+350137	sistla, prasad
+350137	steffen, bernhard
+350137	wolper, pierre
+350137	woodcock, jim
+350137	zave, pamela
+350303	boyer, laurie a.
+350303	lee, tong ihn i.
+350303	cole, megan f.
+350303	johnstone, sarah e.
+350303	levine, stuart s.
+350303	zucker, jacob p.
+350303	guenther, matthew g.
+350303	kumar, roshan m.
+350303	murray, heather l.
+350303	jenner, richard g.
+350303	gifford, david k.
+350303	melton, douglas a.
+350303	jaenisch, rudolf
+350303	young, richard a.
+350522	ousterhout, john k.
+352058	dale, a. m.
+352260	lewis, david d.
+352535	ma, yi
+352535	soatto, stefano
+352535	koseck\\'{a}, jana
+352535	sastry, shankar s.
+352713	akyildiz, ian f.
+352713	su, weilian
+352713	sankarasubramaniam, yogesh
+352713	cayirci, erdal
+352715	tanay, amos
+352715	regev, aviv
+352715	shamir, ron
+353833	webb, a. r.
+354229	turner, d. a.
+354778	johnston, r. a.
+354778	wichern, d. w.
+354781	hastie, t.
+354781	tibshirani, r.
+354787	hopcroft, j. e.
+354787	ullman, j. d.
+355384	li, lun
+355384	alderson, david
+355384	tanaka, reiko
+355384	doyle, john c.
+355384	willinger, walter
+355644	mermin, n. d.
+356505	nisbett, richard e.
+356505	wilson, timothy d.
+359106	bannon, liam j.
+359106	b{\\o}dker, susanne
+359369	iacucci, g.
+359369	kuutti, kari
+359369	ranta, m.
+359525	rekimoto, jun
+359525	ayatsuka, yuji
+361471	zhang, yang
+361471	arakaki, adrian k k.
+361471	skolnick, jeffrey
+361809	foster, ian
+361809	kesselman, carl
+361809	nick, jeffrey m.
+361809	tuecke, steven
+361881	simon, frank
+361881	steinbruckner, frank
+361881	lewerentz, claus
+363536	todd, a. e.
+363536	orengo, c. a.
+363536	thornton, j. m.
+364210	varian, hal r.
+366148	britten, k. h.
+366148	shadlen, m. n.
+366148	newsome, w. t.
+366148	movshon, j. a.
+366475	cheung, vivian g.
+366475	spielman, richard s.
+366475	ewens, kathryn g.
+366475	weber, teresa m.
+366475	morley, michael
+366475	burdick, joshua t.
+366673	vrable, michael
+366673	ma, justin
+366673	chen, jay
+366673	moore, david
+366673	vandekieft, erik
+366673	snoeren, alex c.
+366673	voelker, geoffrey m.
+366673	savage, stefan
+366727	kruegel, christopher
+366727	valeur, fredrik
+366727	vigna, giovanni
+366727	kemmerer, richard
+368224	schlager, m. s.
+368224	fusco, j.
+368247	baddeley, alan
+369239	davis, mike
+373277	ashburner, john
+373277	friston, karl j.
+373611	drummond, d. allan
+373611	raval, alpan
+373611	wilke, claus o.
+373647	john, george h.
+373647	langley, pat
+373702	huang, zan
+373702	chung, wingyan
+373702	ong, thian-huat
+373702	chen, hsinchun
+373720	marsh, s.
+376684	ganger, gregory r.
+376684	mckusick, marshall k.
+376684	soules, craig a. n.
+376684	patt, yale n.
+377043	acinas, s. g.
+377043	ceraj, klepac v.
+377043	hunt, d. e.
+377043	pharino, c.
+377043	ceraj, i.
+377043	distel, d. l.
+377043	polz, m. f.
+377816	cobb, paul
+377816	yackel, erna
+377816	wood, terry
+378422	adl, sina m.
+378422	simpson, alastair g. b.
+378422	farmer, mark a.
+378422	andersen, robert a.
+378422	anderson, o. roger
+378422	barta, john r.
+378422	bowser, samuel s.
+378422	brugerolle, guy
+378422	fensome, robert a.
+378422	fredericq, suzanne
+378422	james, timothy y.
+378422	karpov, sergei
+378422	kugrens, paul
+378422	krug, john
+378422	lane, christopher e.
+378422	lewis, louise a.
+378422	lodge, jean
+378422	lynn, denis h.
+378422	mann, david g.
+378422	mccourt, richard m.
+378422	mendoza, leonel
+378422	moestrup, {\\o}jvind
+378422	mozley-standridge, sharon e.
+378422	nerad, thomas a.
+378422	shearer, carol a.
+378422	smirnov, alexey v.
+378422	spiegel, frederick w.
+378422	taylor, max f. j. r.
+381128	penchovsky, robert
+381128	breaker, ronald r.
+381880	crabtree, andy
+381880	rodden, tom
+381880	mariani, john
+381881	mccarthy, john
+381881	wright, peter
+381884	kim, miryung
+381884	bergman, lawrence
+381884	lau, tessa
+381884	notkin, david
+382687	liang, sheng
+382687	bracha, gilad
+382953	yook, soon-hyung
+382953	radicchi, filippo
+382953	meyer-ortmanns, hildegard
+384511	joachims, thorsten
+386078	pinch, trevor j.
+386078	bijker, wiebe e.
+386121	jones, mark p.
+386174	wells, stephen
+386174	menor, scott
+386174	hespenheide, brandon
+386174	thorpe, m. f.
+388727	apic, g.
+388727	gough, j.
+388727	teichmann, s. a.
+391336	maletic, j. i.
+391336	marcus, a.
+392247	sereno, m. i.
+392247	dale, a. m.
+392247	reppas, j. b.
+392247	kwong, k. k.
+392247	belliveau, j. w.
+392247	brady, t. j.
+392247	rosen, b. r.
+392247	tootell, r. b.
+392495	rockman, matthew v.
+392495	hahn, matthew w.
+392495	soranzo, nicole
+392495	zimprich, fritz
+392495	goldstein, david b.
+392495	wray, gregory a.
+392815	various
+393074	v\\'{a}zquez, a.
+393074	dobrin, r.
+393074	sergi, d.
+393074	eckmann, j. p.
+393074	oltvai, z. n.
+393074	barab\\'{a}si, a. l.
+393136	dinsmore, a. d.
+393136	hsu, m. f.
+393136	nikolaides, m. g.
+393136	marquez, m.
+393136	bausch, a. r.
+393136	weitz, d. a.
+393513	wang, xuerui
+393513	mohanty, natasha
+393513	mccallum, andrew
+398140	cho, h. y.
+398140	reddy, s. p.
+398140	debiase, a.
+398140	yamamoto, m.
+398140	kleeberger, s. r.
+398285	anagnostopoulos, aris
+398285	broder, andrei z.
+398285	carmel, david
+398542	lewis, benjamin p.
+398542	shih, i-hung h.
+398542	jones-rhoades, matthew w.
+398542	bartel, david p.
+398542	burge, christopher b.
+400050	bromham, lindell
+400050	penny, david
+400549	biglieri, e.
+400549	proakis, j.
+400549	shamai, s.
+400626	morgenstern, b.
+400642	eddy, s. r.
+400676	giegerich, r.
+400687	gotoh, o.
+400695	gutell, r.
+400695	lee, j. c.
+400695	connone, j. j.
+400698	holmes, i.
+400698	bruno, w. j.
+400712	il
+400712	sh
+400712	pf
+400727	holmes, i.
+400750	klein, r. j.
+400750	eddy, s. r.
+400777	katoh, kazutaka
+400777	misawa, kazuharu
+400777	kuma, kei i.
+400777	miyata, takashi
+400784	mathews, d. h.
+400784	disney, d. h.
+400784	childs, m. d.
+400784	schroeder, j. l.
+400784	zuker, m.
+400784	turner, d. h.
+400850	schneider, t. d.
+400850	stephens, r. m.
+400861	smith, j. m.
+400861	szathm{\\'a}ry, e.
+400878	jd
+400878	plewniak, f.
+400878	poch, o.
+400885	tuerk, c.
+400885	gold, l.
+400913	zhang, k.
+400913	shasha, d.
+400914	zuker, m.
+400921	{\\em}
+400952	ra
+400963	mi
+400963	ts
+400963	ba
+400963	lu, y.
+400963	km
+400963	cf
+400963	ma
+400963	haussler, d.
+400963	hj
+400971	wj
+400971	baertsch, r.
+400971	hinrichs, a.
+400971	miller, w.
+400971	haussler, d.
+400984	pollard, d. a.
+400984	bergman, c. m.
+400984	stoye, j.
+400984	celniker, s. e.
+400984	eisen, m. b.
+401001	el
+401001	sr
+401001	birney, e.
+401001	bateman, a.
+401001	durbin, r.
+403648	fenton, norman e.
+403648	pfleeger, shari l.
+403658	hall, a.
+404740	reiser, robert a.
+405773	buchanan, mark
+405843	scherf, m.
+405843	epple, a.
+405843	werner, t.
+406295	cox, john c.
+406295	ross, stephen a.
+406295	rubinstein, mark
+406529	endy, drew
+406673	hanna, joy e.
+406673	tanenhaus, michael k.
+406673	trueswell, john c.
+406703	srivatsa, mudhakar
+406703	xiong, li
+406703	liu, ling
+407408	aebersold, ruedi
+407408	mann, m.
+407474	sali, andrej
+407474	glaeser, robert
+407474	earnest, thomas
+407474	baumeister, wolfgang
+407633	ramos, vitorino
+407633	merelo, juan j.
+407635	ramos, v.
+407635	muge, f.
+407636	ramos, vitorino
+407636	muge, fernando
+407638	ramos, vitorino
+407639	ramos, v.
+407639	almeida, f.
+407641	ramos, vitorino
+407641	abraham, ajith
+407642	ramos, v.
+407642	muge, f.
+407643	ramos, v.
+407643	pina, p.
+407643	muge, f.
+407644	ramos, vitorino
+407644	muge, fernando
+407645	ramos, vitorino
+407678	mukkamala, srinivas
+407678	sung, andrew h.
+407678	abraham, ajith
+407678	ramos, vitorino
+407679	ramos, vitorino
+407679	campbell, jonathan
+407679	slater, john
+407679	gillespie, john
+407679	bendezu, ivan f.
+407679	murtagh, fionn
+407681	ramos, vitorino
+407681	abraham, ajith
+407688	ramos, vitorino
+407688	pina, pedro
+407689	ramos, vitorino
+407689	fernandes, carlos
+407689	rosa, agostinho c.
+407690	fernandes, carlos
+407690	ramos, vitorino
+407690	rosa, agostinho c.
+407710	grosan, crina
+407710	abraham, ajith
+407710	han, sang y.
+407710	ramos, vitorino
+407711	ramos, vitorino
+407711	fernandes, carlos
+407711	rosa, agostinho c.
+407712	fernandes, carlos
+407712	ramos, vitorino
+407712	rosa, agostinho c.
+407741	ramos, vitorino
+407741	fernandes, carlos
+407741	rosa, agostinho c.
+408095	duret, laurent
+408095	mouchiroud, dominique
+409394	popescu, sandu
+409394	short, anthony j.
+409394	winter, andreas
+411236	wright, stephen i.
+411236	bi, irie v.
+411236	schroeder, steve g.
+411236	yamasaki, masanori
+411236	doebley, john f.
+411236	mcmullen, michael d.
+411236	gaut, brandon s.
+411662	swanson, don r.
+415431	rutherford, kim
+415431	parkhill, julian
+415431	crook, james
+415431	horsnell, terry
+415431	rice, peter
+415431	rajandream, marie-ad\\`{e}le
+415431	barrell, bart
+415502	stajich, jason e.
+415502	block, david
+415502	boulez, kris
+415502	brenner, steven e.
+415502	chervitz, stephen a.
+415502	dagdigian, chris
+415502	fuellen, georg
+415502	gilbert, james g.
+415502	korf, ian
+415502	lapp, hilmar
+415502	lehv\\"{a}slaiho, heikki
+415502	matsalla, chad
+415502	mungall, chris j.
+415502	osborne, brian i.
+415502	pocock, matthew r.
+415502	schattner, peter
+415502	senger, martin
+415502	stein, lincoln d.
+415502	stupka, elia
+415502	wilkinson, mark d.
+415502	birney, ewan
+416066	efron, bradley
+416066	hastie, trevor
+416066	johnstone, iain
+416066	tibshirani, robert
+416216	jozsa, richard
+418523	golle, philippe
+418523	leyton-brown, kevin
+418523	mironov, ilya
+419283	chen, in\\^{e}s
+419283	christie, peter j.
+419283	dubnau, david
+420474	shah, r. c.
+420474	roy, s.
+420474	jain, s.
+420474	brunette, w.
+421527	bao, ling
+421527	intille, stephen s.
+421931	vignuzzi, marco
+421931	stone, jeffrey k.
+421931	arnold, jamie j.
+421931	cameron, craig e.
+421931	andino, raul
+421963	gruber, tom
+422273	stading, tyron
+422273	maniatis, petros
+422273	baker, mary
+422282	castro, m.
+422282	druschel, p.
+422282	ganesh, a.
+422282	rowstron, a.
+422282	wallach, d.
+422598	langer, robert
+422598	vacanti, joseph p.
+423151	rao, rajesh p. n.
+423826	raessens, joost
+423826	goldstein, jeffrey h.
+423871	bendtsen, jannick d.
+423871	nielsen, henrik
+423871	von heijne, gunnar
+423871	brunak, s{\\o}ren
+427434	alur, r.
+427434	dill, d. l.
+429981	hjorth, peder
+429981	bagheri, ali
+430074	marshall, catherine
+430074	rossman, gretchen b.
+430293	claypool, m.
+430293	le, p.
+430293	waseda, m.
+430293	brown, d.
+430299	schein, a. i.
+430299	popescul, a.
+430299	ungar, l. h.
+430299	pennock, d. m.
+431197	clerc, m.
+431197	kennedy, j.
+431383	friedman, nir
+431383	goldszmidt, moises
+431383	wyner, abraham
+431442	robertson, k. d.
+431502	dudoit, sandrine
+431502	fridlyand, jane
+431502	speed, terence p.
+431521	singh, d.
+431521	febbo, p. g.
+431521	ross, k.
+431521	jackson, d. g.
+431521	manola, j.
+431521	ladd, c.
+431521	tamayo, p.
+431521	renshaw, a. a.
+431525	veer, van't l. j.
+431525	dai, h.
+431525	van de vijver, m. j.
+431525	he, y. d.
+431525	hart, a. a. m.
+431525	mao, m.
+431525	peterse, h. l.
+431525	van der kooy, k.
+431525	marton, m. j.
+431532	brown, c. s.
+431532	goodwin, p. c.
+431532	sorger, p. k.
+431542	kerr, m. k.
+431542	churchill, g. a.
+431561	west, m.
+431561	blanchette, c.
+431561	dressman, h.
+431561	huang, e.
+431561	ishida, s.
+431561	spang, r.
+431562	wolfinger, r. d.
+431562	gibson, g.
+431562	wolfinger, e. d.
+431562	bennet, l.
+431562	hamadeh, h.
+431562	bushel, c. a.
+431562	paules, r. s.
+431565	yeung
+431565	haynor
+431565	ruzzo
+431569	alter, o.
+431569	brown, p. o.
+431569	botstein, d.
+431582	kerr, m. k.
+431582	martin, m.
+431582	churchill, g. a.
+431585	lee
+431585	kuo, f. c.
+431585	whitmore, g. a.
+431585	sklar, j.
+431587	raychaudhuri, s.
+431587	stuart, j.
+431587	altman, r.
+431588	ross, d. t.
+431588	scherf, u.
+431588	eisen, m. b.
+431588	perou, c. m.
+431588	rees, c.
+431588	spellman, p.
+431588	iyer, v.
+431588	jeffrey, s. s.
+431588	van de rijn, m.
+431588	waltham, m.
+431588	pergamenschikov, a.
+431588	lee, j. c.
+431588	lashkari, d.
+431588	shalon, d.
+431588	myers, t. g.
+431588	weinstein, j. n.
+431588	botstein, d.
+431588	brown, p. o.
+431591	scherf, u.
+431591	ross, d. t.
+431591	waltham, m.
+431591	others
+431595	tibshirani, r.
+431595	walther, g.
+431595	hastie, t.
+431610	lipshultz, r. j.
+431610	fodor, s. p. a.
+431610	gingeras, t. r.
+431610	lockhart, d. j.
+431627	bennett, k. p.
+431627	demiriz, a.
+431628	bishop, c. m.
+431628	tipping, m. e.
+431650	bhatia, r.
+431667	lashkari, d. a.
+431667	derisi, j. l.
+431667	mccusker, j. h.
+431667	namath, a. f.
+431667	gentile, c.
+431667	hwang, s. y.
+431667	brown, p. o.
+431667	davis, r. w.
+431678	burges, c. j. c.
+431690	blickle, t.
+431690	thiele, l.
+431698	kohavi, ron
+431734	mackay, d. j. c.
+431738	yao, xin
+431744	fodor, s. p.
+431744	read, j. l.
+431744	pirrung, m. c.
+431744	stryer, l.
+431744	lu, a. t.
+431744	solas, d.
+431745	goldberg, d. e.
+431745	deb, k.
+432019	juels, ari
+435447	bowers, s.
+435447	ascher, b.
+436280	tama, f.
+436280	sanejouand, y. h.
+436449	lazzaro, nicole
+436785	dai, manhong
+436785	wang, pinglang
+436785	boyd, andrew d.
+436785	kostov, georgi
+436785	athey, brian
+436785	jones, edward g.
+436785	bunney, william e.
+436785	myers, richard m.
+436785	speed, terry p.
+436785	akil, huda
+436785	watson, stanley j.
+436785	meng, fan
+437770	andronescu, m.
+437770	aguirre-hern\\'{a}ndez, r.
+437770	condon, a.
+437770	hoos, h. h.
+439126	meunier, philippe
+439126	findler, robert b.
+439126	felleisen, matthias
+439131	van der spoel, d.
+439131	lindahl, e.
+439131	hess, b.
+439131	groenhof, g.
+439131	mark, a. e.
+439131	berendsen, h. j.
+440893	ho, daniel
+440893	imai, kosuke
+440893	king, gary
+440893	stuart, elizabeth
+441049	jetcheva, j. g.
+441049	hu, y. c.
+441049	palchaudhuri, s.
+441049	saha, a. k.
+441049	johnson, d. b.
+445554	uhlig, rich
+445554	neiger, gil
+445554	rodgers, dion
+445554	santoni, amy l.
+445554	martins, fernando c. m.
+445554	anderson, andrew v.
+445554	bennett, steven m.
+445554	kagi, alain
+445554	leung, felix h.
+445554	smith, larry
+446839	cohen, kris r.
+451503	backhouse, ronald
+454305	liu, jun s.
+454555	bao, z.
+454555	eddy, s. r.
+457991	{black}, e. d.
+459612	saxe, r.
+460108	ravenscroft, andrew
+461067	clark, andrew g.
+461067	hubisz, melissa j.
+461067	bustamante, carlos d.
+461067	williamson, scott h.
+461067	nielsen, rasmus
+462159	hutter, marcus
+463013	bernstein, matt a.
+463013	king, kevin f.
+463013	zhou, xiaohong j.
+463317	latour, bruno
+463786	tatar, marc
+463786	bartke, andrzej
+463786	antebi, adam
+464432	ashraf, s.
+464432	mcloon, a.
+464432	sclarsic, s.
+464432	kunes, s.
+465715	geisler, w. s.
+465715	perry, j. s.
+465715	super, b. j.
+465715	gallogly, d. p.
+466050	wittkopp, patricia j.
+466050	haerum, belinda k.
+466050	clark, andrew g.
+466470	ashburner, michael
+466470	bergman, casey m.
+466558	wilson, timothy d.
+467056	shoham, yoav
+467056	tennenholtz, moshe
+467098	heidegger, martin
+467313	dopazo, hernan
+467313	dopazo, joaquin
+467844	sch\\"{o}lkopf, b.
+467844	platt, j.
+467844	shawe-taylor, j.
+467844	smola, a. j.
+467844	williamson, r. c.
+468425	hearst, marti a.
+468934	tarr, p.
+468934	ossher, h.
+468934	harrison, w.
+468934	sutton, s.
+469005	jennings, n. r.
+469005	faratin, p.
+469005	lomuscio, a. r.
+469005	parsons, s.
+469005	sierra, c.
+469005	wooldridge, m.
+469344	prechelt, lutz
+469350	turney, peter d.
+469427	reed, jennifer l.
+469427	famili, iman
+469427	thiele, ines
+469427	palsson, bernhard o.
+469428	jensen, lars j.
+469428	saric, jasmin
+469428	bork, peer
+469592	arendt, hannah
+471849	weliman, barty1
+471849	salaff, janet1
+471849	dimitrova, dimitrina1
+471849	garton, laura1
+471849	gulia, milena1
+471849	haythornthwaite, caroline
+472947	haspel, nurit
+472947	tsai, chung-jung j.
+472947	wolfson, haim
+472947	nussinov, ruth
+475048	newman, m. e. j.
+475980	bashford, d.
+475980	case, d. a.
+476071	moles, carmen g.
+476071	mendes, pedro
+476071	banga, julio r.
+477344	terveen, loren
+477344	mcdonald, david w.
+477418	gibson, james j.
+477435	bradbury, jeremy s.
+477435	cordy, james r.
+477435	dingel, juergen
+477435	wermelinger, michel
+477678	moed, henk f.
+478558	orr, allen h.
+478599	howson, colin
+478599	urbach, peter
+478739	rzhetsky, andrey
+478739	iossifov, ivan
+478739	koike, tomohiro
+478739	krauthammer, michael
+478739	kra, pauline
+478739	morris, mitzi
+478739	yu, hong
+478739	dubou\\'{e}, pablo ariel a.
+478739	weng, wubin
+478739	wilbur, w. john
+478739	hatzivassiloglou, vasileios
+478739	friedman, carol
+480467	taylor, arlene g.
+482141	averbeck, bruno b.
+482141	sohn, jeong-woo w.
+482141	lee, daeyeol
+483203	chothia, c.
+483203	levitt, m.
+483203	richardson, d.
+484900	stockwell, gareth r.
+484900	thornton, janet m.
+485372	ambroggio, xavier i.
+485372	kuhlman, brian
+487356	foster, ian
+489193	arnold, konstantin
+489193	bordoli, lorenza
+489193	kopp, j\\"{u}rgen
+489193	schwede, torsten
+491420	havre, s.
+491420	hetzler, e.
+491420	whitney, p.
+491420	nowell, l.
+491903	khan, latifur
+491903	mcleod, dennis
+491903	hovy, eduard
+493773	schneier, bruce
+494263	hu, haiyan
+494263	yan, xifeng
+494263	huang, yu
+494263	han, jiawei
+494263	zhou, xianghong j.
+494558	rosch, e.
+494558	mervis, c. b.
+494558	gray, w. d.
+494558	johnson, d. m.
+494558	braem, boyes p.
+495430	krishnamurthi, shriram
+498337	kim, j.
+498337	moin, p.
+498337	moser, r. d.
+498573	pokholok, dmitry k.
+498573	harbison, christopher t.
+498573	levine, stuart
+498573	cole, megan
+498573	hannett, nancy m.
+498573	lee, tong ihn i.
+498573	bell, george w.
+498573	walker, kimberly
+498573	rolfe, p. alex
+498573	herbolsheimer, elizabeth
+498573	zeitlinger, julia
+498573	lewitter, fran
+498573	gifford, david k.
+498573	young, richard a.
+498972	buracas, g. t.
+498972	zador, a. m.
+498972	deweese, m. r.
+498972	albright, t. d.
+499778	cole, s. t.
+499778	brosch, r.
+499778	parkhill, j.
+499778	garnier, t.
+499778	churcher, c.
+499778	harris, d.
+499778	gordon, s. v.
+499778	eiglmeier, k.
+499778	gas, s.
+499778	barry, c. e.
+499778	tekaia, f.
+499778	badcock, k.
+499778	basham, d.
+499778	brown, d.
+499778	chillingworth, t.
+499778	connor, r.
+499778	davies, r.
+499778	devlin, k.
+499778	feltwell, t.
+499778	gentles, s.
+499778	hamlin, n.
+499778	holroyd, s.
+499778	hornsby, t.
+499778	jagels, k.
+499778	krogh, a.
+499778	mclean, j.
+499778	moule, s.
+499778	murphy, l.
+499778	oliver, k.
+499778	osborne, j.
+499778	quail, m. a.
+499778	rajandream, m. a.
+499778	rogers, j.
+499778	rutter, s.
+499778	seeger, k.
+499778	skelton, j.
+499778	squares, r.
+499778	squares, s.
+499778	sulston, j. e.
+499778	taylor, k.
+499778	whitehead, s.
+499778	barrell, b. g.
+500745	lafferty, john
+500745	zhai, c.
+501140	beerli, peter
+501539	richardson, matthew
+501539	domingos, pedro
+502008	gaston, matthew e.
+502008	desjardins, marie
+502645	golder, su
+502645	mcintosh, heather m.
+502645	duffy, steve
+502645	glanville, julie
+503602	lampson, butler w.
+503636	diao, yixin
+503636	hellerstein, joseph l.
+503636	parekh, sujay
+503636	griffith, rean
+503636	kaiser, gail
+503636	phung, dan
+503695	menger, carl
+503699	von neuman, j.
+503699	morgenstern, o.
+503703	stiglitz, j. e.
+503720	grossman, s. j.
+503720	stiglitz, j. e.
+503721	engle, r. f.
+503727	heston, s. l.
+503737	cont, r.
+503758	o'hara, m.
+503787	gode, d. k.
+503787	sunder, s.
+503791	epstein, j. m.
+503791	axtell, r.
+503792	axelrod, r.
+503802	lux, t.
+503802	marchesi, m.
+504229	daly, m. j.
+504229	rioux, j. d.
+504229	schaffner, s. f.
+504229	hudson, t. j.
+504229	lander, e. s.
+506682	sincich, lawrence c.
+506682	horton, jonathan c.
+507239	antani,, s
+507409	schrijver, alexander
+507754	perdew, john p.
+507754	burke, kieron
+507754	ernzerhof, matthias
+511998	dorigo, marco
+511998	maniezzo, vittorio
+511998	colorni, alberto
+512091	platt, john c.
+513563	halvorson, hans
+513563	mueger, michael
+513921	erduran, sibel
+513921	simon, shirley
+513921	osborne, jonathan
+515187	nielsen, rasmus
+515187	williamson, scott
+515187	kim, yuseob
+515187	hubisz, melissa j.
+515187	clark, andrew g.
+515187	bustamante, carlos
+515943	hwang, h-w w.
+515943	mendell, j. t.
+516625	yoshikuni, yasuo
+516625	ferrin, thomas e.
+516625	keasling, jay d.
+517198	nickell, stephan
+517198	kofler, christine
+517198	leis, andrew p.
+517198	baumeister, wolfgang
+517200	aloy, patrick
+517200	russell, robert b.
+517203	kholodenko, boris n.
+517896	lua, eng k.
+517896	crowcroft, jon
+517896	pias, marcelo
+517896	sharma, ravi
+517896	lim, steven
+517923	rhea, sean
+517923	godfrey, brighten
+517923	karp, brad
+517923	kubiatowicz, john
+517923	ratnasamy, sylvia
+517923	shenker, scott
+517923	stoica, ion
+517923	yu, harlan
+518657	jemal, a.
+518657	murray, t.
+518657	ward, e.
+518657	samuels, a.
+518657	tiwari, r. c.
+518657	ghafoor, a.
+518657	feuer, e. j.
+518657	thun, m. j.
+518807	klamt, steffen
+518807	saez-rodriguez, julio
+518807	lindquist, jonathan a.
+518807	simeoni, luca
+518807	gilles, ernst d.
+518808	hatami, hamed
+518808	magen, avner
+518808	markakis, vangelis
+520148	garc\\'{\\i}a, roberto
+520148	celma, \\`{o}scar
+520460	reis, d.
+520460	golgher, p.
+520460	silva, a.
+520460	laender, a.
+523209	johnson, jim
+523878	lu, cheng
+523878	tej, shivakundan s.
+523878	luo, shujun
+523878	haudenschild, christian d.
+523878	meyers, blake c.
+523878	green, pamela j.
+525214	friedman, jerome h.
+525381	amarasingham, asohan
+525381	chen, ting-li
+525381	geman, stuart
+525381	harrison, matthew t.
+525381	sheinberg, david l.
+525472	capocci, a.
+525472	servedio, v. d. p.
+525472	colaiori, f.
+525472	buriol, l. s.
+525472	donato, d.
+525472	leonardi, s.
+525472	caldarelli, g.
+525510	woolgar, steve
+527383	oliver, nuria m.
+527383	rosario, barbara
+527383	pentland, alex p.
+527579	bourne, philip e.
+527579	chalupa, leo m.
+530837	hall, m.
+531107	griffiths, tom
+531107	ghahramani, zoubin
+531261	north, alison j.
+532004	montalv\\~{a}o, r. w.
+532004	smith, r. e.
+532004	lovell, s. c.
+532004	blundell, t. l.
+539713	liu, h.
+539713	yu, l.
+540510	schwartz, a. b.
+540510	kettner, r. e.
+540510	georgopoulos, a. p.
+541415	terry, douglas b.
+541415	theimer, marvin m.
+541415	petersen, karin
+541415	demers, alan j.
+541415	spreitzer, mike j.
+541415	hauser, carl h.
+541533	gray, jim
+541533	lamport, leslie
+543355	fraley, chris
+543355	raftery, adrian e.
+546174	mccabe, k.
+546174	houser, d.
+546174	ryan, l.
+546174	smith, v.
+546174	trouard, t.
+546717	macisaac, kenzie
+546717	wang, ting
+546717	gordon, d. benjamin
+546717	gifford, david
+546717	stormo, gary
+546717	fraenkel, ernest
+548293	hobbs, jerry r.
+548293	stickel, mark
+548293	martin, paul
+548293	edwards, douglas d.
+549085	skolnick, jeffrey
+549645	gilbert, n.
+549645	troitzsch, k. g.
+551078	kutulakos, kiriakos n.
+551078	seitz, steven m.
+551462	r\\"omer, kay
+551462	mattern, friedemann
+554015	polacco, benjamin j.
+554015	babbitt, patricia c.
+556109	smart, william d.
+556109	kaelbling, leslie p.
+556147	sinha, saurabh
+556147	blanchette, mathieu
+556147	tompa, martin
+556200	ferragina, paolo
+556200	manzini, giovanni
+556513	enard, w.
+556513	przeworski, m.
+556513	fisher, s. e.
+556513	lai, c. s.
+556513	wiebe, v.
+556578	emerson, j. j.
+556578	kaessmann, henrik
+556578	betr\\'{a}n, esther
+556578	long, manyuan
+556694	koehl, patrice
+557078	shapiro, david
+557078	thibault, pierre
+557078	beetz, tobias
+557078	elser, veit
+557078	howells, malcolm
+557078	jacobsen, chris
+557078	kirz, janos
+557078	lima, enju
+557078	miao, huijie
+557078	neiman, aaron m.
+557078	sayre, david
+557082	konstantinidis, konstantinos t.
+557082	tiedje, james m.
+557230	rui, yong
+557230	huang, t. s.
+557230	ortega, m.
+557230	mehrotra, s.
+558931	liao, ben-yang y.
+558931	zhang, jianzhi
+559470	chou, p.
+559470	wu, y.
+559470	jain, k.
+559842	taylor, t. l.
+561425	ganguly, arijit
+561425	agrawal, abhishek
+561425	boykin, oscar p.
+561425	figueiredo, renato
+561613	cox, a.
+562684	springer, m. s.
+562684	murphy, w. j.
+562684	eizirik, e.
+562684	o'brien, s. j.
+562885	manski, charles f.
+563622	pimm, stuart l.
+563914	ehrlich, paul r.
+563914	raven, peter h.
+566168	mcclelland, james l.
+566168	rogers, timothy t.
+566988	de luca, m.
+566988	beckmann, c. f.
+566988	de stefano, n.
+566988	matthews, p. m.
+566988	smith, s. m.
+568376	tzu, sun
+571029	dy, jennifer g.
+571029	brodley, carla e.
+571073	church, kenneth w.
+572520	basser, p. j.
+572520	pajevic, s.
+572520	pierpaoli, c.
+572520	duda, j.
+572520	aldroubi, a.
+572535	conturo, t. e.
+572535	lori, n. f.
+572535	cull, t. s.
+572535	akbuda, e.
+572535	snyder, a. z.
+572535	shimony, j. s.
+572535	mckinstry, r. c.
+572535	burton, h.
+572535	raichle, a. e.
+572613	basser, peter j.
+572613	mattiello, james
+572613	lebihan, denis
+573506	gamelin, theodore w.
+573510	yang, w.
+573510	abu-ghazaleh, n.
+573991	levin, beth
+574003	bartsch
+574003	venneman
+574099	lin, dekang
+574112	landis, j. r.
+574112	koch, g. c.
+576263	magnini, bernardo
+576263	strapparava, carlo
+576317	alexander, d. c.
+576317	pierpaoli, c.
+576317	basser, p. j.
+576317	gee, j. c.
+576653	ramirez-esparza, nairan
+576653	gosling, samuel d.
+576653	benet-martinez, veronica
+576653	potter, jeffrey p.
+576653	pennebaker, james w.
+576758	preparatat, f. p.
+576758	shamos, m. i.
+576807	bemporad, a.
+576807	morari, m.
+576807	dua, v.
+576807	pistikopoulos, e. n.
+577491	broder, andrei
+578311	pruitt, john
+578311	adlin, tamara
+579603	jung, sung y.
+579603	hong, jeong-hee
+579603	kim, taek-soo
+579981	mason, oliver
+579981	verwoerd, mark
+580617	waples, robin s.
+580617	gaggiotti, oscar
+581179	kauffman, s. a.
+582065	blum, christian
+582131	hinton, geoffrey
+582156	rosenfeld, ronald
+582356	g\\"{u}rerk, \\"{o}zg\\"{u}r
+582356	irlenbusch, bernd
+582356	rockenbach, bettina
+584206	dhyani, devanshu
+584206	ng, wee k.
+584206	bhowmick, sourav s.
+584533	conway, john
+584533	kochen, simon
+584547	willig, katrin i.
+584547	rizzoli, silvio o.
+584547	westphal, volker
+584547	jahn, reinhard
+584547	hell, stefan w.
+585952	jurie, frederic
+585952	triggs, bill
+587700	zeng, liangzhao
+587700	benatallah, b.
+587700	ngu, a. h. h.
+587700	dumas, m.
+587700	kalagnanam, j.
+587700	chang, h.
+590914	churchill, e. f.
+590914	halverson, c. a.
+593144	katz, slava m.
+593175	miller, george a.
+593175	beckwith, richard
+593175	fellbaum, christiane
+593175	gross, derek
+593175	miller, katherine
+594772	matzinger, polly
+594821	hirschman, lynette
+594821	yeh, alexander
+594821	blaschke, christian
+594821	valencia, alfonso
+594822	yeh, alexander
+594822	morgan, alexander
+594822	colosimo, marc
+594822	hirschman, lynette
+595408	mathieu
+595633	ispolatov, i.
+595633	krapivsky, p. l.
+595633	yuryev, a.
+598208	heylighen, francis
+598208	cilliers, paul
+598208	gershenson, carlos
+598868	davatzikos, c.
+598868	ruparel, k.
+598868	fan, y.
+598868	shen, d. g.
+598868	acharyya, m.
+598868	loughead, j. w.
+598868	gur, r. c.
+598868	langleben, d. d.
+599904	lipman, d. j.
+599904	pearson, w. r.
+600388	nguyen, dat h.
+600388	d'haeseleer, patrik
+600541	salton, gerard
+600541	buckley, chris
+603893	lande, r.
+603893	arnold, s. j.
+604304	mcguinness, deborah l.
+608465	benford, steve
+608465	crabtree, andy
+608465	reeves, stuart
+608465	sheridan, jennifer
+608465	dix, alan
+608465	flintham, martin
+608465	drozd, adam
+608690	misura, k. m.
+608690	chivian, d.
+608690	rohl, c. a.
+608690	kim, d. e.
+608690	baker, d.
+608904	murphy, gail c.
+608904	notkin, david
+608904	sullivan, kevin j.
+612089	ein-dor, liat
+612089	zuk, or
+612089	domany, eytan
+612596	mattick, john s.
+612596	makunin, igor v.
+613092	hegselmann, rainer
+613092	krause, ulrich
+613130	czarnecki, k.
+613130	helsen, s.
+613130	eisenecker, u.
+619738	schapire, r.
+619738	singer, y.
+619753	hasegawa, m.
+619753	kishino, h.
+619753	yano, t.
+622020	hofstadter, douglas r.
+624835	bentley, p.
+624835	kumar, s.
+624990	neil
+625347	frith, martin c c.
+625347	ponjavic, jasmina
+625347	fredman, david
+625347	kai, chikatoshi
+625347	kawai, jun
+625347	carninci, piero
+625347	hayshizaki, yoshihide
+625347	sandelin, albin
+626055	david, olivier
+626055	friston, karl j.
+631023	sassen, saskia
+634084	fodor, jerry a.
+634084	pylyshyn, zenon w.
+634897	nielsen, jakob
+635513	chapin, f. s.
+635513	zavaleta, erika s.
+635513	eviner, valerie t.
+635513	naylor, rosamond l.
+635513	vitousek, peter m.
+635513	reynolds, heather l.
+635513	hooper, david u.
+635513	lavorel, sandra
+635513	sala, osvaldo e.
+635513	hobbie, sarah e.
+635513	mack, michelle c.
+635513	diaz, sandra
+643915	sutton, r. s.
+643915	barto, a. g.
+653744	longley, john
+654294	card, s. k.
+654294	mackinlay, j.
+658235	posada, d.
+658235	buckley, t. r.
+658841	yin, henry h.
+658841	knowlton, barbara j.
+663686	ondrejka
+663718	kelly, richard v.
+663920	acemoglu, daron
+663920	johnson, simon
+663920	robinson, james a.
+665925	bhattacharyya, roby p.
+665925	rem\\'{e}nyi, attila
+665925	yeh, brian j.
+665925	lim, wendell a.
+665989	jones, matt
+665989	marsden, gary
+666883	lee, e. a.
+667832	perry, george h.
+667832	tchinda, joelle
+667832	mcgrath, sean d.
+667832	zhang, junjun
+667832	picker, simon r.
+667832	c\\'{a}ceres, angela m.
+667832	iafrate, a. john
+667832	tyler-smith, chris
+667832	scherer, stephen w.
+667832	eichler, evan e.
+667832	stone, anne c.
+667832	lee, charles
+668238	zhou, hongyi
+668238	zhou, yaoqi
+673554	nevill-manning, craig g.
+673554	witten, ian h.
+680937	sachidanandam, r.
+680937	weissman, d.
+680937	schmidt, s. c.
+680937	kakol, j. m.
+680937	stein, l. d.
+680937	marth, g.
+680937	sherry, s.
+680937	mulkin, j. c.
+680937	mortimore, b. j.
+680937	wiley, d. l.
+680937	hunt, s. e.
+680937	cole, c. g.
+680937	coggil, p. c.
+680937	rice, c. m.
+680937	ning, z.
+680937	rogers, j.
+680937	bentley, d. r.
+680937	kwok, p. y.
+680937	mardis, e. r.
+680937	yeh, r. t.
+680937	schultz, b.
+680937	cook, l.
+680937	davenport, r.
+680937	dante, m.
+680937	fulton, l.
+680937	hillier, l.
+680937	waterston, r. h.
+680937	mcpherson, k. d.
+680937	gilman, b.
+680937	schaffner, s.
+680937	{etten}, {van w. j.}
+680937	reich, d.
+680937	higgins, j.
+680937	daly, m. j.
+680937	blumenstiel, b.
+680937	baldwin, j.
+680937	thomann, stange n.
+680937	zody, m. c.
+680937	linton, l.
+680937	lander, e. s.
+680937	altshuler, d.
+681467	spertus, ellen
+681467	sahami, mehran
+681467	buyukkokten, orkut
+681886	haykin, s.
+683079	mootha, vamsi k.
+683079	lindgren, cecilia m.
+683079	eriksson, karl-fredrik
+683079	subramanian, aravind
+683079	sihag, smita
+683079	lehar, joseph
+683079	puigserver, pere
+683079	carlsson, emma
+683079	ridderstrale, martin
+683079	laurila, esa
+683079	houstis, nicholas
+683079	daly, mark j.
+683079	patterson, nick
+683079	mesirov, jill p.
+683079	golub, todd r.
+683079	tamayo, pablo
+683079	spiegelman, bruce
+683079	lander, eric s.
+683079	hirschhorn, joel n.
+683079	altshuler, david
+683079	groop, leif c.
+685683	burnham, judy f.
+691332	dearden, andy
+691332	finlay, janet
+691971	ardissono, liliana
+691971	console, luca
+691971	torre, ilaria
+694515	schmidt, kjeld
+694702	mcnett, marvin
+694702	voelker, geoffrey m.
+695505	sun, jian
+695505	yuan, lu
+695505	jia, jiaya
+695505	shum, heung y.
+697330	richman, joshua s.
+697330	moorman, j. randall
+697912	crabtree, andy
+697912	benford, steve
+697912	greenhalgh, chris
+697912	tennent, paul
+697912	chalmers, matthew
+697912	brown, barry
+699834	ekman, diana
+699834	light, sara
+699834	bj\\"{o}rklund, asa k.
+699834	elofsson, arne
+707182	von hippel, e.
+707725	arguello, jaime
+707725	butler, brian s.
+707725	joyce, elisabeth
+707725	kraut, robert
+707725	ling, kimberly s.
+707725	ros\\&\\#233;, carolyn
+707725	wang, xiaoqing
+708641	thevenaz, p.
+708641	unser, m.
+712068	bruns, axel
+713345	guillaume, j.
+714224	kennerley, steven w.
+714224	walton, mark e.
+714224	behrens, timothy e. j.
+714224	buckley, mark j.
+714224	rushworth, matthew f. s.
+732865	koshman, s.
+732884	gatignon, h.
+732884	tushman, m. l.
+732884	smith, w.
+732884	anderson, p.
+735298	binder, k.
+735744	dolinsky, todd j.
+735744	nielsen, jens e.
+735744	mccammon, j. andrew
+735744	baker, nathan a.
+737763	lee, yoontae
+737763	kim, minju
+737763	han, jinju
+737763	yeom, kyu-hyun h.
+737763	lee, sanghyuk
+737763	baek, sung hee h.
+737763	kim, v. narry
+739398	vagin, vasily v v.
+739398	sigova, alla
+739398	li, chengjian
+739398	seitz, herv\\'{e}
+739398	gvozdev, vladimir
+739398	zamore, phillip d d.
+739792	maekawa, t.
+739792	hara, t.
+739792	nishio, s.
+745563	greicius, m. d.
+745563	krasnow, b.
+745563	reiss, a. l.
+745563	menon, v.
+748961	herrg\\r{a}rd, markus j.
+748961	fong, stephen s.
+748961	palsson, bernhard
+750011	force, a.
+750011	lynch, m.
+750011	pickett, f. b.
+750011	amores, a.
+750011	yan, y. l.
+750011	postlethwait, j.
+753025	renda, m. e.
+753025	straccia, u.
+753171	lapelle, nancy r.
+753171	luckmann, roger
+753171	simpson, e. hatheway
+753171	martin, elaine r.
+754255	wienholds, erno
+754255	kloosterman, wigard p.
+754255	miska, eric
+754255	alvarez-saavedra, ezequiel
+754255	berezikov, eugene
+754255	de bruijn, ewart
+754255	horvitz, h. robert
+754255	kauppinen, sakari
+754255	plasterk, ronald h. a.
+754945	cameron, adrian c.
+756195	huang, zan
+756195	li, xin
+756195	chen, hsinchun
+759594	irani, michal
+761824	anderson, chris
+765744	sanges, remo
+765744	kalmar, eva
+765744	claudiani, pamela
+765744	d'amato, maria
+765744	muller, ferenc
+765744	stupka, elia
+768502	{hedges}, {blair s.}
+768502	kumar, s.
+768516	ye, w.
+768516	heidemann, j.
+768516	estrin, d.
+768767	scheet, paul
+768767	stephens, matthew
+769669	badolato, antonio
+769669	hennessy, kevin
+769669	atat\\"{u}re, mete
+769669	dreiser, jan
+769669	hu, evelyn
+769669	petroff, pierre m.
+769669	imamo\\u{g}lu, atac
+772702	miller, melissa b.
+772702	bassler, bonnie l.
+774482	morris, genela
+774482	nevet, alon
+774482	arkadir, david
+774482	vaadia, eilon
+774482	bergman, hagai
+776652	sinha, saurabh
+778023	hinton, g. e.
+778023	salakhutdinov, r. r.
+781534	gupta, anil k.
+781534	govindarajan, vijay
+781872	schlosshauer, maximilian
+781890	stanley, h. eugene
+787025	bryman, alan
+789655	chen, david
+789655	muller, hans m.
+789655	sternberg, paul
+791438	sogin, mitchell l.
+791438	morrison, hilary g.
+791438	huber, julie a.
+791438	welch, david m.
+791438	huse, susan m.
+791438	neal, phillip r.
+791438	arrieta, jesus m.
+791438	herndl, gerhard j.
+796286	al-lazikani, b.
+796286	jung, j.
+796286	xiang, z.
+796286	honig, b.
+797020	leonhardt, ulf
+797379	teshima, kosuke m.
+797379	coop, graham
+797379	przeworski, molly
+800904	seitz, steven m.
+800904	curless, brian
+800904	diebel, james
+800904	scharstein, daniel
+800904	szeliski, richard
+801335	wagsta, kiri
+801335	cardie, claire
+801335	rogers, seth
+801335	schroedl, stefan
+801860	mello, craig c.
+801860	conte, darryl
+802360	ruth, p.
+802360	rhee, junghwan
+802360	xu, dongyan
+802360	kennell, r.
+802360	goasguen, s.
+804369	mack, alexandra
+804369	mehta, dina
+808558	cooper, max d.
+808558	alder, matthew n.
+808574	alon, noga
+812862	megraw, molly
+812862	baev, vesselin
+812862	rusinov, ventsislav
+812862	jensen, shane t.
+812862	kalantidis, kriton
+812862	hatzigeorgiou, artemis g.
+814224	jain, a. k.
+814224	mao, j. c.
+814224	mohiuddin, k. m.
+816093	m\\"{a}kel\\"{a}, t.
+816093	clarysse, p.
+816093	sipil\\"{a}, o.
+816093	pauna, n.
+816093	pham, q. c.
+816093	katila, t.
+816093	magnin, i. e.
+816513	forte, a.
+816513	bruckman, a.
+816965	rajewsky, nikolaus
+816965	vergassola, massimo
+816965	gaul, ulrike
+816965	siggia, eric d.
+820132	agrawal, rakesh
+820132	rajagopalan, sridhar
+820132	srikant, ramakrishnan
+820132	xu, yirong
+820297	fawcett, tom
+820473	ding, mingzhou
+820473	chen, yonghong
+820473	bressler, steven l.
+820512	akutsu, t.
+820512	miyano, s.
+820512	kuhara, s.
+820838	mcguire, a. m.
+820838	hughes, j. d.
+820838	church, g. m.
+821236	koyut\\"{u}rk, mehmet
+821236	kim, yohan
+821236	topkara, umut
+821236	subramaniam, shankar
+821236	szpankowski, wojciech
+821236	grama, ananth
+821916	bilu, yonatan
+821916	shlomi, tomer
+821916	barkai, naama
+821916	ruppin, eytan
+822067	conway, john h.
+822218	desantis, t. z.
+822218	hugenholtz, p.
+822218	keller, k.
+822218	brodie, e. l.
+822218	larsen, n.
+822218	piceno, y. m.
+822218	phan, r.
+822218	andersen, g. l.
+828031	dowell, robin
+828031	eddy, sean
+832827	karypis, george
+834982	chowdhury
+834982	gobinda
+834982	poulter
+834982	alan
+834982	mcmenemy
+834982	david
+837815	jones, j.
+837815	palmer, l.
+841692	debevec, paul e.
+841692	malik, jitendra
+841946	trappe, v.
+841946	prasad, v.
+841946	cipelletti, luca
+841946	segre, p. n.
+841946	weitz, d. a.
+848440	levin, simon a.
+848639	bock, christoph
+848639	paulsen, martina
+848639	tierling, sascha
+848639	mikeska, thomas
+848639	lengauer, thomas
+848639	walter, j\\"{o}rn
+850491	glenberg, a.
+850491	robertson, d.
+867069	hearst, marti
+867069	elliott, ame
+867069	english, jennifer
+867069	sinha, rashmi
+867069	swearingen, kirsten
+867069	yee, ka-ping
+867481	rocha, eduardo p. c.
+867481	smith, john m.
+867481	hurst, laurence d.
+867481	holden, matthew t. g.
+867481	cooper, jessica e.
+867481	smith, noel h.
+867481	feil, edward j.
+874803	rizzolatti
+875656	de roure, david
+875656	jennings, nicholas r.
+875656	shadbolt, nigel r.
+876030	shapiro, michael d.
+876030	marks, melissa e.
+876030	peichel, catherine l.
+876030	blackman, benjamin k.
+876030	nereng, kirsten s.
+876030	jonsson, bjarni
+876030	schluter, dolph
+876030	kingsley, david m.
+876469	bailey, timothy l.
+876469	williams, nadya
+876469	misleh, chris
+876469	li, wilfred w.
+876610	liu, x.
+876610	liu, j. s.
+876610	brutlag, d. l.
+876801	plagnol, vincent
+876801	wall, jeffrey d.
+878218	healey, c. g.
+878218	enns, j. t.
+886600	levy, emmanuel d.
+886600	pereira-leal, jose b.
+886600	chothia, cyrus
+886600	teichmann, sarah a.
+888790	shipley, bill
+888790	vile, denis
+888790	garnier, \\'{e}ric
+891480	jeh, glen
+891480	widom, jennifer
+892193	grant, barry j j.
+892193	rodrigues, ana p c p.
+892193	elsawy, karim m m.
+892193	mccammon, j andrew a.
+892193	caves, leo s d s.
+907397	ananiadou, sophia
+907397	kell, douglas b.
+907397	tsujii, jun-ichi
+909969	biel
+910675	elnitski, laura
+910675	jin, victor x.
+910675	farnham, peggy j.
+910675	jones, steven j. m.
+913189	ma, wei j.
+913189	beck, jeffrey m.
+913189	latham, peter e.
+913189	pouget, alexandre
+913652	dawkins, richard
+913782	huang, niu
+913782	shoichet, brian k.
+913782	irwin, john j.
+916031	kirby, s.
+916031	hurford, j.
+916577	bousquet, f.
+916577	le page, c.
+921343	berezikov, eugene
+921343	thuemmler, fritz
+921343	van laake, linda w.
+921343	kondova, ivanela
+921343	bontrop, ronald
+921343	cuppen, edwin
+921343	plasterk, ronald h. a.
+921768	gigan, s.
+921768	bohm, h. r.
+921768	paternostro, m.
+921768	blaser, f.
+921768	langer, g.
+921768	hertzberg, j. b.
+921768	schwab, k. c.
+921768	bauerle, d.
+921768	aspelmeyer, m.
+921768	zeilinger, a.
+922550	stanke, m.
+922550	waack, s.
+922563	besemer, j.
+922563	lomsadze, a.
+922563	borodovsky, m.
+922585	majoros, w. h.
+922585	pertea, m.
+922585	salzberg, s. l.
+922588	meyer, i. m.
+922588	durbin, r.
+925514	reid, jane
+930113	brill, e.
+930125	brown, p.
+930125	cocke, j.
+930125	{pietra}, {della s.}
+930125	{pietra}, {della v.}
+930125	jelinek, f.
+930125	mercer, r. l.
+930125	roossin, p. s.
+930236	cohen, w.
+931189	osborne, m.
+931732	sleator, d.
+931732	temperley, d.
+933268	picard, r. w.
+933268	vyzas, e.
+933268	healey, j.
+933410	efimova, l.
+933410	de moor, a.
+934384	berger, michael f.
+934384	philippakis, anthony a.
+934384	qureshi, aaron m.
+934384	he, fangxue s.
+934384	estep, preston w.
+934384	bulyk, martha l.
+942734	ramesh, balasubramaniam
+942734	tiwana, amrit
+943475	grill-spector, kalanit
+943475	malach, rafael
+943570	hartman, john l.
+943570	garvik, barbara
+943570	hartwell, lee
+944934	friston, karl
+944934	kilner, james
+944934	harrison, lee
+948687	tomasi, c.
+948687	manduchi, r.
+948882	carbonetto, peter
+948882	de freitas, nando
+948882	barnard, kobus
+948905	russell, b. c.
+948905	efros, a. a.
+948905	sivic, j.
+948905	freeman, w. t.
+948905	zisserman, a.
+948907	shotton, jamie
+948907	winn, john
+948907	rother, carsten
+948907	criminisi, antonio
+948910	torralba, antonio
+950849	fischl, bruce
+950849	sereno, martin i.
+950849	dale, anders m.
+952015	van rullen, r.
+952015	thorpe, s. j.
+952543	colding, johan
+952543	folke, carl
+954839	lange, christoph
+955090	sengers, phoebe
+955090	boehner, kirsten
+955090	david, shay
+955090	kaye, joseph '.
+955467	crawford, vincent p.
+955467	sobel, joel
+957758	ahlers, caroline
+957758	fiszman, marcelo
+957758	demner-fushman, dina
+957758	lang, francois-michel
+957758	rindflesch, thomas
+963455	sch{\\"a}fer, juliane
+963455	strimmer, korbinian
+964843	mikolajczyk, k.
+964843	leibe, b.
+964843	schiele, b.
+965068	mutch, j.
+965068	lowe, d. g.
+970694	akira, shizuo
+970694	uematsu, satoshi
+970694	takeuchi, osamu
+975240	chapin, f. s.
+975240	woodwell, g. m.
+975240	randerson, j. t.
+975240	rastetter, e. b.
+975240	lovett, g. m.
+975240	baldocchi, d. d.
+975240	clark, d. a.
+975240	harmon, m. e.
+975240	schimel, d. s.
+975240	valentini, r.
+975240	wirth, c.
+975240	aber, j. d.
+975240	cole, j. j.
+975240	goulden, m. l.
+975240	harden, j. w.
+975240	heimann, m.
+975240	howarth, r. w.
+975240	matson, p. a.
+975240	mcguire, a. d.
+975240	melillo, j. m.
+975240	mooney, h. a.
+975240	neff, j. c.
+975240	houghton, r. a.
+975240	pace, m. l.
+975240	ryan, m. g.
+975240	running, s. w.
+975240	sala, o. e.
+975240	schlesinger, w. h.
+975240	schulze, e. d.
+988558	kleinberg, jon
+990151	pasupathy, a.
+990151	connor, c. e.
+997130	kiebel, stefan j.
+997130	kloppel, stefan
+997130	weiskopf, nikolaus
+997130	friston, karl j.
+997264	dekker, job
+997264	rippe, karsten
+997264	dekker, martijn
+997264	kleckner, nancy
+997319	yuan, joshua s.
+997319	reed, ann
+997319	chen, feng
+997319	stewart, c. neal
+997773	hermsen, rutger
+997773	tans, sander
+997773	ten wolde, pieter r.
+1007150	dorogovtsev, s. n.
+1007150	goltsev, a. v.
+1007150	mendes, j. f. f.
+1008038	lescoute, a.
+1008038	westhof, e.
+1009267	hutchins, edwin l.
+1009267	hollan, james d.
+1009267	norman, donald a.
+1014999	rajan, kaushik s.
+1018763	meho, lokman i.
+1018763	yang, kiduk
+1018856	zlati\\'{c}, v.
+1018856	bo\\v{z}i\\v{c}evi\\'{c}, m.
+1018856	\\v{s}tefan\\v{c}i\\'{c}, h.
+1018856	domazet, m.
+1019645	koppel, moshe
+1019645	argamon, shlomo
+1019645	shimoni, anat r.
+1021904	albert, r\\'{e}ka
+1021904	othmer, hans g.
+1024536	bao, lei
+1024536	zhou, mi
+1024536	wu, ligang
+1024536	lu, lu
+1024536	goldowitz, dan
+1024536	williams, robert w w.
+1024536	cui, yan
+1026394	lee, sang h.
+1026394	kim, pan j.
+1026394	jeong, hawoong
+1030375	lu, peng
+1030375	vogel, christine
+1030375	wang, rong
+1030375	yao, xin
+1030375	marcotte, edward m.
+1031386	he, lin
+1031386	hannon, gregory j.
+1031537	efron, bradley
+1031537	tibshirani, robert
+1031537	storey, john d.
+1031537	tusher, virginia
+1031598	von ahn, l.
+1032933	faith, jeremiah j.
+1032933	hayete, boris
+1032933	thaden, joshua t.
+1032933	mogno, ilaria
+1032933	wierzbowski, jamey
+1032933	cottarel, guillaume
+1032933	kasif, simon
+1032933	collins, james j.
+1032933	gardner, timothy s.
+1036116	kerrien, s.
+1036116	alam-faruque, y.
+1036116	aranda, b.
+1036116	bancarz, i.
+1036116	bridge, a.
+1036116	derow, c.
+1036116	dimmer, e.
+1036116	feuermann, m.
+1036116	friedrichsen, a.
+1036116	huntley, r.
+1036116	kohler, c.
+1036116	khadake, j.
+1036116	leroy, c.
+1036116	liban, a.
+1036116	lieftink, c.
+1036116	montecchi-palazzi, l.
+1036116	orchard, s.
+1036116	risse, j.
+1036116	robbe, k.
+1036116	roechert, b.
+1036116	thorneycroft, d.
+1036116	zhang, y.
+1036116	apweiler, r.
+1036116	hermjakob, h.
+1036807	guimera, roger
+1036807	sales-pardo, marta
+1036807	amaral, luis a. n.
+1037601	dellschaft, klaas
+1037601	staab, steffen
+1041298	karlson, amy k.
+1041298	robertson, george g.
+1041298	robbins, daniel c.
+1041298	czerwinski, mary p.
+1041298	smith, greg r.
+1044715	carvalho, benilton
+1044715	bengtsson, henrik
+1044715	speed, terence p.
+1044715	irizarry, rafael a.
+1049337	scholze, marko
+1049337	knorr, wolfgang
+1049337	arnell, nigel w.
+1049337	prentice, i. colin
+1050114	hooper, sean d.
+1050114	boue, stephanie
+1050114	krause, roland
+1050114	jensen, lars j.
+1050114	mason, christopher e.
+1050114	ghanim, murad
+1050114	white, kevin p.
+1050114	furlong, eileen e. m.
+1050114	bork, peer
+1051429	wallace, douglas c.
+1056288	rivals, isabelle
+1056288	personnaz, l\\'{e}on
+1056288	taing, lieng
+1056288	potier, marie-claude
+1059893	oren, e.
+1059893	delbru, r.
+1059893	decker, s.
+1060049	martianov, igor
+1060049	ramadass, aroul
+1060049	serra barros, ana
+1060049	chow, natalie
+1060049	akoulitchev, alexandre
+1062025	down, thomas a.
+1062025	bergman, casey m.
+1062025	su, jing
+1062025	hubbard, tim j. p.
+1067406	bao, zhirong
+1067406	murray, john i.
+1067406	boyle, thomas
+1067406	ooi, siew loon l.
+1067406	sandel, matthew j.
+1067406	waterston, robert h.
+1068847	gelman, andrew
+1068847	hill, jennifer
+1069345	m\\'{a}rquez, luis m.
+1069345	redman, regina s.
+1069345	rodriguez, russell j.
+1069345	roossinck, marilyn j.
+1069750	ameshi
+1082136	case, donald o.
+1086538	fair, damien a.
+1086538	schlaggar, bradley l.
+1086538	cohen, alexander l.
+1086538	miezin, francis m.
+1086538	dosenbach, nico u.
+1086538	wenger, kristin k.
+1086538	fox, michael d.
+1086538	snyder, abraham z.
+1086538	raichle, marcus e.
+1086538	petersen, steven e.
+1088311	calhoun, v.
+1088311	adali, t.
+1088311	pekar, j.
+1088398	collins, sean r.
+1088398	kemmeren, patrick
+1088398	zhao, xue-chu
+1088398	greenblatt, jack f.
+1088398	spencer, forrest
+1088398	holstege, frank c. p.
+1088398	weissman, jonathan s.
+1088398	krogan, nevan j.
+1090474	herz, andreas v.
+1090474	gollisch, tim
+1090474	machens, christian k.
+1090474	jaeger, dieter
+1091142	nonaka, i.
+1091142	konno, n.
+1094357	gibson, david
+1096254	sandberg, rickard
+1096254	larsson, ola
+1097083	pyysalo, sampo
+1097083	ginter, filip
+1097083	heimonen, juho
+1097083	bjorne, jari
+1097083	boberg, jorma
+1097083	jarvinen, jouni
+1097083	salakoski, tapio
+1103162	xia, kai
+1103162	xue, huiling
+1103162	dong, dong
+1103162	zhu, shanshan
+1103162	wang, jiamu
+1103162	zhang, qingpeng
+1103162	hou, lei
+1103162	chen, hua
+1103162	tao, ran
+1103162	huang, zheng
+1103162	fu, zheng
+1103162	chen, ye-guang
+1103162	han, jing-dong j.
+1105908	henrich, joseph
+1105908	boyd, robert
+1106067	banko, michele
+1106067	cafarella, michael j.
+1106067	soderland, stephen
+1106067	broadhead, matthew
+1106067	etzioni, oren
+1106569	skillicorn, david b.
+1106569	talia, domenico
+1107595	dudley, john m.
+1107595	genty, go\\"{e}ry
+1107595	coen, st\\'{e}phane
+1109408	speretta, m.
+1109408	gauch, s.
+1110638	wray, gregory a.
+1111375	goeman, jelle j.
+1111375	b\\"{u}hlmann, peter
+1116783	ahern, shane
+1116783	eckles, dean
+1116783	good, nathan
+1116783	king, simon
+1116783	naaman, mor
+1116783	nair, rahul
+1116982	otsu, n.
+1117170	levy, eliezer
+1117170	silberschatz, abraham
+1118438	kremer, michael
+1121438	eagle, nathan
+1121438	pentland, alex
+1122346	kubota, rie
+1122346	zhang, tong
+1123052	ishikawa, takashi
+1123052	klaisubun, piyanuch
+1123052	honma, masahiro
+1123052	qian, zhengyu
+1125833	joint, nicholas
+1126745	barton, jane
+1126745	currier, sarah
+1126745	hey, jessie m. n.
+1126765	sommer, daniel
+1126765	delcher, arthur
+1126765	salzberg, steven
+1126765	pop, mihai
+1130486	saunders, matthew a.
+1130486	liang, han
+1130486	li, wen-hsiung
+1137074	kok, pieter
+1137074	nemoto, kae
+1137074	ralph, t. c.
+1137074	dowling, jonathan p.
+1137074	milburn, g. j.
+1142586	tsoumakas, grigorios
+1142586	katakis, ioannis
+1144984	kelly, k. lance
+1144984	coronado, eduardo
+1144984	zhao, lin l.
+1144984	schatz, george c.
+1145123	pop, mihai
+1145123	phillippy, adam
+1145123	delcher, arthur l.
+1145123	salzberg, steven l.
+1145683	huang, elaine m.
+1145683	mynatt, elizabeth d.
+1146027	ha, t.
+1146124	pierce, david
+1146124	kuipers, benjamin
+1146927	lage, kasper
+1146927	karlberg, e. olof
+1146927	st{\\o}rling, zenia m.
+1146927	olason, p\\'{a}ll i.
+1146927	pedersen, anders g.
+1146927	rigina, olga
+1146927	hinsby, anders m.
+1146927	t\\"{u}mer, zeynep
+1146927	pociot, flemming
+1146927	tommerup, niels
+1146927	moreau, yves
+1146927	brunak, s{\\o}ren
+1152368	warlick, stefanie e.
+1152368	vaughan, k. t. l.
+1153312	kim, hyoung r.
+1153312	chan, philip k.
+1155153	saltzer, j. h.
+1155153	schroeder, m. d.
+1155801	o'hern, corey s.
+1155801	langner, stephen a.
+1155801	liu, andrea j.
+1155801	nagel, sidney r.
+1158212	tang, hua
+1158212	coram, marc
+1158212	wang, pei
+1158212	zhu, xiaofeng
+1158212	risch, neil
+1158241	frantzi, katerina
+1158241	ananiadou, sophia
+1158241	mima, hideki
+1158393	cootes, t. f.
+1158393	taylor, c. j.
+1158393	cooper, d. h.
+1158393	graham, j.
+1159111	jones, peter a.
+1159111	baylin, stephen b.
+1159921	himmelspach, jan
+1159921	uhrmacher, adelinde m.
+1159939	le nov{\\`e}re, n.
+1159939	shimizu, t. s.
+1161647	zeitlinger, j.
+1161647	zinzen, r. p.
+1161647	stark, a.
+1161647	kellis, m.
+1161647	zhang, h.
+1161647	young, r. a.
+1161647	levine, m.
+1165718	page, scott e.
+1167552	chachulski, szymon
+1167552	jennings, michael
+1167552	katti, sachin
+1167552	katabi, dina
+1169116	vastrik, imre
+1169116	d'eustachio, peter
+1169116	schmidt, esther
+1169116	tope, geeta j.
+1169116	gopinath, gopal
+1169116	croft, david
+1169116	de bono, bernard
+1169116	gillespie, marc
+1169116	jassal, bijay
+1169116	lewis, suzanna
+1169116	matthews, lisa
+1169116	wu, guanming
+1169116	birney, ewan
+1169116	stein, lincoln
+1169701	krizhanovsky, a.
+1169733	morgenstern, b.
+1169733	dress, a.
+1169733	werner, t.
+1176143	fusi, stefano
+1176143	abbott, l. f.
+1181456	hamra, anwar a.
+1181456	barakat, chadi
+1181456	turletti, thierry
+1181833	han, jung-hoon h.
+1181833	batey, sarah
+1181833	nickson, adrian a.
+1181833	teichmann, sarah a.
+1181833	clarke, jane
+1181873	barrangou, r.
+1181873	fremaux, c.
+1181873	deveau, h.
+1181873	richards, m.
+1181873	boyaval, p.
+1181873	moineau, s.
+1181873	romero, d. a.
+1181873	horvath, p.
+1188027	suel, gurol m.
+1188027	kulkarni, rajan p.
+1188027	dworkin, jonathan
+1188027	garcia-ojalvo, jordi
+1188027	elowitz, michael b.
+1193410	hofmann, thomas
+1198575	vicens, quentin
+1198575	bourne, philip e.
+1201474	siemer, matthias
+1201474	reisenzein, rainer
+1201711	romero, c.
+1201711	ventura, s.
+1204337	gwizdka, jacek
+1204515	kyle, a. s.
+1205857	barnes, kassandra
+1205857	marateo, raymond c.
+1205857	ferris, pixy s.
+1205895	teeling, hanno
+1205895	meyerdierks, anke
+1205895	bauer, margarete
+1205895	amann, rudolf
+1205895	gl\\"{o}ckner, frank o.
+1208448	zhang, feng
+1208448	wang, li-ping p.
+1208448	brauner, martin
+1208448	liewald, jana f.
+1208448	kay, kenneth
+1208448	watzke, natalie
+1208448	wood, phillip g.
+1208448	bamberg, ernst
+1208448	nagel, georg
+1208448	gottschalk, alexander
+1208448	deisseroth, karl
+1217461	curran, sean p p.
+1217461	ruvkun, gary
+1219929	reddy, timothy e.
+1219929	delisi, charles p.
+1219929	shakhnovich, boris
+1222463	zigoris, philip
+1222463	zhang, yi
+1223530	{rhesus macaque genome sequencing
+1223530	analysis consortium}
+1223530	gibbs, richard a.
+1223530	rogers, jeffrey
+1223530	katze, michael g.
+1223530	bumgarner, roger
+1223530	weinstock, george m.
+1223530	mardis, elaine r.
+1223530	remington, karin a.
+1223530	strausberg, robert l.
+1223530	venter, j. craig
+1223530	wilson, richard k.
+1223530	batzer, mark a.
+1223530	bustamante, carlos d.
+1223530	eichler, evan e.
+1223530	hahn, matthew w.
+1223530	hardison, ross c.
+1223530	makova, kateryna d.
+1223530	miller, webb
+1223530	milosavljevic, aleksandar
+1223530	palermo, robert e.
+1223530	siepel, adam
+1223530	sikela, james m.
+1223530	attaway, tony
+1223530	bell, stephanie
+1223530	bernard, kelly e.
+1223530	buhay, christian j.
+1223530	chandrabose, mimi n.
+1223530	dao, marvin
+1223530	davis, clay
+1223530	delehaunty, kimberly d.
+1223530	ding, yan
+1223530	dinh, huyen h.
+1223530	dugan-rocha, shannon
+1223530	fulton, lucinda a.
+1223530	gabisi, ramatu ayiesha a.
+1223530	garner, toni t.
+1223530	godfrey, jennifer
+1223530	hawes, alicia c.
+1223530	hernandez, judith
+1223530	hines, sandra
+1223530	holder, michael
+1223530	hume, jennifer
+1223530	jhangiani, shalini n.
+1223530	joshi, vandita
+1223530	khan, ziad mohid m.
+1223530	kirkness, ewen f.
+1223530	cree, andrew
+1223530	fowler, r. gerald
+1223530	lee, sandra
+1223530	lewis, lora r.
+1223530	li, zhangwan
+1223530	liu, yih-shin s.
+1223530	moore, stephanie m.
+1223530	muzny, donna
+1223530	nazareth, lynne v.
+1223530	ngo, dinh ngoc n.
+1223530	okwuonu, geoffrey o.
+1223530	pai, grace
+1223530	parker, david
+1223530	paul, heidie a.
+1223530	pfannkoch, cynthia
+1223530	pohl, craig s.
+1223530	rogers, yu-hui h.
+1223530	ruiz, san juana j.
+1223530	sabo, aniko
+1223530	santibanez, jireh
+1223530	schneider, brian w.
+1223530	smith, scott m.
+1223530	sodergren, erica
+1223530	svatek, amanda f.
+1223530	utterback, teresa r.
+1223530	vattathil, selina
+1223530	warren, wesley
+1223530	white, courtney sherell s.
+1223530	chinwalla, asif t.
+1223530	feng, yucheng
+1223530	halpern, aaron l.
+1223530	hillier, ladeana w.
+1223530	huang, xiaoqiu
+1223530	minx, pat
+1223530	nelson, joanne o.
+1223530	pepin, kymberlie h.
+1223530	qin, xiang
+1223530	sutton, granger g.
+1223530	venter, eli
+1223530	walenz, brian p.
+1223530	wallis, john w.
+1223530	worley, kim c.
+1223530	yang, shiaw-pyng p.
+1223530	jones, steven m.
+1223530	marra, marco a.
+1223530	rocchi, mariano
+1223530	schein, jacqueline e.
+1223530	baertsch, robert
+1223530	clarke, laura
+1223530	cs\\"{u}r\\"{o}s, mikl\\'{o}s
+1223530	glasscock, jarret
+1223530	harris, r. alan
+1223530	havlak, paul
+1223530	jackson, andrew r.
+1223530	jiang, huaiyang
+1223530	liu, yue
+1223530	messina, david n.
+1223530	shen, yufeng
+1223530	song, henry xing-zhi x.
+1223530	wylie, todd
+1223530	zhang, lan
+1223530	birney, ewan
+1223530	han, kyudong
+1223530	konkel, miriam k.
+1223530	lee, jungnam
+1223530	smit, arian f.
+1223530	ullmer, brygg
+1223530	wang, hui
+1223530	xing, jinchuan
+1223530	burhans, richard
+1223530	cheng, ze
+1223530	karro, john e.
+1223530	ma, jian
+1223530	raney, brian
+1223530	she, xinwei
+1223530	cox, michael j.
+1223530	demuth, jeffery p.
+1223530	dumas, laura j.
+1223530	han, sang-gook g.
+1223530	hopkins, janet
+1223530	karimpour-fard, anis
+1223530	kim, young h.
+1223530	pollack, jonathan r.
+1223530	vinar, tomas
+1223530	addo-quaye, charles
+1223530	degenhardt, jeremiah
+1223530	denby, alexandra
+1223530	hubisz, melissa j.
+1223530	indap, amit
+1223530	kosiol, carolin
+1223530	lahn, bruce t.
+1223530	lawson, heather a.
+1223530	marklein, alison
+1223530	nielsen, rasmus
+1223530	vallender, eric j.
+1223530	clark, andrew g.
+1223530	ferguson, betsy
+1223530	hernandez, ryan d.
+1223530	hirani, kashif
+1223530	kehrer-sawatzki, hildegard
+1223530	kolb, jessica
+1223530	patil, shobha
+1223530	pu, ling-ling l.
+1223530	ren, yanru
+1223530	smith, david glenn g.
+1223530	wheeler, david a.
+1223530	schenck, ian
+1223530	ball, edward v.
+1223530	chen, rui
+1223530	cooper, david n.
+1223530	giardine, belinda
+1223530	hsu, fan
+1223530	kent, w. james
+1223530	lesk, arthur
+1223530	nelson, david l.
+1223530	o'brien, william e.
+1223530	pr\\"{u}fer, kay
+1223530	stenson, peter d.
+1223530	wallace, james c.
+1223530	ke, hui
+1223530	liu, xiao-ming m.
+1223530	wang, peng
+1223530	xiang, andy peng p.
+1223530	yang, fan
+1223530	barber, galt p.
+1223530	haussler, david
+1223530	karolchik, donna
+1223530	kern, andy d.
+1223530	kuhn, robert m.
+1223530	smith, kayla e.
+1223530	zwieg, ann s.
+1226694	beerenwinkel, niko
+1226694	pachter, lior
+1226694	sturmfels, bernd
+1226694	elena, santiago
+1226694	lenski, richard
+1229624	de duve, christian
+1233025	gaertner, g.
+1233025	cahill, v.
+1233290	rao, jinghai
+1233290	su, xiaomeng
+1247838	rae, i. wilson
+1247838	nooshi, n.
+1247838	zwerger, w.
+1247838	kippenberg, t. j.
+1259291	egli, r.
+1259291	adami, c.
+1260763	karau, steven j.
+1260763	williams, kipling d.
+1261882	lu, w.
+1261882	huang, c.
+1261882	zhou, m.
+1261882	mori, w. b.
+1261882	katsouleas, t.
+1269699	wiegand, thomas
+1269699	sullivan, gary j.
+1269699	bj{\\o}ntegaard, gisle
+1269699	luthra, ajay
+1271262	zahurak, marianna
+1271262	parmigiani, giovanni
+1271262	yu, wayne
+1271262	scharpf, robert
+1271262	berman, david
+1271262	schaeffer, edward
+1271262	shabbeer, shabana
+1271262	cope, leslie
+1279064	hu, zhenjun
+1279064	mellor, joe
+1279064	wu, jie
+1279064	kanehisa, minoru
+1279064	stuart, joshua m.
+1279064	delisi, charles
+1279899	lampe, cliff a. c.
+1279899	ellison, nicole
+1279899	steinfield, charles
+1281087	strahl, brian d.
+1281087	allis, c. david
+1282453	mills, ryan e.
+1282453	bennett, e. andrew
+1282453	iskow, rebecca c.
+1282453	devine, scott e.
+1284347	werner-allen, geoff
+1284347	lorincz, konrad
+1284347	johnson, jeff
+1284347	lees, jonathan
+1284347	welsh, matt
+1286356	su, qi
+1286356	pavlov, dmitry
+1286356	chow, jyh-herng
+1286356	baker, wendell c.
+1287783	hutv\\'{a}gner, gy\\"{o}rgy
+1287783	zamore, phillip d.
+1288127	pass, greg
+1288127	chowdhury, abdur
+1288127	torgeson, cayley
+1288910	bayardo, roberto j.
+1288910	ma, yiming
+1288910	srikant, ramakrishnan
+1289316	xie, xiaohui
+1289316	mikkelsen, tarjei s.
+1289316	gnirke, andreas
+1289316	lindblad-toh, kerstin
+1289316	kellis, manolis
+1289316	lander, eric s.
+1290889	waibel, a.
+1290889	hanazawa, t.
+1290889	hinton, g.
+1290889	shikano, k.
+1290889	lang, k. j.
+1291533	pandit, shashank
+1291533	chau, duen h.
+1291533	wang, samuel
+1291533	faloutsos, christos
+1297459	zimmerman, corinne
+1300254	he, xuming
+1300254	zemel, r. s.
+1300254	carreira-perpinan, m. a.
+1302073	wolfe, nathan d.
+1302073	dunavan, claire p.
+1302073	diamond, jared
+1302950	zhang, zhaolei
+1302950	carriero, nicholas
+1302950	zheng, deyou
+1302950	karro, john
+1302950	harrison, paul m.
+1302950	gerstein, mark
+1304918	nelson, richard r.
+1304918	winter, sidney g.
+1307464	alon, uri
+1314047	karmarkar, uma r.
+1314047	buonomano, dean v.
+1314313	champoux, j. j.
+1318673	irimia, manuel
+1318673	penny, david
+1318673	roy, scott w.
+1324984	stock, oliviero
+1324984	zancanaro, massimo
+1324984	busetta, paolo
+1324984	callaway, charles
+1324984	kr\\"{u}ger, antonio
+1324984	kruppa, michael
+1324984	kuflik, tsvi
+1324984	not, elena
+1324984	rocchi, cesare
+1324988	stein,, m
+1324988	gabdoulline,, r
+1324988	wade,, r
+1325178	martens, rob
+1325178	bastiaens, theo
+1325178	kirschner, paul a.
+1326435	bunescu, razvan
+1326435	pasca, marius
+1341447	banerjee, abhijit v.
+1352715	blanz, v.
+1352715	vetter, t.
+1355785	lin, h. t.
+1355785	lin, c. j.
+1355785	weng, r. c.
+1356652	handl, julia
+1356652	kell, douglas b.
+1356652	knowles, joshua
+1366162	aron, adam r.
+1373854	zmasek, christian m.
+1373854	eddy, sean r.
+1387480	cieplak, p.
+1387480	cornell, w. d.
+1387480	bayly, c.
+1387480	kollman, p. a.
+1389669	wiegand, nancy
+1389669	garcia, cassandra
+1390187	zhang, zhengdong d.
+1390187	paccanaro, alberto
+1390187	fu, yutao
+1390187	weissman, sherman
+1390187	weng, zhiping
+1390187	chang, joseph
+1390187	snyder, michael
+1390187	gerstein, mark b.
+1395097	dixon, lance j.
+1401901	knutsson, b.
+1401901	lu, honghui
+1401901	xu, wei
+1401901	hopkins, b.
+1405800	green, donald
+1405800	shapiro, ian
+1409286	lee, jong m.
+1409286	gianchandani, erwin p.
+1409286	papin, jason a.
+1413697	zhou, w. x.
+1413697	sornette, d.
+1413697	hill, r. a.
+1413697	dunbar, r. i. m.
+1424521	chen, yiwen
+1424521	ding, feng
+1424521	nie, huifen
+1424521	serohijos, adrian w.
+1424521	sharma, shantanu
+1424521	wilcox, kyle c.
+1424521	yin, shuangye
+1424521	dokholyan, nikolay v.
+1427756	hermann, johannes c.
+1427756	marti-arbona, ricardo
+1427756	fedorov, alexander a.
+1427756	fedorov, elena
+1427756	almo, steven c.
+1427756	shoichet, brian k.
+1427756	raushel, frank m.
+1436865	huang, c.
+1436865	li, j.
+1436865	ross, k. w.
+1439241	grimson, andrew
+1439241	farh, kyle k.
+1439241	johnston, wendy k.
+1439241	garrett-engele, philip
+1439241	lim, lee p.
+1439241	bartel, david p.
+1439666	airan, raag d.
+1439666	meltzer, leslie a.
+1439666	roy, madhuri
+1439666	gong, yuqing
+1439666	chen, han
+1439666	deisseroth, karl
+1446281	pacheco, carlos
+1446281	lahiri, shuvendu k.
+1446281	ernst, michael d.
+1446281	ball, thomas
+1464882	craighead, h. g.
+1465977	eyre-walker, adam
+1465977	keightley, peter d.
+1467510	lasserre, j. a.
+1467510	bishop, c. m.
+1467510	minka, t. p.
+1470445	hartig, julia v.
+1470445	tomari, yukihide
+1470445	f\\"{o}rstemann, klaus
+1471614	asthana, saurabh
+1471614	noble, william s.
+1471614	kryukov, gregory
+1471614	grant, charles e.
+1471614	sunyaev, shamil
+1471614	stamatoyannopoulos, john a.
+1485773	moore, g. c.
+1485773	benbasat, i.
+1505738	yeager, larry
+1506799	plake, conrad
+1506799	schiemann, torsten
+1506799	pankalla, marcus
+1506799	hakenberg, j\\"{o}rg
+1506799	leser, ulf
+1507853	batada, nizar n.
+1507853	hurst, laurence d.
+1510686	rattenbury, tye
+1510686	good, nathaniel
+1510686	naaman, mor
+1512273	gillespie, daniel t.
+1514425	komatsoulis, g.
+1514425	warzel, d.
+1514425	hartel, f.
+1514425	shanbhag, k.
+1514425	chilukuri, r.
+1514425	fragoso, g.
+1514425	coronado, s.
+1514425	reeves, d.
+1514425	hadfield, j.
+1514425	ludet, c.
+1524073	feist, adam m.
+1524073	henry, christopher s.
+1524073	reed, jennifer l.
+1524073	krummenacker, markus
+1524073	joyce, andrew r.
+1524073	karp, peter d.
+1524073	broadbelt, linda j.
+1524073	hatzimanikatis, vassily
+1524073	palsson, bernhard o.
+1526396	grilly, chris
+1526396	stricker, jesse
+1526396	pang, wyming l.
+1526396	bennett, matthew r.
+1526396	hasty, jeff
+1528517	benjelloun, omar
+1528517	garcia-molina, hector
+1528517	menestrina, david
+1528517	su, qi
+1528517	whang, steven e.
+1528517	widom, jennifer
+1528517	jonas, jeff
+1528747	palmer, chana
+1528747	bik, elisabeth m.
+1528747	digiulio, daniel b.
+1528747	relman, david a.
+1528747	brown, patrick o.
+1530733	han, jefferson y.
+1539479	raabe, alexander
+1542309	errami, mounir
+1542309	wren, jonathan d.
+1542309	hicks, justin m.
+1542309	garner, harold r.
+1550730	jackson, collin
+1550730	wang, helen j.
+1551015	quan, d.
+1560459	seth, anil k.
+1560459	edelman, gerald m.
+1573176	dean, antony m.
+1573176	thornton, joseph w.
+1576654	ebert, margaret s.
+1576654	neilson, joel r.
+1576654	sharp, phillip a.
+1578346	koonin, eugene
+1603668	ritchie, matthew e.
+1603668	silver, jeremy
+1603668	oshlack, alicia
+1603668	holmes, melissa
+1603668	diyagama, dileepa
+1603668	holloway, andrew
+1603668	smyth, gordon k.
+1604373	mullikin, james c.
+1604373	ning, zemin
+1616758	feldman, j.
+1618886	zhang, k.
+1618886	ginzburg, i.
+1618886	mcnaughton, b. l.
+1618886	sejnowski, t. j.
+1621877	cakmak, ali
+1621877	ozsoyoglu, gultekin
+1624269	boguna, m.
+1624269	krioukov, d.
+1624269	claffy, k. c.
+1624654	butts, daniel a.
+1624654	weng, chong
+1624654	jin, jianzhong
+1624654	yeh, chun-i
+1624654	lesica, nicholas a.
+1624654	alonso, jose-manuel
+1624654	stanley, garrett b.
+1629604	cooper, gregory m.
+1629604	nickerson, deborah a.
+1629604	eichler, evan e.
+1631086	langley, ann
+1631927	dunbar, r. i. m.
+1631927	shultz, susanne
+1634025	herrmann, esther
+1634025	call, josep
+1634025	hern\\`{a}ndez-lloreda, mar\\'{\\i}a v.
+1634025	hare, brian
+1634025	tomasello, michael
+1638951	cox-foster, diana l.
+1638951	conlan, sean
+1638951	holmes, edward c.
+1638951	palacios, gustavo
+1638951	evans, jay d.
+1638951	moran, nancy a.
+1638951	quan, phenix-lan
+1638951	briese, thomas
+1638951	hornig, mady
+1638951	geiser, david m.
+1638951	martinson, vince
+1638951	vanengelsdorp, dennis
+1638951	kalkstein, abby l.
+1638951	drysdale, andrew
+1638951	hui, jeffrey
+1638951	zhai, junhui
+1638951	cui, liwang
+1638951	hutchison, stephen k.
+1638951	simons, jan f.
+1638951	egholm, michael
+1638951	pettis, jeffery s.
+1638951	lipkin, w. ian
+1655248	lim, may
+1655248	metzler, richard
+1655248	bar-yam, yaneer
+1657521	nadeau, david
+1657521	sekine, satoshi
+1668327	just, m. a.
+1668327	carpenter, p. a.
+1668986	dolog, peter
+1668986	nejdl, wolfgang
+1673083	chen, jian-min m.
+1673083	cooper, david n.
+1673083	chuzhanova, nadia
+1673083	f\\'{e}rec, claude
+1673083	patrinos, george p.
+1673084	lynch, michael
+1674923	perry, george h.
+1674923	dominy, nathaniel j.
+1674923	claw, katrina g.
+1674923	lee, arthur s.
+1674923	fiegler, heike
+1674923	redon, richard
+1674923	werner, john
+1674923	villanea, fernando a.
+1674923	mountain, joanna l.
+1674923	misra, rajeev
+1674923	carter, nigel p.
+1674923	lee, charles
+1674923	stone, anne c.
+1678574	honig, barry
+1678574	nicholls, anthony
+1681472	o'hern, corey s.
+1681472	silbert, leonardo e.
+1681472	liu, andrea j.
+1681472	nagel, sidney r.
+1693077	hohenberg, p.
+1693077	kohn, w.
+1697751	cool, c.
+1713592	oh, you-kwan
+1713592	palsson, bernhard o.
+1713592	park, sung m.
+1713592	schilling, christophe h.
+1713592	mahadevan, radhakrishnan
+1713694	lee, william
+1713694	tillo, desiree
+1713694	bray, nicolas
+1713694	morse, randall h.
+1713694	davis, ronald w.
+1713694	hughes, timothy r.
+1713694	nislow, corey
+1715029	markowetz, florian
+1715029	spang, rainer
+1716134	mailman, matthew d.
+1716134	feolo, michael
+1716134	jin, yumi
+1716134	kimura, masato
+1716134	tryka, kimberly
+1716134	bagoutdinov, rinat
+1716134	hao, luning
+1716134	kiang, anne
+1716134	paschall, justin
+1716134	phan, lon
+1716134	popova, natalia
+1716134	pretel, stephanie
+1716134	ziyabari, lora
+1716134	lee, moira
+1716134	shao, yu
+1716134	wang, zhen y.
+1716134	sirotkin, karl
+1716134	ward, minghong
+1716134	kholodov, michael
+1716134	zbicz, kerry
+1716134	beck, jeffrey
+1716134	kimelman, michael
+1716134	shevelev, sergey
+1716134	preuss, don
+1716134	yaschenko, eugene
+1716134	graeff, alan
+1716134	ostell, james
+1716134	sherry, stephen t.
+1724599	sugawara, h.
+1724599	miyazaki, s.
+1727461	auer, s.
+1727461	bizer, c.
+1727461	lehmann, j.
+1727461	kobilarov, g.
+1727461	cyganiak, r.
+1727461	ives, z.
+1744606	decandia, giuseppe
+1744606	hastorun, deniz
+1744606	jampani, madan
+1744606	kakulapati, gunavardhan
+1744606	lakshman, avinash
+1744606	pilchin, alex
+1744606	sivasubramanian, swami
+1744606	vosshall, peter
+1744606	vogels, werner
+1756933	de abajo, f. j. garc'ia
+1783204	maheshri, narendra
+1783204	o'shea, erin k.
+1785135	castellano, claudio
+1785135	fortunato, santo
+1785135	loreto, vittorio
+1797414	meil\\u{a}, marina
+1806502	stock, wolfgang g.
+1817569	and, james m.
+1826173	k\\"{o}rding, konrad
+1840029	wilkinson, dennis m.
+1840029	huberman, bernardo a.
+1840109	stein, klaus
+1840109	hess, claudia
+1869121	dehaene, stanislas
+1869121	cohen, laurent
+1871475	lange, patricia g.
+1873083	miller, webb
+1873083	rosenbloom, kate
+1873083	hardison, ross c.
+1873083	hou, minmei
+1873083	taylor, james
+1873083	raney, brian
+1873083	burhans, richard
+1873083	king, david c.
+1873083	baertsch, robert
+1873083	blankenberg, daniel
+1873083	kosakovsky pond, sergei l.
+1873083	nekrutenko, anton
+1873083	giardine, belinda
+1873083	harris, robert s.
+1873083	tyekucheva, svitlana
+1873083	diekhans, mark
+1873083	pringle, thomas h.
+1873083	murphy, william j.
+1873083	lesk, arthur
+1873083	weinstock, george m.
+1873083	lindblad-toh, kerstin
+1873083	gibbs, richard a.
+1873083	lander, eric s.
+1873083	siepel, adam
+1873083	haussler, david
+1873083	kent, w. james
+1873815	jankowski, nicholas w.
+1875092	peddibhotla, naren b.
+1875092	subramani, mani r.
+1877609	kaznessis, yiannis
+1884115	park, juyong
+1884115	barab\\'{a}si, albert-l\\'{a}szl\\'{o} l.
+1899371	lenth, russell v.
+1916533	asthana, saurabh
+1916533	roytberg, mikhail
+1916533	stamatoyannopoulos, john a.
+1916533	sunyaev, shamil
+1922175	del
+1922175	carbonell, pablo
+1934660	amico, luigi
+1934660	fazio, rosario
+1934660	osterloh, andreas
+1934660	vedral, vlatko
+1963184	meyer, emily e.
+1963184	rosenberg, kenneth j.
+1963184	israelachvili, jacob
+2007189	mylonas, phivos
+2007189	vallet, david
+2007189	castells, pablo
+2007189	fern\\'{a}ndez, miriam
+2007189	avrithis, yannis
+2010561	nowacki, mariusz
+2010561	vijayan, vikram
+2010561	zhou, yi
+2010561	schotanus, klaas
+2010561	doak, thomas g.
+2010561	landweber, laura f.
+2057275	hattie, john
+2057275	timperley, helen
+2064778	hornung, gil
+2064778	barkai, naama
+2094129	jorgensen, w. l.
+2094129	tirado-rives
+2094310	groot, r. d.
+2094310	warren, p. b.
+2097686	fedorov, oleg
+2097686	marsden, brian
+2097686	pogacic, vanda
+2097686	rellos, peter
+2097686	m\\"{u}ller, susanne
+2097686	bullock, alex n.
+2097686	schwaller, juerg
+2097686	sundstr\\"{o}m, michael
+2097686	knapp, stefan
+2102115	cravatt, benjamin f.
+2102115	simon, gabriel m.
+2102115	yates, john r.
+2111163	assenov, yassen
+2111163	ram\\'{\\i}rez, fidel
+2111163	schelhorn, sven-eric e.
+2111163	lengauer, thomas
+2111163	albrecht, mario
+2111611	wells, james a.
+2111611	mcclendon, christopher l.
+2111612	kuriyan, john
+2111612	eisenberg, david
+2111613	robinson, carol v.
+2111613	sali, andrej
+2111613	baumeister, wolfgang
+2139257	sakoe, h.
+2139257	chiba, s.
+2139378	oostenbrink, chris
+2139378	villa, alessandra
+2139378	mark, alan e.
+2139378	van gunsteren, wilfred f.
+2144477	ferris, timothy
+2151562	dickey, micheled
+2189904	taylor, richard n.
+2189904	van der hoek, andre
+2191303	wishart, david s.
+2191303	knox, craig
+2191303	guo, an c.
+2191303	cheng, dean
+2191303	shrivastava, savita
+2191303	tzur, dan
+2191303	gautam, bijaya
+2191303	hassanali, murtaza
+2207732	burt, ronald s.
+2208356	karaman, mazen w.
+2208356	herrgard, sanna
+2208356	treiber, daniel k.
+2208356	gallant, paul
+2208356	atteridge, corey e.
+2208356	campbell, brian t.
+2208356	chan, katrina w.
+2208356	ciceri, pietro
+2208356	davis, mindy i.
+2208356	edeen, philip t.
+2208356	faraoni, raffaella
+2208356	floyd, mark
+2208356	hunt, jeremy p.
+2208356	lockhart, daniel j.
+2208356	milanov, zdravko v.
+2208356	morrison, michael j.
+2208356	pallares, gabriel
+2208356	patel, hitesh k.
+2208356	pritchard, stephanie
+2208356	wodicka, lisa m.
+2208356	zarrinkar, patrick p.
+2219600	blei, david m.
+2219600	lafferty, john d.
+2226050	daubechies, ingrid
+2226050	defrise, michel
+2226050	de mol, christine
+2242051	yin, peng
+2242051	choi, harry m. t.
+2242051	calvert, colby r.
+2242051	pierce, niles a.
+2266473	elkan, charles
+2269410	wood, emma r.
+2269410	dudchenko, paul a.
+2269410	eichenbaum, howard
+2283005	schloss, patrick d.
+2283005	handelsman, jo
+2286684	lin, simon m.
+2286684	du, pan
+2286684	huber, wolfgang
+2286684	kibbe, warren a.
+2288901	zhu, yuerong
+2288901	zhu, yuelin
+2288901	xu, wei
+2289016	hillier, ladeana w.
+2289016	marth, gabor t.
+2289016	quinlan, aaron r.
+2289016	dooling, david
+2289016	fewell, ginger
+2289016	barnett, derek
+2289016	fox, paul
+2289016	glasscock, jarret i.
+2289016	hickenbotham, matthew
+2289016	huang, weichun
+2289016	magrini, vincent j.
+2289016	richt, ryan j.
+2289016	sander, sacha n.
+2289016	stewart, donald a.
+2289016	stromberg, michael
+2289016	tsung, eric f.
+2289016	wylie, todd
+2289016	schedl, tim
+2289016	wilson, richard k.
+2289016	mardis, elaine r.
+2310535	place, robert f.
+2310535	li, long-cheng
+2310535	pookot, deepa
+2310535	noonan, emily j.
+2310535	dahiya, rajvir
+2311249	mou, xiaozhen
+2311249	sun, shulei
+2311249	edwards, robert a.
+2311249	hodson, robert e.
+2311249	moran, mary a.
+2320347	cooper, gregory m.
+2320347	brown, christopher d.
+2321560	hunter, lawrence
+2321560	lu, zhiyong
+2321560	firby, james
+2321560	baumgartner, william a.
+2321560	johnson, helen l.
+2321560	ogren, philip v.
+2321560	cohen, k. bretonnel
+2323708	blanter, y. m.
+2323708	b\\"{u}ttiker, m.
+2342470	bornstein, benjamin j.
+2342470	keating, sarah m.
+2342470	jouraku, akiya
+2342470	hucka, michael
+2345304	yang, z. h.
+2345304	yoder, a. d.
+2354628	shapiro, b. jesse
+2354628	alm, eric j.
+2357901	luyt, brendan
+2357901	tay, aaron c.
+2357901	lim, hai t.
+2357901	cheng, kian h.
+2357917	jones, michael n.
+2357917	mewhort, douglas j.
+2366929	ludwig, wolfgang
+2366929	strunk, oliver
+2366929	westram, ralf
+2366929	richter, lothar
+2366929	meier, harald
+2366929	yadhukumar
+2366929	buchner, arno
+2366929	lai, tina
+2366929	steppi, susanne
+2366929	jobb, gangolf
+2366929	f\\"{o}rster, wolfram
+2366929	brettske, igor
+2366929	gerber, stefan
+2366929	ginhart, anton w.
+2366929	gross, oliver
+2366929	grumann, silke
+2366929	hermann, stefan
+2366929	jost, ralf
+2366929	k\\"{o}nig, andreas
+2366929	liss, thomas
+2366929	l\\"{u}{\\ss}mann, ralph
+2366929	may, michael
+2366929	nonhoff, bj\\"{o}rn
+2366929	reichel, boris
+2366929	strehlow, robert
+2366929	stamatakis, alexandros
+2366929	stuckmann, norbert
+2366929	vilbig, alexander
+2366929	lenke, michael
+2366929	ludwig, thomas
+2366929	bode, arndt
+2366929	schleifer, karl?heinz
+2369506	pop, mihai
+2369506	salzberg, steven l.
+2374088	scully, m. o.
+2374088	zubairy, m. s.
+2380446	tanev, ivan
+2380446	joachimczak, m.
+2380446	hemmi, h.
+2380446	shimohara, k.
+2393670	kobilka, brian k.
+2393670	deupi, xavier
+2407908	thrun, sebastian
+2413970	del vecchio, domitilla
+2413970	ninfa, alexander j.
+2413970	sontag, eduardo d.
+2417721	unger, marc a.
+2417721	chou, hou-pu
+2417721	thorsen, todd
+2417721	scherer, axel
+2417721	quake, stephen r.
+2423543	li, min
+2423543	wang, baohong
+2423543	zhang, menghui
+2423543	rantalainen, mattias
+2423543	wang, shengyue
+2423543	zhou, haokui
+2423543	zhang, yan
+2423543	shen, jian
+2423543	pang, xiaoyan
+2423543	zhang, meiling
+2423543	wei, hua
+2423543	chen, yu
+2423543	lu, haifeng
+2423543	zuo, jian
+2423543	su, mingming
+2423543	qiu, yunping
+2423543	jia, wei
+2423543	xiao, chaoni
+2423543	smith, leon m.
+2423543	yang, shengli
+2423543	holmes, elaine
+2423543	tang, huiru
+2423543	zhao, guoping
+2423543	nicholson, jeremy k.
+2423543	li, lanjuan
+2423543	zhao, liping
+2466088	lehner, ben
+2476650	thompson, j. d.
+2476650	zwickl, b. m.
+2476650	jayich, a. m.
+2476650	marquardt, florian
+2476650	girvin, s. m.
+2476650	harris, j. g. e.
+2479514	shabalin, andrey a.
+2479514	tjelmeland, h\\r{a}kon
+2479514	fan, cheng
+2479514	perou, charles m.
+2479514	nobel, andrew b.
+2506264	chesson, peter
+2516366	weiss, cathrin
+2516366	premraj, rahul
+2516366	zimmermann, thomas
+2516366	zeller, andreas
+2518492	feldman, igor
+2518492	rzhetsky, andrey
+2518492	vitkup, dennis
+2521939	he, daqing
+2521939	brusilovsky, peter
+2521939	ahn, jaewook
+2521939	grady, jonathan
+2521939	farzan, rosta
+2521939	peng, yefei
+2521939	yang, yiming
+2521939	rogati, monica
+2526029	robertson, george
+2526029	czerwinski, mary
+2526029	baudisch, patrick
+2526029	meyers, brian
+2526029	robbins, daniel
+2526029	smith, greg
+2526029	tan, desney
+2527434	khanin, raya
+2527434	vinciotti, veronica
+2535886	zeni, nicola
+2535886	kiyavitskaya, nadzeya
+2535886	mich, luisa
+2535886	mylopoulos, john
+2535886	cordy, james
+2545283	kiel, christina
+2545283	beltrao, pedro
+2545283	serrano, luis
+2547218	law, chi-tat t.
+2547218	gold, joshua i.
+2547927	hernandez, david
+2547927	fran\\c{c}ois, patrice
+2547927	farinelli, laurent
+2547927	{\\o}ster\\r{a}s, magne
+2547927	schrenzel, jacques
+2568883	demissie, meaza
+2568883	mascialino, barbara
+2568883	calza, stefano
+2568883	pawitan, yudi
+2580334	cook, terry
+2580334	schwartz, joan m.
+2584166	allemang, dean
+2584166	hendler, james
+2587504	xu, qingwei
+2587504	shi, yixiang
+2587504	lu, qiang
+2587504	zhang, guoqing
+2587504	luo, qingming
+2587504	li, yixue
+2601345	kucharski, r.
+2601345	maleszka, j.
+2601345	foret, s.
+2601345	maleszka, r.
+2602869	ariely, dan
+2607936	warner, jason b.
+2607936	philippakis, anthony a.
+2607936	jaeger, savina a.
+2607936	he, fangxue s.
+2607936	lin, jolinta
+2607936	bulyk, martha l.
+2616003	saracevic, tefko
+2620752	ideker, trey
+2620752	sharan, roded
+2630042	harris, timothy d.
+2630042	buzby, phillip r.
+2630042	babcock, hazen
+2630042	beer, eric
+2630042	bowers, jayson
+2630042	braslavsky, ido
+2630042	causey, marie
+2630042	colonell, jennifer
+2630042	dimeo, james
+2630042	efcavitch, j. william
+2630042	giladi, eldar
+2630042	gill, jaime
+2630042	healy, john
+2630042	jarosz, mirna
+2630042	lapen, dan
+2630042	moulton, keith
+2630042	quake, stephen r.
+2630042	steinmann, kathleen
+2630042	thayer, edward
+2630042	tyurina, anastasia
+2630042	ward, rebecca
+2630042	weiss, howard
+2630042	xie, zheng
+2647614	lakatos, peter
+2647614	karmos, george
+2647614	mehta, ashesh d.
+2647614	ulbert, istvan
+2647614	schroeder, charles e.
+2647679	chi, ed h.
+2647679	mytkowicz, todd
+2649220	scott, kathryn a.
+2649220	bond, peter j.
+2649220	ivetac, anthony
+2649220	chetwynd, alan p.
+2649220	khalid, syma
+2649220	sansom, mark s. p.
+2669725	cohen, haim y.
+2669725	miller, christine
+2669725	bitterman, kevin j.
+2669725	wall, nathan r.
+2669725	hekking, brian
+2669725	kessler, benedikt
+2669725	howitz, konrad t.
+2669725	gorospe, myriam
+2669725	de cabo, rafael
+2669725	sinclair, david a.
+2675151	ramani, arun k.
+2675151	li, zhihua
+2675151	hart, g. traver
+2675151	carlson, mark w.
+2675151	boutz, daniel r.
+2675151	marcotte, edward m.
+2686437	jacob, robert j. k.
+2686437	girouard, audrey
+2686437	hirshfield, leanne m.
+2686437	horn, michael s.
+2686437	shaer, orit
+2686437	solovey, erin t.
+2686437	zigelbaum, jamie
+2686454	kittur, aniket
+2686454	chi, ed h.
+2686454	suh, bongwon
+2724724	pham, d. l.
+2724724	xu, c.
+2724724	prince, j. l.
+2729940	jing, yushi
+2729940	baluja, shumeet
+2730940	novembre, john
+2730940	stephens, matthew
+2733029	suh, bongwon
+2733029	chi, ed h.
+2733029	kittur, aniket
+2733029	pendleton, bryan a.
+2733191	chan, chon-kit kenneth k.
+2733191	hsu, arthur l.
+2733191	halgamuge, saman k.
+2733191	tang, sen-lin l.
+2739782	burgelman, robert a.
+2739782	christensen, clayton m.
+2739782	wheelwright, steven c.
+2739782	maidique, modesto a.
+2739855	strukov, dmitri b.
+2739855	snider, gregory s.
+2739855	stewart, duncan r.
+2739855	williams, r. stanley
+2752882	greenberg, saul
+2752882	buxton, bill
+2760213	schadt, eric e.
+2760213	molony, cliona
+2760213	chudin, eugene
+2760213	hao, ke
+2760213	yang, xia
+2760213	lum, pek y.
+2760213	kasarskis, andrew
+2760213	zhang, bin
+2760213	wang, susanna
+2760213	suver, christine
+2760213	zhu, jun
+2760213	millstein, joshua
+2760213	sieberts, solveig
+2760213	lamb, john
+2760213	guhathakurta, debraj
+2760213	derry, jonathan
+2760213	storey, john d.
+2760213	avila-campillo, iliana
+2760213	kruger, mark j.
+2760213	johnson, jason m.
+2760213	rohl, carol a.
+2760213	van nas, atila
+2760213	mehrabian, margarete
+2760213	drake, thomas a.
+2760213	lusis, aldons j.
+2760213	smith, ryan c.
+2760213	guengerich, f. peter
+2760213	strom, stephen c.
+2760213	schuetz, erin
+2760213	rushmore, thomas h.
+2760213	ulrich, roger
+2762934	gu, jiajun
+2762934	liu, jun s.
+2773606	tagkopoulos, ilias
+2773606	liu, yir-chung
+2773606	tavazoie, saeed
+2775897	jimeno, antonio
+2775897	jimenez-ruiz, ernesto
+2775897	lee, vivian
+2775897	gaudan, sylvain
+2775897	berlanga, rafael
+2775897	rebholz-schuhmann, dietrich
+2793908	mcgee, james b.
+2793908	begg, michael
+2796032	prufer, kay
+2796032	stenzel, udo
+2796032	dannemann, michael
+2796032	green, richard e.
+2796032	lachmann, michael
+2796032	kelso, janet
+2800564	zampieri, mattia
+2800564	soranzo, nicola
+2800564	altafini, claudio
+2805405	cheng, dean
+2805405	knox, craig
+2805405	young, nelson
+2805405	stothard, paul
+2805405	damaraju, sambasivarao
+2805405	wishart, david s.
+2807037	medini, duccio
+2807037	serruto, davide
+2807037	parkhill, julian
+2807037	relman, david a.
+2807037	donati, claudio
+2807037	moxon, richard
+2807037	falkow, stanley
+2807037	rappuoli, rino
+2810294	min lee, jong
+2810294	gianchandani, erwin p.
+2810294	eddy, james a.
+2810294	papin, jason a.
+2841481	anker, jeffrey n.
+2841481	hall, w. paige
+2841481	lyandres, olga
+2841481	shah, nilam c.
+2841481	zhao, jing
+2841481	van duyne, richard p.
+2841667	lee, seunghak
+2841667	cheran, elango
+2841667	brudno, michael
+2844577	song, chaoming
+2844577	wang, ping
+2844577	makse, hern\\'{a}n a.
+2845944	roy, rahul
+2845944	hohng, sungchul
+2845944	ha, taekjip
+2853154	pesole, graziano
+2855355	zimmerman, ann s.
+2857666	williams, antony j.
+2859483	shinn-cunningham, barbara g.
+2862245	goffman, erving
+2865447	sonnenburg, s\\&\\#246;ren
+2865447	r\\&\\#228;tsch, gunnar
+2865447	sch\\&\\#228;fer, christin
+2865447	sch\\&\\#246;lkopf, bernhard
+2865708	blount, zachary d.
+2865708	borland, christina z.
+2865708	lenski, richard e.
+2870248	lin, jimmy
+2873914	christensen, clayton
+2873914	johnson, curtis w.
+2873914	horn, michael b.
+2877638	urban, m.
+2877638	leibold, m.
+2877638	amarasekare, p.
+2877638	demeester, l.
+2877638	gomulkiewicz, r.
+2877638	hochberg, m.
+2877638	klausmeier, c.
+2877638	loeuille, n.
+2877638	demazancourt, c.
+2877638	norberg, j.
+2885336	turanalp, mehmet
+2885336	can, tolga
+2890226	german, marcelo a.
+2890226	pillay, manoj
+2890226	jeong, dong-hoon
+2890226	hetawal, amit
+2890226	luo, shujun
+2890226	janardhanan, prakash
+2890226	kannan, vimal
+2890226	rymarquis, linda a.
+2890226	nobuta, kan
+2890226	german, rana
+2890226	de paoli, emanuele
+2890226	lu, cheng
+2890226	schroth, gary
+2890226	meyers, blake c.
+2890226	green, pamela j.
+2890240	boehr, david d.
+2890240	wright, peter e.
+2899290	kelty, christopher m.
+2900445	grigoryan, g.
+2900445	keating, a.
+2902291	zhang, yang
+2904261	jiang, d.
+2904261	delgrossi, l.
+2909276	goulielmakis, e.
+2909276	schultze, m.
+2909276	hofstetter, m.
+2909276	yakovlev, v. s.
+2909276	gagnon, j.
+2909276	uiberacker, m.
+2909276	aquila, a. l.
+2909276	gullikson, e. m.
+2909276	attwood, d. t.
+2909276	kienberger, r.
+2909276	krausz, f.
+2909276	kleineberg, u.
+2910062	schummers, james
+2910062	yu, hongbo
+2910062	sur, mriganka
+2911654	o'connor, brian
+2911654	day, allen
+2911654	cain, scott
+2911654	arnaiz, olivier
+2911654	sperling, linda
+2911654	stein, lincoln
+2914632	guy, ido
+2914632	jacovi, michal
+2914632	shahar, elad
+2914632	meshulam, noga
+2914632	soroka, vladimir
+2914632	farrell, stephen
+2933156	soldatova, larisa n.
+2933156	aubrey, wayne
+2933156	king, ross d.
+2933156	clare, amanda
+2933935	bosh
+2937498	ward, lucas d.
+2937498	bussemaker, harmen j.
+2941039	mardis, elaine r.
+2943535	wright, jeremiah
+2943535	wagner, andreas
+2948484	dellschaft, klaas
+2948484	staab, steffen
+2949866	woese, c. r.
+2949866	kandler, o.
+2949866	wheelis, m. l.
+2966372	loewenstein, yaniv
+2966372	portugaly, elon
+2966372	fromer, menachem
+2966372	linial, michal
+3008520	stockinger, heinz
+3008520	attwood, teresa
+3008520	chohan, shahid n.
+3008520	cote, richard
+3008520	cudre-mauroux, philippe
+3008520	falquet, laurent
+3008520	fernandes, pedro
+3008520	finn, robert d.
+3008520	hupponen, taavi
+3008520	korpelainen, eija
+3008520	labarga, alberto
+3008520	laugraud, aurelie
+3008520	lima, tania
+3008520	pafilis, evangelos
+3008520	pagni, marco
+3008520	pettifer, steve
+3008520	phan, isabelle
+3008520	rahman, nazim
+3023017	ranger, colby
+3023017	raghuraman, ramanan
+3023017	penmetsa, arun
+3023017	bradski, gary
+3023017	kozyrakis, christos
+3037500	vyshemirsky, vladislav
+3037500	girolami, mark
+3053207	cao, guihong
+3053207	nie, jian y.
+3053207	gao, jianfeng
+3053207	robertson, stephen
+3056638	roelleke, thomas
+3056638	wang, jun
+3058452	lloyd, catherine m.
+3058452	lawson, james r.
+3058452	hunter, peter j.
+3058452	nielsen, poul f.
+3063692	song, yang
+3063692	zhuang, ziming
+3063692	li, huajing
+3063692	zhao, qiankun
+3063692	li, jia
+3063692	lee, wang c.
+3063692	giles, c. lee
+3063696	schenkel, ralf
+3063696	crecelius, tom
+3063696	kacimi, mouna
+3063696	michel, sebastian
+3063696	neumann, thomas
+3063696	parreira, josiane x.
+3063696	weikum, gerhard
+3065672	tsuruoka, yoshimasa
+3065672	tsujii, jun'ichi
+3065672	ananiadou, sophia
+3066965	erlich, yaniv
+3066965	mitra, partha p.
+3066965	delabastide, melissa
+3066965	mccombie, w. richard
+3066965	hannon, gregory j.
+3080312	zotenko, elena
+3080312	mestre, julian
+3080312	o'leary, dianne p.
+3080312	przytycka, teresa m.
+3080474	srivatsan, anjana
+3080474	han, yi
+3080474	peng, jianlan
+3080474	tehranchi, ashley k.
+3080474	gibbs, richard
+3080474	wang, jue d.
+3080474	chen, rui
+3100446	march, j. g.
+3100446	olsen, j. p.
+3102124	caverlee, james
+3102124	liu, ling
+3102124	webb, steve
+3111773	de bona, fabio
+3111773	ossowski, stephan
+3111773	schneeberger, korbinian
+3111773	r\\"{a}tsch, gunnar
+3123493	deus, helena f.
+3123493	stanislaus, romesh
+3123493	veiga, diogo f.
+3123493	behrens, carmen
+3123493	wistuba, ignacio i.
+3123493	minna, john d.
+3123493	garner, harold r.
+3123493	swisher, stephen g.
+3123493	roth, jack a.
+3123493	correa, arlene m.
+3123493	broom, bradley
+3123493	coombes, kevin
+3123493	chang, allen
+3123493	vogel, lynn h.
+3123493	almeida, jonas s.
+3128959	huang, qian
+3128959	davison, robert
+3128959	gu, jibao
+3129721	morozova, olena
+3129721	marra, marco a.
+3141401	kelly, anne e.
+3141401	goulden, michael l.
+3145759	moxon, simon
+3145759	schwach, frank
+3145759	dalmay, tamas
+3145759	maclean, dan
+3145759	studholme, david j.
+3145759	moulton, vincent
+3175174	clements, maarten
+3175174	de vries, arjen p.
+3175174	reinders, marcel j. t.
+3177252	linderman, michael d.
+3177252	collins, jamison d.
+3177252	wang, hong
+3177252	meng, teresa h.
+3179558	das, rhiju
+3179558	baker, david
+3191538	seifert, u.
+3196658	shlomi, tomer
+3196658	cabili, moran n.
+3196658	herrgard, markus j.
+3196658	palsson, bernhard o.
+3196658	ruppin, eytan
+3200250	hwang, taehyun
+3200250	sicotte, hugues
+3200250	tian, ze
+3200250	wu, baolin
+3200250	kocher, jean-pierre p.
+3200250	wigle, dennis a.
+3200250	kumar, vipin
+3200250	kuang, rui
+3225800	cooper, gregory m.
+3225800	zerr, troy
+3225800	kidd, jeffrey m.
+3225800	eichler, evan e.
+3225800	nickerson, deborah a.
+3244398	ach, robert
+3244398	wang, hui
+3244398	curry, bo
+3293311	shi, leming
+3293311	jones, wendell
+3293311	jensen, roderick
+3293311	harris, stephen
+3293311	perkins, roger
+3293311	goodsaid, federico
+3293311	guo, lei
+3293311	croner, lisa
+3293311	boysen, cecilie
+3293311	fang, hong
+3293311	qian, feng
+3293311	amur, shashi
+3293311	bao, wenjun
+3293311	barbacioru, catalin
+3293311	bertholet, vincent
+3293311	cao, xiaoxi
+3293311	chu, tzu m.
+3293311	collins, patrick
+3293311	fan, xiao h.
+3293311	frueh, felix
+3293311	fuscoe, james
+3293311	guo, xu
+3293311	han, jing
+3293311	herman, damir
+3293311	hong, huixiao
+3293311	kawasaki, ernest
+3293311	li, quan z.
+3293311	luo, yuling
+3293311	ma, yunqing
+3293311	mei, nan
+3293311	peterson, ron
+3293311	puri, raj
+3293311	shippy, richard
+3293311	su, zhenqiang
+3293311	sun, yongming
+3293311	sun, hongmei
+3293311	thorn, brett
+3293311	turpaz, yaron
+3293311	wang, charles
+3293311	wang, sue
+3293311	warrington, janet
+3293311	willey, james
+3293311	wu, jie
+3293311	xie, qian
+3293311	zhang, liang
+3293311	zhang, lu
+3293311	zhong, sheng
+3293311	wolfinger, russell
+3293311	tong, weida
+3320298	kippenberg, t. j.
+3320298	vahala, k. j.
+3337104	tullet, jennifer m.
+3337104	hertweck, maren
+3337104	an, jae hyung h.
+3337104	baker, joseph
+3337104	hwang, ji yun y.
+3337104	liu, shu
+3337104	oliveira, riva p.
+3337104	baumeister, ralf
+3337104	blackwell, t. keith
+3338202	murthy, dhiraj
+3339772	bolker, benjamin m.
+3367094	markwick, phineus r. l.
+3367094	malliavin, th\\'{e}r\\`{e}se
+3367094	nilges, michael
+3388025	hastie, trevor
+3388025	tibshirani, robert
+3388025	friedman, jerome
+3391361	rothberg, jonathan m.
+3391361	leamon, john h.
+3391362	kahvejian, avak
+3391362	quackenbush, john
+3391362	thompson, john f.
+3394146	veyrieras, jean-baptiste
+3394146	kudaravalli, sridhar
+3394146	kim, su y.
+3394146	dermitzakis, emmanouil t.
+3394146	gilad, yoav
+3394146	stephens, matthew
+3394146	pritchard, jonathan k.
+3403177	gemmell, jonathan
+3403177	shepitsen, andriy
+3403177	mobasher, bamshad
+3403177	burke, robin
+3406993	rovelli, carlo
+3426312	zhai, weiwei
+3426312	nielsen, rasmus
+3426312	slatkin, montgomery
+3428472	jiang, qinghua
+3428472	wang, yadong
+3428472	hao, yangyang
+3428472	juan, liran
+3428472	teng, mingxiang
+3428472	zhang, xinjun
+3428472	li, meimei
+3428472	wang, guohua
+3428472	liu, yunlong
+3443713	hunter, sarah
+3443713	apweiler, rolf
+3443713	attwood, teresa k.
+3443713	bairoch, amos
+3443713	bateman, alex
+3443713	binns, david
+3443713	bork, peer
+3443713	das, ujjwal
+3443713	daugherty, louise
+3443713	duquenne, lauranne
+3443713	finn, robert d.
+3443713	gough, julian
+3443713	haft, daniel
+3443713	hulo, nicolas
+3443713	kahn, daniel
+3443713	kelly, elizabeth
+3443713	laugraud, aur\\'{e}lie
+3443713	letunic, ivica
+3443713	lonsdale, david
+3443713	lopez, rodrigo
+3443713	madera, martin
+3443713	maslen, john
+3443713	mcanulla, craig
+3443713	mcdowall, jennifer
+3443713	mistry, jaina
+3443713	mitchell, alex
+3443713	mulder, nicola
+3443713	natale, darren
+3443713	orengo, christine
+3443713	quinn, antony f.
+3443713	selengut, jeremy d.
+3443713	sigrist, christian j.
+3443713	thimma, manjula
+3443713	thomas, paul d.
+3443713	valentin, franck
+3443713	wilson, derek
+3443713	wu, cathy h.
+3443713	yeats, corin
+3443777	mileyko, yuriy
+3443777	joh, richard i.
+3443777	weitz, joshua s.
+3448578	durrens, pascal
+3448578	nikolski, macha
+3448578	sherman, david
+3458224	ellegren, hans
+3464173	delport, wayne
+3464173	scheffler, konrad
+3464173	seoighe, cathal
+3470400	sahoo, debashis
+3470400	dill, david l.
+3470400	gentles, andrew j.
+3470400	tibshirani, robert
+3470400	plevritis, sylvia k.
+3480685	lee, yong sun s.
+3480685	dutta, anindya
+3482554	o'sullivan, bryan
+3482554	goerzen, john
+3482554	stewart, don
+3483523	rocha, eduardo p. c.
+3484872	pan, qun
+3484872	shai, ofer
+3484872	lee, leo j.
+3484872	frey, brendan j.
+3484872	blencowe, benjamin j.
+3486430	whitington, tom
+3486430	perkins, andrew c.
+3486430	bailey, timothy l.
+3488831	parter, merav
+3488831	kashtan, nadav
+3488831	alon, uri
+3494817	ji, hongkai
+3494817	jiang, hui
+3494817	ma, wenxiu
+3494817	johnson, david s.
+3494817	myers, richard m.
+3494817	wong, wing h.
+3494821	chechik, gal
+3494821	oh, eugene
+3494821	rando, oliver
+3494821	weissman, jonathan
+3494821	regev, aviv
+3494821	koller, daphne
+3497386	matthews, lisa
+3497386	gopinath, gopal
+3497386	gillespie, marc
+3497386	caudy, michael
+3497386	croft, david
+3497386	de bono, bernard
+3497386	garapati, phani
+3497386	hemish, jill
+3497386	hermjakob, henning
+3497386	jassal, bijay
+3497386	kanapin, alex
+3497386	lewis, suzanna
+3497386	mahajan, shahana
+3497386	may, bruce
+3497386	schmidt, esther
+3497386	vastrik, imre
+3497386	wu, guanming
+3497386	birney, ewan
+3497386	stein, lincoln
+3497386	d'eustachio, peter
+3504163	dyba, t.
+3504163	dingsoyr, t.
+3507817	zhang, yong
+3507817	shin, hyunjin
+3507817	song, jun s.
+3507817	lei, ying
+3507817	liu, x. shirley
+3508967	killion, patrick
+3508967	iyer, vishwanath
+3574100	fujita, hiroyoshi
+3574100	nishitani, chiaki
+3574100	ogawa, kazuhiro
+3574337	pi, j.
+3574337	qu, w.
+3574337	reece, j. m.
+3574337	kumagai, y.
+3574337	waalkes, m. p.
+3614773	wang, zhong
+3614773	gerstein, mark
+3614773	snyder, michael
+3655691	novak, bela
+3655691	tyson, john j.
+3665188	ricklefs, robert e.
+3689841	meneghini, rogerio
+3689841	packer, abel l.
+3689841	nassi-cal\\`{o}, lilian
+3729371	k\\"{o}hle, c.
+3729371	bock, k. w.
+3741343	huang, kerwyn c.
+3741343	mukhopadhyay, ranjan
+3741343	wen, bingni
+3741343	gitai, zemer
+3741343	wingreen, ned s.
+3749174	suresh
+3749296	meystre, s. m.
+3749296	savova, g. k.
+3749296	kipper-schuler, k. c.
+3749296	hurdle, j. f.
+3749403	fowler, james h.
+3749403	christakis, nicholas a.
+3750481	seila, amy c.
+3750481	calabrese, j. mauro
+3750481	levine, stuart s.
+3750481	yeo, gene w.
+3750481	rahl, peter b.
+3750481	flynn, ryan a.
+3750481	young, richard a.
+3750481	sharp, phillip a.
+3757771	verlaan, dominique j.
+3757771	ge, bing
+3757771	grundberg, elin
+3757771	hoberman, rose
+3757771	lam, kevin c.
+3757771	koka, vonda
+3757771	dias, joana
+3757771	gurd, scott
+3757771	martin, nicolas w.
+3757771	mallmin, hans
+3757771	nilsson, olof
+3757771	harmsen, eef
+3757771	dewar, ken
+3757771	kwan, tony
+3757771	pastinen, tomi
+3760539	sober\\'{o}n, jorge
+3760539	peterson, townsend a.
+3801011	garcia, angela c.
+3801011	standlee, alecea i.
+3801011	bechkoff, jennifer
+3801011	cui, yan
+3837640	hell, stefan w.
+3857936	gindl, stefan
+3857936	kaiser, katharina
+3857936	miksch, silvia
+3886758	smedley, damian
+3886758	haider, syed
+3886758	ballester, benoit
+3886758	holland, richard
+3886758	london, darin
+3886758	thorisson, gudmundur
+3886758	kasprzyk, arek
+3891587	ghildiyal, megha
+3891587	zamore, phillip d.
+3979340	bolker, b.
+3979340	brooks, m.
+3979340	clark, c.
+3979340	geange, s.
+3979340	poulsen, j.
+3979340	stevens, m.
+3979340	white, j.
+3981307	deng, yuqing
+3981307	roux, benoi?t
+3981325	dubchak, inna
+3981325	poliakov, alexander
+3981325	kislyuk, andrey
+3981325	brudno, michael
+3994145	mckinney, dani
+3994145	dyck, jennifer l.
+3994145	luber, elise s.
+4000622	murie, carl
+4000622	woody, owen
+4000622	lee, anna y.
+4000622	nadon, robert
+4015011	lazer, david
+4015011	pentland, alex
+4015011	adamic, lada
+4015011	aral, sinan
+4015011	barab\\'{a}si, albert-l\\'{a}szl\\'{o}
+4015011	brewer, devon
+4015011	christakis, nicholas
+4015011	contractor, noshir
+4015011	fowler, james
+4015011	gutmann, myron
+4015011	jebara, tony
+4015011	king, gary
+4015011	macy, michael
+4015011	roy, deb
+4015011	van alstyne, marshall
+4037235	overell, simon
+4037235	sigurbj\\"{o}rnsson, b\\"{o}rkur
+4037235	van zwol, roelof
+4042280	yassour, moran
+4042280	kaplan, tommy
+4042280	fraser, hunter b.
+4042280	levin, joshua z.
+4042280	pfiffner, jenna
+4042280	adiconis, xian
+4042280	schroth, gary
+4042280	luo, shujun
+4042280	khrebtukova, irina
+4042280	gnirke, andreas
+4042280	nusbaum, chad
+4042280	thompson, dawn-anne a.
+4042280	friedman, nir
+4042280	regev, aviv
+4044723	madsen, bo eskerod e.
+4044723	browning, sharon r.
+4067975	wersinger, christophe
+4067975	prou, delphine
+4067975	vernier, philippe
+4067975	sidhu, anita
+4073078	westerheide, sandy d.
+4073078	anckar, julius
+4073078	stevens, stanley m.
+4073078	sistonen, lea
+4073078	morimoto, richard i.
+4075274	daily, michael d.
+4075274	gray, jeffrey j.
+4087454	clarke, james
+4087454	wu, hai-chen
+4087454	jayasinghe, lakmal
+4087454	patel, alpesh
+4087454	reid, stuart
+4087454	bayley, hagan
+4087856	garg, nikhil
+4087856	weber, ingmar
+4089107	korbel, jan o.
+4089107	abyzov, alexej
+4089107	mu, xinmeng jasmine j.
+4089107	carriero, nicholas
+4089107	cayting, philip
+4089107	zhang, zhengdong
+4089107	snyder, michael
+4089107	gerstein, mark b.
+4091149	crandall, david
+4091149	backstrom, lars
+4091149	huttenlocher, dan
+4091149	kleinberg, jon
+4096561	andreopoulos, bill
+4096561	an, aijun
+4096561	wang, xiaogang
+4096561	schroeder, michael
+4122655	walters, william h.
+4129082	schrimpf, sabine p.
+4129082	weiss, manuel
+4129082	reiter, lukas
+4129082	ahrens, christian h.
+4129082	jovanovic, marko
+4129082	malmstr\\"{o}m, johan
+4129082	brunner, erich
+4129082	mohanty, sonali
+4129082	lercher, martin j.
+4129082	hunziker, peter e.
+4129082	aebersold, ruedi
+4129082	von mering, christian
+4129082	hengartner, michael o.
+4133229	peterson, brant k.
+4133229	hare, emily e.
+4133229	iyer, venky n.
+4133229	storage, steven
+4133229	conner, laura
+4133229	papaj, daniel r.
+4133229	kurashima, rick
+4133229	jang, eric
+4133229	eisen, michael b.
+4141636	choi, jung kyoon k.
+4141636	kim, young-joon j.
+4154311	wu, lei
+4154311	yang, linjun
+4154311	nenghai, y. u.
+4154311	hua, xian-sheng
+4164691	csikasz-nagy, attila
+4170452	evans, t. s.
+4170452	lambiotte, r.
+4182419	rokas, antonis
+4182419	abbot, patrick
+4186671	hawn, carleen
+4199626	chen, huajun
+4199626	ding, li
+4199626	wu, zhaohui
+4199626	yu, tong
+4199626	dhanapalan, lavanya
+4199626	chen, jake y.
+4202153	gradinaru, viviana
+4202153	mogri, murtaza
+4202153	thompson, kimberly r.
+4202153	henderson, jaimie m.
+4202153	deisseroth, karl
+4202177	markines, benjamin
+4202177	cattuto, ciro
+4202177	menczer, filippo
+4202177	benz, dominik
+4202177	hotho, andreas
+4202177	stumme, gerd
+4214142	lancashire, lee j.
+4214142	lemetre, christophe
+4214142	ball, graham r.
+4214865	qi, xiaoguang
+4214865	davison, brian d.
+4233160	stamatoyannopoulos, john a.
+4233160	adzhubei, ivan
+4233160	thurman, robert e.
+4233160	kryukov, gregory v.
+4233160	mirkin, sergei m.
+4233160	sunyaev, shamil r.
+4267889	omabegho, tosan
+4267889	sha, ruojie
+4267889	seeman, nadrian c.
+4281711	calcagni, gianluca
+4293788	podicheti, ram
+4293788	gollapudi, rajesh
+4293788	dong, qunfeng
+4295674	lee, gregory m.
+4295674	craik, charles s.
+4298633	halligan, brian d.
+4298633	geiger, joey f.
+4298633	vallejos, andrew k.
+4298633	greene, andrew s.
+4298633	twigger, simon n.
+4340822	gottesman, daniel
+4381383	zhou, peng
+4381383	shang, zhicai
+4381405	woyke, tanja
+4381405	xie, gary
+4381405	copeland, alex
+4381405	gonz\\'{a}lez, jos\\'{e} m.
+4381405	han, cliff
+4381405	kiss, hajnalka
+4381405	saw, jimmy h.
+4381405	senin, pavel
+4381405	yang, chi
+4381405	chatterji, sourav
+4381405	cheng, jan-fang
+4381405	eisen, jonathan a.
+4381405	sieracki, michael e.
+4381405	stepanauskas, ramunas
+4404756	studer, romain a.
+4404756	robinson-rechavi, marc
+4447374	tishkoff, sarah a.
+4447374	reed, floyd a.
+4447374	friedlaender, fran\\c{c}oise r.
+4447374	ehret, christopher
+4447374	ranciaro, alessia
+4447374	froment, alain
+4447374	hirbo, jibril b.
+4447374	awomoyi, agnes a.
+4447374	bodo, jean-marie
+4447374	doumbo, ogobara
+4447374	ibrahim, muntaser
+4447374	juma, abdalla t.
+4447374	kotze, maritha j.
+4447374	lema, godfrey
+4447374	moore, jason h.
+4447374	mortensen, holly
+4447374	nyambo, thomas b.
+4447374	omar, sabah a.
+4447374	powell, kweli
+4447374	pretorius, gideon s.
+4447374	smith, michael w.
+4447374	thera, mahamadou a.
+4447374	wambebe, charles
+4447374	weber, james l.
+4447374	williams, scott m.
+4462135	o'hara, ann m.
+4462135	shanahan, fergus
+4486449	adomavicius, gediminas
+4486449	tuzhilin, alexander
+4510581	fletcher, william
+4510581	yang, ziheng
+4525735	hoehndorf, robert
+4525735	bacher, joshua
+4525735	backhaus, michael
+4525735	gregorio, sergio
+4525735	loebe, frank
+4525735	prufer, kay
+4525735	uciteli, alexandr
+4525735	visagie, johann
+4525735	herre, heinrich
+4525735	kelso, janet
+4532761	segaran, toby
+4532761	hammerbacher, jeff
+4537934	brewster, christopher
+4537934	jupp, simon
+4537934	luciano, joanne
+4537934	shotton, david
+4537934	stevens, robert
+4537934	zhang, ziqi
+4544030	choi, hyungwon
+4544030	nesvizhskii, alexey i.
+4544030	ghosh, debashis
+4544030	qin, zhaohui s.
+4544032	li, heng
+4544032	durbin, richard
+4545636	chen, jilin
+4545636	geyer, werner
+4545636	dugan, casey
+4545636	muller, michael
+4545636	guy, ido
+4673368	song, le
+4673368	kolar, mladen
+4673368	xing, eric p.
+4674775	behrens, timothy e.
+4674775	hunt, laurence t.
+4674775	rushworth, matthew f.
+4680712	gregoriou, georgia g.
+4680712	gotts, stephen j.
+4680712	zhou, huihui
+4680712	desimone, robert
+4680784	li, yonghui
+4680784	liu, yong
+4680784	li, jun
+4680784	qin, wen
+4680784	li, kuncheng
+4680784	yu, chunshui
+4680784	jiang, tianzi
+4688553	antithrombotic trialists' att, c.
+4743344	zambelli, federico
+4743344	pesole, graziano
+4743344	pavesi, giulio
+4750782	powell, adam
+4750782	shennan, stephen
+4750782	thomas, mark g.
+4774373	holt, kathryn e.
+4774373	teo, yik y.
+4774373	li, heng
+4774373	nair, satheesh
+4774373	dougan, gordon
+4774373	wain, john
+4774373	parkhill, julian
+4774507	cheung, kei-hoi
+4774507	lim, ernest
+4774507	samwald, matthias
+4774507	chen, huajun
+4774507	marenco, luis
+4774507	holford, matthew e.
+4774507	morse, thomas m.
+4774507	mutalik, pradeep
+4774507	shepherd, gordon m.
+4774507	miller, perry l.
+4867928	birol, inan\\c{c}
+4867928	jackman, shaun d.
+4867928	nielsen, cydney b.
+4867928	qian, jenny q.
+4867928	varhol, richard
+4867928	stazyk, greg
+4867928	morin, ryan d.
+4867928	zhao, yongjun
+4867928	hirst, martin
+4867928	schein, jacqueline e.
+4867928	horsman, doug e.
+4867928	connors, joseph m.
+4867928	gascoyne, randy d.
+4867928	marra, marco a.
+4867928	jones, steven j. m.
+4882841	white, tom
+4891923	trott, oleg
+4891923	olson, arthur j.
+4892239	gitter, anthony
+4892239	siegfried, zehava
+4892239	klutstein, michael
+4892239	fornes, oriol
+4892239	oliva, baldo
+4892239	simon, itamar
+4892239	bar-joseph, ziv
+4909050	meyer, eric t.
+4909050	schroeder, ralph
+4923889	burgess, jean
+4923889	green, joshua
+4970791	buyya, rajkumar
+4970791	yeo, chee s.
+4970791	venugopal, srikumar
+4970791	broberg, james
+4970791	brandic, ivona
+5038173	skinner, mitchell e.
+5038173	uzilov, andrew v.
+5038173	stein, lincoln d.
+5038173	mungall, christopher j.
+5038173	holmes, ian h.
+5044135	the reference genome group of the gene ontology consortium
+5057521	tabor, jeffrey j.
+5057521	salis, howard m.
+5057521	simpson, zachary booth b.
+5057521	chevalier, aaron a.
+5057521	levskaya, anselm
+5057521	marcotte, edward m.
+5057521	voigt, christopher a.
+5057521	ellington, andrew d.
+5148747	sen, shilad
+5148747	vig, jesse
+5148747	riedl, john
+5175610	hastings, p. j.
+5175610	lupski, james r.
+5175610	rosenberg, susan m.
+5175610	ira, grzegorz
+5183264	puigb\\`{o}, pere
+5183264	wolf, yuri i.
+5183264	koonin, eugene v.
+5195365	neuwald, andrew f.
+5249602	jacobs, adam
+5296845	bauer-mehren, anna
+5296845	furlong, laura i.
+5296845	sanz, ferran
+5308512	kemena, carsten
+5308512	notredame, cedric
+5321670	ballard, andrew j.
+5321670	jarzynski, christopher
+5362916	rybski, diego
+5362916	buldyrev, sergey v.
+5362916	havlin, shlomo
+5362916	liljeros, fredrik
+5362916	makse, hern\\'{a}n a.
+5369385	morgan, martin
+5369385	anders, simon
+5369385	lawrence, michael
+5369385	aboyoun, patrick
+5369385	pag\\`{e}s, herv\\'{e}
+5369385	gentleman, robert
+5395168	gomez-alvarez, v.
+5395168	teal, t. k.
+5395168	schmidt tm
+5403625	i\\~{n}iguez, gerardo
+5403625	kert\\'{e}sz, j\\'{a}nos
+5403625	kaski, kimmo k.
+5403625	barrio, r. a.
+5405522	kwiatkowska, marta z.
+5405522	heath, john k.
+5413127	liu, tie-yan
+5415605	chen, ken
+5415605	wallis, john w.
+5415605	mclellan, michael d.
+5415605	larson, david e.
+5415605	kalicki, joelle m.
+5415605	pohl, craig s.
+5415605	mcgrath, sean d.
+5415605	wendl, michael c.
+5415605	zhang, qunyuan
+5415605	locke, devin p.
+5415605	shi, xiaoqi
+5415605	fulton, robert s.
+5415605	ley, timothy j.
+5415605	wilson, richard k.
+5415605	ding, li
+5415605	mardis, elaine r.
+5433696	weinberg, steven
+5451459	noginov, m. a.
+5451459	zhu, g.
+5451459	belgrave, a. m.
+5451459	bakker, r.
+5451459	shalaev, v. m.
+5451459	narimanov, e. e.
+5451459	stout, s.
+5451459	herz, e.
+5451459	suteewong, t.
+5451459	wiesner, u.
+5467858	holsinger, kent e.
+5467858	weir, bruce s.
+5489191	bandyopadhyay, sanghamitra
+5489191	mitra, ramkrishna
+5490410	nagarajan, n.
+5490410	pop, m.
+5649721	fowler, james h.
+5649721	christakis, nicholas a.
+5655355	li, chunquan
+5655355	li, xia
+5655355	miao, yingbo
+5655355	wang, qianghu
+5655355	jiang, wei
+5655355	xu, chun
+5655355	li, jing
+5655355	han, junwei
+5655355	zhang, fan
+5655355	gong, binsheng
+5655355	xu, liangde
+5657848	gnerre, sante
+5657848	lander, eric
+5657848	toh, kerstin l.
+5657848	jaffe, david
+5700677	cheng, chao
+5700677	fu, xuping
+5700677	alves, pedro
+5700677	gerstein, mark
+5705840	abatangelo, luca
+5705840	maglietta, rosalia
+5705840	distaso, angela
+5705840	d'addabbo, annarita
+5705840	creanza, teresa
+5705840	mukherjee, sayan
+5705840	ancona, nicola
+5706026	sylvain mathieu, md; i.
+5738683	mathur, samir d.
+5738975	smith, andrew d.
+5738975	chung, wen-yu
+5738975	hodges, emily
+5738975	kendall, jude
+5738975	hannon, greg
+5738975	hicks, james
+5738975	xuan, zhenyu
+5738975	zhang, michael q.
+5777260	jain, a. k.
+5779456	{g\\'{e}nolevures consortium}
+5779456	souciet, jean-luc l.
+5779456	dujon, bernard
+5779456	gaillardin, claude
+5779456	johnston, mark
+5779456	baret, philippe v.
+5779456	cliften, paul
+5779456	sherman, david j.
+5779456	weissenbach, jean
+5779456	westhof, eric
+5779456	wincker, patrick
+5779456	jubin, claire
+5779456	poulain, julie
+5779456	barbe, val\\'{e}rie
+5779456	s\\'{e}gurens, b\\'{e}atrice
+5779456	artiguenave, fran\\c{c}ois
+5779456	anthouard, v\\'{e}ronique
+5779456	vacherie, benoit
+5779456	val, marie-eve e.
+5779456	fulton, robert s.
+5779456	minx, patrick
+5779456	wilson, richard
+5779456	durrens, pascal
+5779456	jean, g\\'{e}raldine
+5779456	marck, christian
+5779456	martin, tiphaine
+5779456	nikolski, macha
+5779456	rolland, thomas
+5779456	seret, marie-line l.
+5779456	casar\\'{e}gola, serge
+5779456	despons, laurence
+5779456	fairhead, c\\'{e}cile
+5779456	fischer, gilles
+5779456	lafontaine, ingrid
+5779456	leh, v\\'{e}ronique
+5779456	lemaire, marc
+5779456	de montigny, jacky
+5779456	neuv\\'{e}glise, c\\'{e}cile
+5779456	thierry, agn\\`{e}s
+5779456	blanc-lenfle, isabelle
+5779456	bleykasten, claudine
+5779456	diffels, julie
+5779456	fritsch, emilie
+5779456	frangeul, lionel
+5779456	go\\"{e}ffon, adrien
+5779456	jauniaux, nicolas
+5779456	kachouri-lafond, rym
+5779456	payen, c\\'{e}lia
+5779456	potier, serge
+5779456	pribylova, lenka
+5779456	ozanne, christophe
+5779456	richard, guy-franck f.
+5779456	sacerdot, christine
+5779456	straub, marie-laure l.
+5779456	talla, emmanuel
+5802477	girardeau, gabrielle
+5802477	benchenane, karim
+5802477	wiener, sidney i.
+5802477	buzsaki, gyorgy
+5802477	zugaro, michael b.
+5832760	reich, david
+5832760	thangaraj, kumarasamy
+5832760	patterson, nick
+5832760	price, alkes l.
+5832760	singh, lalji
+5833633	gessler, damian
+5833633	schiltz, gary
+5833633	may, greg
+5833633	avraham, shulamit
+5833633	town, christopher
+5833633	grant, david
+5833633	nelson, rex
+5841463	halko, nathan
+5841463	martinsson, per-gunnar
+5841463	tropp, joel a.
+5870912	nayak, renuka r.
+5870912	kearns, michael
+5870912	spielman, richard s.
+5870912	cheung, vivian g.
+5876649	good, benjamin h.
+5876649	de montjoye, yves-alexandre
+5876649	clauset, aaron
+5933057	rio, gabriel d.
+5933057	koschutzki, dirk
+5933057	coello, gerardo
+5938416	kosakovsky pond, sergei
+5938416	wadhawan, samir
+5938416	chiaromonte, francesca
+5938416	ananda, guruprasad
+5938416	chung, wen-yu
+5938416	taylor, james
+5938416	nekrutenko, anton
+5938416	the galaxy team
+6008522	gouy, manolo
+6008522	guindon, st\\'{e}phane
+6008522	gascuel, olivier
+6054102	mcpherson, john d.
+6055159	lise, stefano
+6055159	archambeau, cedric
+6055159	pontil, massimiliano
+6055159	jones, david
+6056800	keiser, michael j.
+6056800	setola, vincent
+6056800	irwin, john j.
+6056800	laggner, christian
+6056800	abbas, atheir i.
+6056800	hufeisen, sandra j.
+6056800	jensen, niels h.
+6056800	kuijer, michael b.
+6056800	matos, roberto c.
+6056800	tran, thuy b.
+6056800	whaley, ryan
+6056800	glennon, richard a.
+6056800	hert, jerome
+6056800	thomas, kelan l. h.
+6056800	edwards, douglas d.
+6056800	shoichet, brian k.
+6056800	roth, bryan l.
+6058169	phelan, owen
+6058169	mccarthy, kevin
+6058169	smyth, barry
+6064489	michel, julien
+6064489	tirado-rives, julian
+6064489	jorgensen, william l.
+6095667	smith, vincent s.
+6095667	rycroft, simon d.
+6095667	harman, kehan t.
+6095667	scott, ben
+6095667	roberts, david
+6097099	homer, nils
+6097099	merriman, barry
+6097099	nelson, stanley f.
+6109252	agarwal, sumeet
+6109252	deane, charlotte m.
+6109252	porter, mason a.
+6109252	jones, nick s.
+6141998	lu, rong
+6141998	markowetz, florian
+6141998	unwin, richard d.
+6141998	leek, jeffrey t.
+6141998	airoldi, edoardo m.
+6141998	macarthur, ben d.
+6141998	lachmann, alexander
+6141998	rozov, roye
+6141998	ma/'ayan, avi
+6141998	boyer, laurie a.
+6141998	troyanskaya, olga g.
+6141998	whetton, anthony d.
+6141998	lemischka, ihor r.
+6172123	kapushesky, misha
+6172123	emam, ibrahim
+6172123	holloway, ele
+6172123	kurnosov, pavel
+6172123	zorin, andrey
+6172123	malone, james
+6172123	rustici, gabriella
+6172123	williams, eleanor
+6172123	parkinson, helen
+6172123	brazma, alvis
+6174642	kahraman, abdullah
+6174642	morris, richard j.
+6174642	laskowski, roman a.
+6174642	favia, angelo d.
+6174642	thornton, janet m.
+6221233	pinto, nicolas
+6221233	doukhan, david
+6221233	dicarlo, james j.
+6221233	cox, david d.
+6259589	nolis, ilias k.
+6259589	mckay, daniel j.
+6259589	mantouvalou, eva
+6259589	lomvardas, stavros
+6259589	merika, menie
+6259589	thanos, dimitris
+6285341	yakovenko, victor m.
+6285341	rosser, j. barkley
+6346056	grosseck, gabriela
+6387600	alexander, patrick a.
+6387600	he, yanan
+6387600	chen, yihong
+6387600	orban, john
+6387600	bryan, philip n.
+6390470	raines, kevin s.
+6390470	salha, sara
+6390470	sandberg, richard l.
+6390470	jiang, huaidong
+6390470	rodr\\'{\\i}guez, jose a.
+6390470	fahimian, benjamin p.
+6390470	kapteyn, henry c.
+6390470	du, jincheng
+6390470	miao, jianwei
+6401146	licatalosi, donny d.
+6401146	darnell, robert b.
+6411489	rebeiz, mark
+6411489	pool, john e.
+6411489	kassner, victoria a.
+6411489	aquadro, charles f.
+6411489	carroll, sean b.
+6434100	dudley, joel t.
+6434100	butte, atul j.
+6456651	pashler, harold
+6456651	mcdaniel, mark
+6456651	rohrer, doug
+6456651	bjork, robert
+6463427	ossowski, stephan
+6463427	schneeberger, korbinian
+6463427	lucas-lled\\'{o}, jos\\'{e} i.
+6463427	warthmann, norman
+6463427	clark, richard m.
+6463427	shaw, ruth g.
+6463427	weigel, detlef
+6463427	lynch, michael
+6531882	kandasamy, kumaran
+6531882	mohan, sujatha s.
+6531882	raju, rajesh
+6531882	keerthikumar, shivakumar
+6531882	kumar, ghantasala sameer s.
+6531882	venugopal, abhilash k.
+6531882	telikicherla, deepthi
+6531882	navarro, j. daniel
+6531882	mathivanan, suresh
+6531882	pecquet, christian
+6531882	gollapudi, sashi kanth k.
+6531882	tattikota, sudhir gopal g.
+6531882	mohan, shyam
+6531882	padhukasahasram, hariprasad
+6531882	subbannayya, yashwanth
+6531882	goel, renu
+6531882	jacob, harrys k.
+6531882	zhong, jun
+6531882	sekhar, raja
+6531882	nanjappa, vishalakshi
+6531882	balakrishnan, lavanya
+6531882	subbaiah, roopashree
+6531882	ramachandra, y. l.
+6531882	rahiman, b. abdul
+6531882	prasad, keshava s.
+6531882	lin, jian-xin x.
+6531882	houtman, jon c.
+6531882	desiderio, stephen
+6531882	renauld, jean-christophe c.
+6531882	constantinescu, stefan n.
+6531882	ohara, osamu
+6531882	hirano, toshio
+6531882	kubo, masato
+6531882	singh, sujay
+6531882	khatri, purvesh
+6531882	draghici, sorin
+6531882	bader, gary d.
+6531882	sander, chris
+6531882	leonard, warren j.
+6531882	pandey, akhilesh
+6569490	friston, karl
+6580456	wilhelm, brian t.
+6580456	marguerat, samuel
+6580456	goodhead, ian
+6580456	b\\"{a}hler, j\\"{u}rg
+6581403	lusk, richard w.
+6581403	eisen, michael b.
+6617284	karli\\'{c}, rosa
+6617284	chung, ho-ryun r.
+6617284	lasserre, julia
+6617284	vlahovicek, kristian
+6617284	vingron, martin
+6628158	young, matthew d.
+6628158	wakefield, matthew j.
+6628158	smyth, gordon k.
+6628158	oshlack, alicia
+6644901	agresti, jeremy j.
+6644901	antipov, eugene
+6644901	abate, adam r.
+6644901	ahn, keunho
+6644901	rowat, amy c.
+6644901	baret, jean-christophe
+6644901	marquez, manuel
+6644901	klibanov, alexander m.
+6644901	griffiths, andrew d.
+6644901	weitz, david a.
+6646501	milinkovitch, michel c.
+6646501	helaers, rapha\\"{e}l
+6646501	depiereux, eric
+6646501	tzika, athanasia c.
+6646501	gabald\\'{o}n, toni
+6651681	rasmussen, morten
+6651681	li, yingrui
+6651681	lindgreen, stinus
+6651681	pedersen, jakob s.
+6651681	albrechtsen, anders
+6651681	moltke, ida
+6651681	metspalu, mait
+6651681	metspalu, ene
+6651681	kivisild, toomas
+6651681	gupta, ramneek
+6651681	bertalan, marcelo
+6651681	nielsen, kasper
+6651681	gilbert
+6651681	wang, yong
+6651681	raghavan, maanasa
+6651681	campos, paula f.
+6651681	kamp, hanne m.
+6651681	wilson, andrew s.
+6651681	gledhill, andrew
+6651681	tridico, silvana
+6651681	bunce, michael
+6651681	lorenzen, eline d.
+6651681	binladen, jonas
+6651681	guo, xiaosen
+6651681	zhao, jing
+6651681	zhang, xiuqing
+6651681	zhang, hao
+6651681	li, zhuo
+6651681	chen, minfeng
+6651681	orlando, ludovic
+6651681	kristiansen, karsten
+6651681	bak, mads
+6651681	tommerup, niels
+6651681	bendixen, christian
+6651681	pierre, tracey l.
+6651681	gr\\~{a}¸nnow, bjarne
+6651681	meldgaard, morten
+6651681	andreasen, claus
+6651681	fedorova, sardana a.
+6651681	osipova, ludmila p.
+6651681	higham, thomas f. g.
+6651681	ramsey, christopher b.
+6651681	hansen, thomas
+6651681	nielsen, finn c.
+6651681	crawford, michael h.
+6651681	brunak, s\\~{a}¸ren
+6651681	sicheritz-pont\\~{a}{\\copyright}n, thomas
+6651681	villems, richard
+6651681	nielsen, rasmus
+6651681	krogh, anders
+6651681	wang, jun
+6651681	willerslev, eske
+6652871	buske, fabian a.
+6652871	bod\\~{a}{\\copyright}n, mikael
+6652871	bauer, denis c.
+6652871	bailey, timothy l.
+6678060	schuster, stephan c.
+6678060	miller, webb
+6678060	ratan, aakrosh
+6678060	tomsho, lynn p.
+6678060	giardine, belinda
+6678060	kasson, lindsay r.
+6678060	harris, robert s.
+6678060	petersen, desiree c.
+6678060	zhao, fangqing
+6678060	qi, ji
+6678060	alkan, can
+6678060	kidd, jeffrey m.
+6678060	sun, yazhou
+6678060	drautz, daniela i.
+6678060	bouffard, pascal
+6678060	muzny, donna m.
+6678060	reid, jeffrey g.
+6678060	nazareth, lynne v.
+6678060	wang, qingyu
+6678060	burhans, richard
+6678060	riemer, cathy
+6678060	wittekindt, nicola e.
+6678060	moorjani, priya
+6678060	tindall, elizabeth a.
+6678060	danko, charles g.
+6678060	teo, wee s.
+6678060	buboltz, anne m.
+6678060	zhang, zhenhai
+6678060	ma, qianyi
+6678060	oosthuysen, arno
+6678060	steenkamp, abraham w.
+6678060	oostuisen, hermann
+6678060	venter, philippus
+6678060	gajewski, john
+6678060	zhang, yu
+6678060	pugh, b. franklin
+6678060	makova, kateryna d.
+6678060	nekrutenko, anton
+6678060	mardis, elaine r.
+6678060	patterson, nick
+6678060	pringle, tom h.
+6678060	chiaromonte, francesca
+6678060	mullikin, james c.
+6678060	eichler, evan e.
+6678060	hardison, ross c.
+6678060	gibbs, richard a.
+6678060	harkins, timothy t.
+6678060	hayes, vanessa m.
+6678285	raj, arjun
+6678285	rifkin, scott a.
+6678285	andersen, erik
+6678285	van oudenaarden, alexander
+6714609	zhang, song
+6714609	cao, jing
+6714609	kong, y. megan
+6714609	scheuermann, richard h.
+6714735	pinto, maria
+6714735	cord\\'{o}n, jos\\'{e} a.
+6714735	g\\'{o}mez d\\'{\\i}az, raquel
+6728249	beisser, daniela
+6728249	klau, gunnar w.
+6728249	dandekar, thomas
+6728249	m\\"{u}ller, tobias
+6728249	dittrich, marcus t.
+6746962	chevenet, fran\\c{c}ois
+6746962	croce, olivier
+6746962	hebrard, maxime
+6746962	christen, richard
+6746962	berry, vincent
+6756679	robinson, mark d.
+6756679	oshlack, alicia
+6758508	aguilar, boris
+6758508	anandakrishnan, ramu
+6758508	ruscio, jory z.
+6758508	onufriev, alexey v.
+6763715	condie, tyson
+6763715	conway, neil
+6763715	alvaro, peter
+6763715	hellerstein, joseph m.
+6763715	elmeleegy, khaled
+6763715	sears, russell
+6765697	{abel}, t.
+6776856	zhang, zhengdong d.
+6776856	frankish, adam
+6776856	hunt, toby
+6776856	harrow, jennifer
+6776856	gerstein, mark
+6780233	battke, florian
+6780233	symons, stephan
+6780233	nieselt, kay
+6787348	berger, michael f.
+6787348	levin, joshua z.
+6787348	vijayendran, krishna
+6787348	sivachenko, andrey
+6787348	adiconis, xian
+6787348	maguire, jared
+6787348	johnson, laura a.
+6787348	robinson, james
+6787348	verhaak, roel g.
+6787348	sougnez, carrie
+6787348	onofrio, robert c.
+6787348	ziaugra, liuda
+6787348	cibulskis, kristian
+6787348	laine, elisabeth
+6787348	barretina, jordi
+6787348	winckler, wendy
+6787348	fisher, david e.
+6787348	getz, gad
+6787348	meyerson, matthew
+6787348	jaffe, david b.
+6787348	gabriel, stacey b.
+6787348	lander, eric s.
+6787348	dummer, reinhard
+6787348	gnirke, andreas
+6787348	nusbaum, chad
+6787348	garraway, levi a.
+6791333	swertz, morris a.
+6791333	velde, k. joeri van der
+6791333	tesson, bruno m.
+6791333	scheltema, richard a.
+6791333	arends, danny
+6791333	vera, gonzalo
+6791333	alberts, rudi
+6791333	dijkstra, martijn
+6791333	schofield, paul
+6791333	schughart, klaus
+6791333	hancock, john m.
+6791333	smedley, damian
+6791333	wolstencroft, katy
+6791333	goble, carole
+6791333	de brock, engbert o.
+6791333	jones, andrew r.
+6791333	parkinson, helen e.
+6791333	{coordination of mouse informatics resources (casimir)}
+6791333	{genotype-to-phenotype (gen2phen) consortiums}
+6791333	jansen, ritsert c.
+6807250	roach, jared c.
+6807250	glusman, gustavo
+6807250	smit, arian f. a.
+6807250	huff, chad d.
+6807250	hubley, robert
+6807250	shannon, paul t.
+6807250	rowen, lee
+6807250	pant, krishna p.
+6807250	goodman, nathan
+6807250	bamshad, michael
+6807250	shendure, jay
+6807250	drmanac, radoje
+6807250	jorde, lynn b.
+6807250	hood, leroy
+6807250	galas, david j.
+6889031	tranchevent, l\\'{e}on-charles
+6889031	capdevila, francisco b.
+6889031	nitsch, daniela
+6889031	de moor, bart
+6889031	de causmaecker, patrick
+6889031	moreau, yves
+6892271	jona-lasinio, giovanni
+6931396	mcmanus, c. joel
+6931396	coolon, joseph d.
+6931396	duff, michael o.
+6931396	eipper-mains, jodi
+6931396	graveley, brenton r.
+6931396	wittkopp, patricia j.
+6941278	jani, saurin d.
+6941278	argraves, gary l.
+6941278	barth, jeremy l.
+6941278	argraves, w. scott
+6976308	fanelli, daniele
+6983695	jolma, arttu
+6983695	kivioja, teemu
+6983695	toivonen, jarkko
+6983695	cheng, lu
+6983695	wei, gonghong
+6983695	enge, martin
+6983695	taipale, mikko
+6983695	vaquerizas, juan m.
+6983695	yan, jian
+6983695	sillanp\\"{a}\\"{a}, mikko j.
+6983695	bonke, martin
+6983695	palin, kimmo
+6983695	talukder, shaheynoor
+6983695	hughes, timothy r.
+6983695	luscombe, nicholas m.
+6983695	ukkonen, esko
+6983695	taipale, jussi
+7010698	miles, alistair
+7010698	zhao, jun
+7010698	klyne, graham
+7010698	white-cooper, helen
+7010698	shotton, david
+7013715	hajirasouliha, iman
+7013715	hormozdiari, fereydoun
+7013715	alkan, can
+7013715	kidd, jeffrey m.
+7013715	birol, inanc
+7013715	eichler, evan e.
+7013715	sahinalp, s. cenk
+7020706	ding, li
+7020706	ellis, matthew j.
+7020706	li, shunqiang
+7020706	larson, david e.
+7020706	chen, ken
+7020706	wallis, john w.
+7020706	harris, christopher c.
+7020706	mclellan, michael d.
+7020706	fulton, robert s.
+7020706	fulton, lucinda l.
+7020706	abbott, rachel m.
+7020706	hoog, jeremy
+7020706	dooling, david j.
+7020706	koboldt, daniel c.
+7020706	schmidt, heather
+7020706	kalicki, joelle
+7020706	zhang, qunyuan
+7020706	chen, lei
+7020706	lin, ling
+7020706	wendl, michael c.
+7020706	mcmichael, joshua f.
+7020706	magrini, vincent j.
+7020706	cook, lisa
+7020706	mcgrath, sean d.
+7020706	vickery, tammi l.
+7020706	appelbaum, elizabeth
+7020706	deschryver, katherine
+7020706	davies, sherri
+7020706	guintoli, therese
+7020706	lin, li
+7020706	crowder, robert
+7020706	tao, yu
+7020706	snider, jacqueline e.
+7020706	smith, scott m.
+7020706	dukes, adam f.
+7020706	sanderson, gabriel e.
+7020706	pohl, craig s.
+7020706	delehaunty, kim d.
+7020706	fronick, catrina c.
+7020706	pape, kimberley a.
+7020706	reed, jerry s.
+7020706	robinson, jody s.
+7020706	hodges, jennifer s.
+7020706	schierding, william
+7020706	dees, nathan d.
+7020706	shen, dong
+7020706	locke, devin p.
+7020706	wiechert, madeline e.
+7020706	eldred, james m.
+7020706	peck, josh b.
+7020706	oberkfell, benjamin j.
+7020706	lolofie, justin t.
+7020706	du, feiyu
+7020706	hawkins, amy e.
+7020706	o\\^{a}??laughlin, michelle d.
+7020706	bernard, kelly e.
+7020706	cunningham, mark
+7020706	elliott, glendoria
+7020706	mason, mark d.
+7020706	thompson, dominic m.
+7020706	ivanovich, jennifer l.
+7020706	goodfellow, paul j.
+7020706	perou, charles m.
+7020706	weinstock, george m.
+7020706	aft, rebecca
+7020706	watson, mark
+7020706	ley, timothy j.
+7020706	wilson, richard k.
+7020706	mardis, elaine r.
+7021637	langille, morgan g. i.
+7021637	eisen, jonathan a.
+7046614	owen, adrian m.
+7046614	hampshire, adam
+7046614	grahn, jessica a.
+7046614	stenton, robert
+7046614	dajani, said
+7046614	burns, alistair s.
+7046614	howard, robert j.
+7046614	ballard, clive g.
+7063829	doebeli, michael
+7063829	ispolatov, iaroslav
+7093894	shen, kui
+7093894	tseng, george c.
+7118071	beneventi, harald
+7118071	t{\\o}nnessen, finn e.
+7118071	ersland, lars
+7128750	auer, paul l.
+7128750	doerge, r. w.
+7192460	eichler, evan e.
+7192460	flint, jonathan
+7192460	gibson, greg
+7192460	kong, augustine
+7192460	leal, suzanne m.
+7192460	moore, jason h.
+7192460	nadeau, joseph h.
+7203908	katzman, sol
+7203908	kern, andrew d.
+7203908	pollard, katherine s.
+7203908	salama, sofie r.
+7203908	haussler, david
+7209028	fox, g.
+7220035	eklund, martin
+7220035	spjuth, ola
+7220035	wikberg, jarl e.
+7224150	schatz, michael c.
+7224150	delcher, arthur l.
+7224150	salzberg, steven l.
+7237686	nicholas, david
+7237686	williams, peter
+7237686	rowlands, ian
+7237686	jamali, hamid r.
+7262603	kemper, brian
+7262603	matsuzaki, takuya
+7262603	matsuoka, yukiko
+7262603	tsuruoka, yoshimasa
+7262603	kitano, hiroaki
+7262603	ananiadou, sophia
+7262603	tsujii, jun'ichi
+7262609	kunarso, galih
+7262609	chia, na-yu
+7262609	jeyakani, justin
+7262609	hwang, catalina
+7262609	lu, xinyi
+7262609	chan, yun-shen
+7262609	ng, huck-hui
+7262609	bourque, guillaume
+7343719	schneider, maria v.
+7343719	watson, james
+7343719	attwood, teresa
+7343719	rother, kristian
+7343719	budd, aidan
+7343719	mcdowall, jennifer
+7343719	via, allegra
+7343719	fernandes, pedro
+7343719	nyronen, tommy
+7343719	blicher, thomas
+7343719	jones, phil
+7343719	blatter, marie-claude
+7343719	javier de las rivas
+7343719	judge, david p.
+7343719	van der gool, wouter
+7343719	brooksbank, cath
+7351537	shotton, david
+7465908	chodroff, rebecca a.
+7465908	goodstadt, leo
+7465908	sirey, tamara m.
+7465908	oliver, peter l.
+7465908	davies, kay e.
+7465908	green, eric d.
+7465908	moln\\'{a}r, zolt\\'{a}n
+7465908	ponting, chris p.
+7470021	gregg, christopher
+7470021	zhang, jiangwen
+7470021	weissbourd, brandon
+7470021	luo, shujun
+7470021	schroth, gary p.
+7470021	haig, david
+7470021	dulac, catherine
+7493416	buljan, marija
+7493416	frankish, adam
+7493416	bateman, alex
+7511505	siegel, justin b.
+7511505	zanghellini, alexandre
+7511505	lovick, helena m.
+7511505	kiss, gert
+7511505	lambert, abigail r.
+7511505	st
+7511505	gallaher, jasmine l.
+7511505	hilvert, donald
+7511505	gelb, michael h.
+7511505	stoddard, barry l.
+7511505	houk, kendall n.
+7511505	michael, forrest e.
+7511505	baker, david
+7515324	bare, j. christopher
+7515324	koide, tie
+7515324	reiss, david j.
+7515324	tenenbaum, dan
+7515324	baliga, nitin s.
+7577931	surget-groba, yann
+7577931	montoya-burgos, juan i.
+7730675	manichanh, chaysavanh
+7730675	reeder, jens
+7730675	gibert, prudence
+7730675	varela, encarna
+7730675	llopis, marta
+7730675	antolin, maria
+7730675	guigo, roderic
+7730675	knight, rob
+7730675	guarner, francisco
+7811569	pelak, kimberly
+7811569	shianna, kevin v.
+7811569	ge, dongliang
+7811569	maia, jessica m.
+7811569	zhu, mingfu
+7811569	smith, jason p.
+7811569	cirulli, elizabeth t.
+7811569	fellay, jacques
+7811569	dickson, samuel p.
+7811569	gumbs, curtis e.
+7811569	heinzen, erin l.
+7811569	need, anna c.
+7811569	ruzzo, elizabeth k.
+7811569	singh, abanish
+7811569	campbell, c. ryan
+7811569	hong, linda k.
+7811569	lornsen, katharina a.
+7811569	mckenzie, alexander m.
+7811569	sobreira, nara l. m.
+7811569	hoover-fong, julie e.
+7811569	milner, joshua d.
+7811569	ottman, ruth
+7811569	haynes, barton f.
+7811569	goedert, james j.
+7811569	goldstein, david b.
