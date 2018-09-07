@@ -72,7 +72,7 @@ class CollaborativeDeepLearning:
 
         # item embedding
         item_InputLayer = Input(shape=(1,), dtype='int32', name='item_input')
-        item_OffsetVector = Embedding(input_dim=num_item, output_dim=self.embedding_dim, input_length=1, name='item_offset_vector', embeddings_regularizer=l2(lamda_v), embeddings_initializer=RandomNormal(mean=0, stddev=1))(item_InputLayer)
+        item_OffsetVector = Embedding(input_dim=num_item, output_dim=self.embedding_dim, input_length=1, name='item_embedding', embeddings_regularizer=l2(lamda_v), embeddings_initializer=RandomNormal(mean=0, stddev=1))(item_InputLayer)
         item_OffsetVector = Flatten(name='item_flatten')(item_OffsetVector)
         item_EmbeddingLayer = Add()([encoded, item_OffsetVector]) 
         
